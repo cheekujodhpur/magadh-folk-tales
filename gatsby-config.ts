@@ -28,7 +28,16 @@ const config: GatsbyConfig = {
       "path": "./src/pages/"
     },
     __key: "pages"
-  }]
+  }, {
+    resolve: 'gatsby-source-filesystem',
+    options: {
+      "name": "stories",
+      "path": "./src/stories/"
+    },
+    __key: "stories"
+  },
+   "gatsby-transformer-remark"
+  ]
 };
 
 export default config;
