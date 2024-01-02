@@ -10,6 +10,8 @@ export default function StoryTemplate({
     <div>
       <div class="container mx-auto px-4">
         <h2 class="text-2xl font-bold">{frontmatter.title}</h2>
+        <h3 class="text-xl">{frontmatter.section}</h3>
+        <p><i>Based on {frontmatter.source} by {frontmatter.author}</i></p>
         <div class="container mx-auto my-4"
           dangerouslySetInnerHTML={{ __html: html }}
         />
@@ -24,6 +26,9 @@ export const query = graphql`
       html
       frontmatter {
         slug
+        source
+        author
+        section
         title
       }
     }
