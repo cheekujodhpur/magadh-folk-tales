@@ -7,13 +7,15 @@ const IndexPage: React.FC<PageProps> = (props) => {
   console.log(allStories)
   return (
     <div>
-      {
-        allStories.map(story => (
-          <Link to={`/stories${story.frontmatter.slug}`}>
-            {story.frontmatter.title}
-          </Link>
-        ))
-      }
+      <ul>
+        {
+          allStories.map(story => (
+            <li><Link to={`/stories${story.frontmatter.slug}`}>
+              {story.frontmatter.title}
+            </Link></li>
+          ))
+        }
+      </ul>
     </div>
   )
 }
