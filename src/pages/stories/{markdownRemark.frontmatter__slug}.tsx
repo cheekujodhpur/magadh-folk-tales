@@ -8,11 +8,11 @@ export default function StoryTemplate({
   const { frontmatter, html } = markdownRemark
   return (
     <div>
-      <div class="container mx-auto px-4">
-        <h2 class="text-2xl font-bold">{frontmatter.title}</h2>
-        <h3 class="text-xl">{frontmatter.section}</h3>
+      <div className="container mx-auto my-10 px-4">
+        <h2 className="text-2xl font-bold">{frontmatter.title}</h2>
+        <h3 className="text-xl">{frontmatter.section}</h3>
         <p><i>Based on {frontmatter.source} by {frontmatter.author}</i></p>
-        <div class="container mx-auto my-4"
+        <div className="container mx-auto my-4"
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </div>

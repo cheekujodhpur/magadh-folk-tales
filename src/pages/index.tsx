@@ -4,18 +4,20 @@ import { Link, graphql } from "gatsby"
 
 const IndexPage: React.FC<PageProps> = (props) => {
   const allStories = props.data.allMarkdownRemark.nodes
-  console.log(allStories)
   return (
-    <div>
-      <ul>
+    <div className="container mx-auto my-10">
+      <div className="gap-8 md:columns-3">
         {
           allStories.map(story => (
-            <li><Link to={`/stories${story.frontmatter.slug}`}>
-              {story.frontmatter.title}
-            </Link></li>
+            <div>
+              <Link to={`/stories${story.frontmatter.slug}`}
+                    className="block border rounded shadow-lg my-2 p-4">
+                {story.frontmatter.title}
+              </Link>
+            </div>
           ))
         }
-      </ul>
+      </div>
     </div>
   )
 }
@@ -23,7 +25,7 @@ const IndexPage: React.FC<PageProps> = (props) => {
 
 export const query = graphql`
   query StoryQuery {
-    allMarkdownRemark {
+    allMarkdownRemark(sort: {frontmatter: {slug: ASC}}) {
       nodes {
         frontmatter {
           title
