@@ -2873,7 +2873,7 @@ type StoryContentQueryQuery = { readonly markdownRemark: { readonly html: string
 type StoryQueryQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-type StoryQueryQuery = { readonly allMarkdownRemark: { readonly nodes: ReadonlyArray<{ readonly frontmatter: { readonly title: string | null, readonly slug: string | null } | null }> } };
+type StoryQueryQuery = { readonly allMarkdownRemark: { readonly group: ReadonlyArray<{ readonly fieldValue: string | null, readonly edges: ReadonlyArray<{ readonly node: { readonly frontmatter: { readonly title: string | null, readonly slug: string | null } | null } }> }> } };
 
 
 }
