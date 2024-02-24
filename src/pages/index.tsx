@@ -4,21 +4,25 @@ import { Link, graphql } from "gatsby"
 
 const IndexPage: React.FC<PageProps> = (props) => {
   const allStories = props.data.allMarkdownRemark.group;
+  // MARK: Slug is using // path
   return (
-    <div className="container mx-auto my-10">
-      {allStories.map(section => (
-        <div className="mx-2 grid grid-cols-1 md:grid-cols-3 gap-2">
-        <h3 className="text-2xl font-bold col-span-3">{section.fieldValue}</h3>
-          {section.edges.map(edge => (
-            <div>
-              <Link to={`/stories${edge.node.frontmatter.slug}`}
-                    className="block border rounded shadow-md my-2 p-4">
-                {edge.node.frontmatter.title}
-              </Link>
-            </div>
-          ))}
-        </div>
-      ))}
+    <div>
+      <div className="container mx-auto my-10">
+        <h1 className="text-3xl mx-2 my-5">Magadh Folk Tales</h1>
+        {allStories.map(section => (
+          <div className="mx-2 grid grid-cols-1 md:grid-cols-3 gap-2">
+            <h3 className="text-2xl font-bold md:col-span-3">{section.fieldValue}</h3>
+            {section.edges.map(edge => (
+              <div>
+                <Link to={`/stories${edge.node.frontmatter.slug}`}
+                  className="block border rounded shadow-md my-2 p-4">
+                  {edge.node.frontmatter.title}
+                </Link>
+              </div>
+            ))}
+          </div>
+        ))}
+      </div>
     </div>
   );
 }
