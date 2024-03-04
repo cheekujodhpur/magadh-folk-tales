@@ -1,3 +1,4 @@
+---
 slug: "/mft-chunnilal-munnilal"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
