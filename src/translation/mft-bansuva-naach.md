@@ -1,0 +1,27 @@
+Once upon a time, there was a king and a minister's son. They were very close friends and lived and studied together. After becoming educated and clever, they both decided to find out if their parents had arranged their marriages in childhood. They agreed to ask their mothers, so one would ask the other's mother while the other would do the same. They happily learned that both of them had indeed been married off as children. 
+
+They set off together on horses, heading towards their in-laws' home. While riding, they reached a crossroads and decided to pause and think about which road to take. The king's son asked why they were stopping, and the minister's son replied that he was feeling lonely. He suggested that if the king's son wanted, they could go together, or if not, he would go alone. The king's son agreed, saying, "Alright, let's go together to my in-laws."
+
+The minister's son turned his horse around and they reached the king's in-laws' house. After washing their hands and feet, they went home and had some food before retiring to their bungalow. In the evening, they were invited back for dinner. After eating, they returned to the bungalow to relax. The minister's son remarked, "Friend, it'll soon be time for the queen's gathering; soon you will leave, and I will be left here alone." The king laughed and said, "Your in-laws are as good as mine. I will take you to the queen's gathering." The minister's son cautioned him not to joke about it, saying, "You must take me with you!" The king insisted he'd definitely take him. But what if people get suspicious on the way?
+
+The minister's son replied, "Yes, they might! But do you know that no one knows where anyone's family resides? However, it remains hidden behind a veil."
+
+When the time for the queen's gathering came, the two friends entered. They separated with a curtain in their shared home and fell asleep. The king's son was soon fast asleep while the minister's son stayed awake. The queen quietly rose and went to the kitchen, where she gathered a plate of six types of food, and then went outside. 
+
+Seeing this, the minister's son followed the queen. He watched as she entered the house of a demon in the middle of the forest. He stopped at the doorway and began to observe everything. 
+
+As the queen was inside, she began to eat. The demon, noticing her, asked why she had come so late. The queen explained her circumstances regarding her husband. They spoke, and as the night ended, the queen got up to return home, and the minister's son had also fallen asleep in his home.
+
+The next day, the king and the minister's son went to the riverbank. The king asked, "Why are you looking so sad, friend?" The minister's son recounted all that had happened the previous night and added, "I'm worried I won't survive." The king suggested they leave, but the minister's son replied, "No, let’s stay a few more days and observe the queen's behavior." That day, the minister's son explored the route to the demon's house. 
+
+At night, both friends returned to the queen's gathering, and after the king had been oiled, he fell asleep. Meanwhile, the minister's son had already gone to the demon’s house and fell asleep under the bed. When the queen arrived, the demon woke up and began to eat, offering the queen a red fruit, saying, "As long as I eat, you must eat this fruit too." The queen asked who had given her the fruit and what it was called. The demon explained that it was a fruit given to his sister by Lord Vishun and that he thought he would give it to the queen. The queen kept the fruit hidden under the bed, which the minister's son later took and went outside to listen in.
+
+When it was dark, the queen returned home and fell asleep on the king's bed. 
+
+The following day, both friends went to the field and discussed the previous night events. The minister's son said, "Today I believe everyone’s life is at risk." The king suggested they should flee. The minister cautioned that escaping would surely lead to danger. When the king asked how to save themselves, the minister proposed building a small hut near the demon’s place and painting a gate leading to the demon's house. "I will keep watch," he said. All preparations were made. 
+
+The red fairy came to the mortal world and, upon seeing the minister’s son cheating with a woman, struck him with a stick. The minister's son got up and asked her who she was and what she was doing. He replied that he was the king's servant and that he was there to witness a dance. The red fairy also wanted to see the dance and asked, "When will it take place?" The minister informed her that it would take place next year, but this year was almost over.
+
+Tempted to witness the dance, the red fairy asked Lord Vishun for another year. Meanwhile, the minister's son became worried about finding the dancer for the performance. With that thought in mind, he went to tell the king. 
+
+As he was going, he entered a forest. There, beneath a tree, he stopped. In that tree lived a bird that lay an egg daily, but a snake devoured it. Today, the python reached the tree, and the minister's son quickly pulled out his sword and stabbed it three or four times. Delighted, the bird began to feed her chick, realizing it was safe from danger, and thanked him for saving her life.

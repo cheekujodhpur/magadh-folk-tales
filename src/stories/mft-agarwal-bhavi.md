@@ -1,10 +1,13 @@
 ---
-slug: "/mft-agarwal-bhavi"
+slug: "mft-agarwal-bhavi"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "अगरवाल के बेटा"
+tags: "family, ambition, magic, marriage, humor"
 ---
+The story revolves around the Agarwal family, particularly their son who, after his father's death, starts working with little money. Instead of seeking a traditional job, he opens a small shop and gradually succeeds. He encounters a mysterious old woman who prophesizes that he will get married that night. Although he initially responds with aggression, he finds himself magically transported to a kingdom where he marries a princess. After the wedding, he cleverly prepares a meal that impresses everyone, but he sneaks back home before anyone realizes he has left. Ultimately, he returns for a post-marriage ritual, leading to a humorous confrontation between his marital claim and another suitor. The tale highlights themes of ambition, magic, and unexpected circumstances in pursuit of love and success.
+
 एगो अगरवाल हल। ओकरा एगो लड़का हल । बाप के मरला पर लड़कावा तीन पइसा के नोकरी करे लगल । दू पाई में ओकर मतारी सब खर्चा चलावे आउ एक पाई बचावे। एक दिन अगरवलवा माय से कहलक कि कुछ पइसा दऽ तो नोकरी करे जाईं। माय ओकरा एगो रोपेआ देलक। बेटा नोकरी न करके दोकान कर लेलक । एक रोपेआ में हरदी धनिया-चतपतई लान के बेचे लगल । जब ओकर दोकान चल गेल तो ऊ बाहर से समान लान के बेचे लगल । 
 
 एक तुरी बाहर जाइत खानी एगो बुढ़िया के तीन लड़की पर तीन चिरु पानी उबिछइत देखलक। ऊ कभी हँसे, कभी रोवे, कभी गीत गावे । ऊ चुपचाप देखलक आउ फिन पूछलक कि तू का करइत हें । बुढ़िया कहलक कि तोर काम हवऽ से तू करऽ, हमर काम जेहे से हम करइत ही । अगरवाल के बेटा कहलक कि जब तक न बतयबे तब तक हम इहाँ से न जबउ । बुढ़िया कहलक कि हम 'भावी' ( One who knows future ) ही। फिन लकड़हरवा पूछलक कि हमर सादी होयल हे कि ना ? बुढ़िया कहलक कि ना, बाकि आज रात के हो जतवऽ । एकरा पर खिसिया के अगरवलवा के बेटा ओकरा तीन लाती मारलक तो बुढ़िया कहलक कि मार चाहे कुछ करऽ बाकि आज रात के तोर सादी जरूर हो जतवऽ । फिन ऊ सर-समान लेके चलल तो रस्ते में रात हो गेल । ऊ एगो पीपर के खोड़रा में लुका गेल।

@@ -1,5 +1,5 @@
 ---
-slug: "/mft-kana-beta"
+slug: "mft-kana-beta"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "मनोरंजक कथा"

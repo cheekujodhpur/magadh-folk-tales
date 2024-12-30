@@ -1,4 +1,4 @@
-slug: "/mft-rajkumari-dom"
+slug: "mft-rajkumari-dom"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "प्रेम-कथा"

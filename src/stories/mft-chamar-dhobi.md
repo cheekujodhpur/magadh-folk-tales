@@ -1,5 +1,5 @@
 ---
-slug: "/mft-chamar-dhobi"
+slug: "mft-chamar-dhobi"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "वर्णाश्रम-कथा"

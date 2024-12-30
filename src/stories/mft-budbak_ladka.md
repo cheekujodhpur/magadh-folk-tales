@@ -1,5 +1,5 @@
 ---
-slug: "/mft-budbak_ladka"
+slug: "mft-budbak_ladka"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "मनोरंजक कथा"

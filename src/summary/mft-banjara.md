@@ -1,0 +1,5 @@
+The story follows a banjara (nomadic trader) who faces misfortune after losing his goods in a flood and becomes poor, selling wood to survive. He discovers two red eggs in a tree while gathering wood and gives them to his sons. They sell one of the eggs for a high price, convincing their father to bring home the bird that laid the eggs. However, a merchant manipulates the situation and eventually cooks the bird, leading the brothers to flee. 
+
+The elder brother marries a princess, while the younger brother becomes successful by producing red eggs. He encounters a sage and uses his wisdom to acquire magical items that he cleverly uses to reclaim the heart of the bird from the merchant, thereby restoring the red egg production. The brothers eventually reunite, transform a donkey into a princess using magic, and reclaim their rightful place in the kingdom, ultimately bringing their parents back home.
+
+The tale emphasizes themes of resilience, cleverness, and the importance of family, concluding with the brothers ruling together in happiness.

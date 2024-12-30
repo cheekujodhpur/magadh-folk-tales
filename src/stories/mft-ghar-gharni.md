@@ -1,5 +1,5 @@
 ---
-slug: "/mft-ghar-gharni"
+slug: "mft-ghar-gharni"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "नीति कथा"

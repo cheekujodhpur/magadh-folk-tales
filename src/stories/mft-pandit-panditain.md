@@ -1,5 +1,5 @@
 ---
-slug: "/mft-pandit-panditain"
+slug: "mft-pandit-panditain"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "वर्णाश्रम-कथा"

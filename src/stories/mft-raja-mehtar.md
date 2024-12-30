@@ -1,4 +1,4 @@
-slug: "/mft-raja-mehtar"
+slug: "mft-raja-mehtar"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "प्रेम-कथा"

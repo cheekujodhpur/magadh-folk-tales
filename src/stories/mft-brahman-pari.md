@@ -1,5 +1,5 @@
 ---
-slug: "/mft-brahman-pari"
+slug: "mft-brahman-pari"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अर्थ-कथा"

@@ -1,5 +1,5 @@
 ---
-slug: "/mft-chalank-siyar"
+slug: "mft-chalank-siyar"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "नीति कथा"

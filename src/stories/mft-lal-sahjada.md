@@ -1,5 +1,5 @@
 ---
-slug: "/mft-lal-sahjada"
+slug: "mft-lal-sahjada"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"

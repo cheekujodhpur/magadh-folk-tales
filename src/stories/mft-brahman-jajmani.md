@@ -1,5 +1,5 @@
 ---
-slug: "/mft-brahman-jajmani"
+slug: "mft-brahman-jajmani"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "वर्णाश्रम-कथा"

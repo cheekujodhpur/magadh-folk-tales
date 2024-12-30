@@ -1,5 +1,5 @@
 ---
-slug: "/mft-khopadi-mol"
+slug: "mft-khopadi-mol"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "नीति कथा"

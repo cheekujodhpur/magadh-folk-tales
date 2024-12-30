@@ -1,5 +1,5 @@
 ---
-slug: "/mft-udan-chhatri"
+slug: "mft-udan-chhatri"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"

@@ -1,5 +1,5 @@
 ---
-slug: "/mft-rajabeta-neur"
+slug: "mft-rajabeta-neur"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अर्थ-कथा"

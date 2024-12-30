@@ -1,4 +1,4 @@
-slug: "/mft-phoolkumari"
+slug: "mft-phoolkumari"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "प्रेम-कथा"

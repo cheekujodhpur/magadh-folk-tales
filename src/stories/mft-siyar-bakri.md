@@ -1,5 +1,5 @@
 ---
-slug: "/mft-siyar-bakri"
+slug: "mft-siyar-bakri"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "नीति कथा"

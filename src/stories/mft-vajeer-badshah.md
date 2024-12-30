@@ -1,5 +1,5 @@
 ---
-slug: "/mft-vajeer-badshah"
+slug: "mft-vajeer-badshah"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "मनोरंजक कथा"

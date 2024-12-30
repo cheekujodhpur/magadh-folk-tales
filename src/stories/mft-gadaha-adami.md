@@ -1,5 +1,5 @@
 ---
-slug: "/mft-gadaha-adami"
+slug: "mft-gadaha-adami"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "मनोरंजक कथा"

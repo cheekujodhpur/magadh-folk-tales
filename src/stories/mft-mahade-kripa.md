@@ -1,4 +1,4 @@
-slug: "/mft-mahade-kripa"
+slug: "mft-mahade-kripa"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "प्रेम-कथा"

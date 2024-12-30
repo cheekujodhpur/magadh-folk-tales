@@ -1,5 +1,5 @@
 ---
-slug: "/mft-kutta-gadaha"
+slug: "mft-kutta-gadaha"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "नीति कथा"

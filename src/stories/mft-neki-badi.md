@@ -1,5 +1,5 @@
 ---
-slug: "/mft-neki-badi"
+slug: "mft-neki-badi"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "मनोरंजक कथा"

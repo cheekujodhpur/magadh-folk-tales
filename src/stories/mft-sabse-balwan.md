@@ -1,5 +1,5 @@
 ---
-slug: "/mft-sabse-balwan"
+slug: "mft-sabse-balwan"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "मनोरंजक कथा"
