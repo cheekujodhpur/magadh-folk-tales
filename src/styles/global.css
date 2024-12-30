@@ -6,3 +6,7 @@
   font-family: "Mangal";
   src: url("/fonts/mangal.ttf");
 }
+
+p {
+  margin-bottom: 1em;
+}
