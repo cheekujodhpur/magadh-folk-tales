@@ -14,3 +14,8 @@ npm run build
 aws s3 sync public s3://magadh-folk-tales --delete
 ```
 
+### To Do
+vibe images
+footnotes
+summary in frontmatter
+translations side by side
