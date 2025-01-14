@@ -1,5 +1,0 @@
-The story is set in a city where the king has mandated that all goods must be sold at the same price, leading to absurd and unjust situations. A saint and his disciple visit the city, and the disciple expresses his disdain for the king's foolish policies, ultimately choosing to leave. 
-
-Meanwhile, a wealthy merchant is caught stealing and is killed in an accident related to his crime. His wife's complaint leads to a convoluted series of blame among various parties, including the earth-mover and others connected to the incident. Each party attempts to evade responsibility, showing the absurdity of the king's judicial system.
-
-In a twist, a frail man is brought before the king to be hanged, but when the noose does not fit, the king orders a stronger man to be executed instead. The old man's disciple devises a scheme, claiming that whoever is hanged first will become the ruler of all seven islands. This declaration incites the king's vanity, and in a fit of misguided enthusiasm, the king decides to hang himself, highlighting the ridiculousness of the situation. The story serves as a satire on justice and the foolishness that can arise from absolute authority.

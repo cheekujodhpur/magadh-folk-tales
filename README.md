@@ -14,8 +14,12 @@ npm run build
 aws s3 sync public s3://magadh-folk-tales --delete
 ```
 
+For major changes to pages, run
+```
+npm run clean
+```
+
 ### To Do
-vibe images
+write in about page
+pick good font for English
 footnotes
-summary in frontmatter
-translations side by side

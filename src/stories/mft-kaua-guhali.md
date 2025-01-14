@@ -4,7 +4,12 @@ source: "मगध की लोक कथाएं : अनुशाीलन �
 author: "डॉ. राम प्रसाद सिंह"
 section: "नीति कथा"
 title: "कउआ आउ गुहली"
+tags: "hen, crow, justice, consequences, fable"
 ---
+<blockquote>
+The story revolves around a hen that lays eggs daily, which a crow continuously breaks and eats. In an attempt to distract the crow, the hen tells it to wash its face in the Ganges, initiating a chain of events where the crow seeks various items (like a clay pot and a deer horn) through a series of increasingly complex requests. Eventually, the crow's quest leads it to a blacksmith, where it is burnt while trying to take a red sickle. The story concludes with the hen's eggs hatching, signifying that those who harm others ultimately face consequences, highlighting lessons about justice and the repercussions of one's actions.
+</blockquote>
+
 एगो पेड़ पर गुहली हल। ऊ रोज एगो अंडा दे हल। ओही पेड़ पर एगो कउआ रहऽ हल। ऊ रोज गुहलिया के अंडवा फोर के खा जाय। एक दिन गुहलिया कहलक कि ''गंगा जी से ठोर धोके अयवें, तो अंडा फोरे देवउऽ!'' कउआ गंगा जी में ठोर धोवे गेल आउ गंगा जी से बोलल-
 *गंगली! गंगली! दे पंडुली, ठोर धोवानी खा गुहली के बच्चा रे चेंव-चेंव!* 
 गंगा जी कउआ से कहलन कि जो ''कुम्हार हीं से चुक्का माँग के ले आवऽ।'’ ऊ कुम्हार हीं गेल आउ कहलक -
@@ -31,3 +36,43 @@ title: "कउआ आउ गुहली"
 
 तब लोहरा पूछकई कि लाल हँसुआ लेवे कि करिआ। कउआ के लाले हँसुआ पसन्द भेल, आउ कहलक कि ललके दे दऽ। लोहरा कहलक कि काहाँ लेवें? कउआ 
 कहलक ''घेंचिया पर दे दऽ, लेके चल जायब!'' लोहार लहलह आग में से निकाल के लाल हँसुआ कउआ के घेंची पर रख देलक। कउआ ओही जगह जर के भूँसा हो गेल। ऊ दिन से गुहली के अण्डा में से बच्चा फूट के निकले लगल आउ बढ़े लगल। दोसरा के जान मारेओलन के जिनगी भर परेसानी उठावे पड़ऽ हे, आउ आखिर में अप्पन जानों देवे पड़ऽ हे। अइसहीं न कउआ के जान गेल! 
+
+<details>
+<summary>See translation</summary>
+
+Once there was a hen on a tree. It laid an egg every day. On the same tree lived a crow. Every day, the crow would break the hen's egg and eat it. One day, the hen said, "If you go wash your face in the Ganges, I will let you break the egg!" The crow went to the Ganges to wash its face and spoke:
+
+*"Ganguly! Ganguly! Give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+Then the Ganges told the crow, "Go get a clay pot from the potter." The crow went to the potter and said:
+
+*"Potter! Potter! Give me a pot, take Gangully, give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+Then the potter said to the crow, "If you bring mud from the pot, then I will give you a pot!" The crow flew off and went to the pot, saying:
+
+*"Mud, mud! Give me mud. Take it, potter, give me a pot, take Gangully, give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+Then the pot told the crow, "Go get a deer horn, then I will give it to you!" So, the crow went to a deer and said:
+
+*"Deer! Deer! Give me your horn, I will break the pot, take it, potter, give me a pot, take Gangully, give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+Then the deer said, "Bring a dog to fight! Then I will break the horn!" The crow went to the dog and said:
+
+*"Dog! Dog! Fight against the deer, break the horn, I will break the pot, take it, potter, give me a pot, take Gangully, give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+The dog replied, "Go fetch some cow's milk! Then I will drink it and fight the deer!" 
+
+The crow flew off to the cow and said:
+
+*"Cow! Cow! Give me milk, let the dog drink it, fight the deer, break the horn, I will break the pot, take it, potter, give me a pot, take Gangully, give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+Then the cow said, "Bring some grass! Then I will give you milk!" The crow went to the grass and said:
+
+*"Grass! Grass! Give me grass, eat the cow, give me milk, let the dog drink it, fight the deer, break the horn, I will break the pot, take it, potter, give me a pot, take Gangully, give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+The grass said, "Go get a sickle from the blacksmith! Then I will give it to you!" The crow went to the blacksmith and said:
+
+*"Blacksmith! Blacksmith! Give me a sickle, break the grass, eat the cow, give me milk, let the dog drink it, fight the deer, break the horn, I will break the pot, take it, potter, give me a pot, take Gangully, give me a little, wash your face and eat the hen's chick, hey chirp-chirp!"*
+
+Then the blacksmith asked whether to take a red sickle or a black one. The crow liked the red sickle and said to give it to him. The blacksmith asked where to get it. The crow said, "Just put it on the edge; I will take it!" The blacksmith took out a red sickle from the flames and placed it on the edge for the crow. The crow then got burnt there. From that day on, the hen's egg started hatching, and the chicks began to grow. Those who harm others end up facing troubles throughout their lives and ultimately lose their own lives. Thus, the crow met its end!
+</details>

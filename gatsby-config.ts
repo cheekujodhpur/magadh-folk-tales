@@ -36,21 +36,6 @@ const config: GatsbyConfig = {
     },
     __key: "stories"
   }, {
-    resolve: 'gatsby-source-filesystem',
-    options: {
-      "name": "translation",
-      "path": "./src/translation"
-    },
-    __key: "translation"
-  }, {
-    resolve: 'gatsby-source-filesystem',
-    options: {
-      "name": "summary",
-      "path": "./src/summary"
-    },
-    __key: "summary"
-  },
-  {
     "resolve": `gatsby-transformer-remark`,
     "options": {
       "excerpt_separator": `<!-- end -->`

@@ -1,9 +1,21 @@
+---
 slug: "mft-sant-basant"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "प्रेम-कथा"
 title: "चतुर राजकुमारी"
+tags: "friendship, betrayal, loyalty, cycles of life, brotherly love"
 ---
+<blockquote>
+The story revolves around the themes of friendship, betrayal, and loyalty, beginning with a cow and a lioness who become entangled in a tragic fate. The lioness, motivated by the sweetness of the cow's foam, kills the cow thinking its meat will be even sweeter. This act leads to her own demise when her cub kills her, seeking revenge after learning the truth about his mother's betrayal.
+
+Following these events, the lion cub and the surviving calf form a bond, but misunderstandings lead to tragedy when the calf, captured by a hunter, is ultimately killed. The lion, devastated by the loss of his friend, joins the calf in death by jumping onto the funeral pyre.
+
+From their ashes, two bamboos grow, leading to the birth of two boys who are later raised by a king. The queen, jealous of the boys, plots their demise, but the king's men, swayed by an old man's wisdom, spare them and instead bring back the hearts of animals to satisfy the queen. 
+
+The elder brother, searching for his sibling, eventually offers a reward for the story of "Sant and Basant," which only his brother knows. Disguised, he narrates the tale, allowing them to reunite, and they return to their kingdoms, each ruling with wisdom and kindness. The story encapsulates the cycles of life, the consequences of betrayal, and the enduring power of brotherly love.
+</blockquote>
+
 एगो जंगल में गाय आउ सेरनी रहऽ हले । दूनो में खूब दोस्ती हले । दूनो के एगो के दोसर बिना चैन न रहऽ हले। एको छन दूनो अलगे न हो हलन। दूनो गाभिन होयलन आउ दूनो के बच्चा जलमल । ऊ दूनो के बचवन में ही खूब इयारी हो गेल । दूनो एके साथ रहे, खाय-पीय आउ खेले। गते गते ओहनी सेआन हो गेलन । 
 
 एक दिन गइया आउ सेरनिया एगो झरना में पानी पीअइत हले। गइया उपरे आउ सेरनिया नीचे पीअइत हले। गइया के मुँहमो के लेरवा सेरनिया के मुँहमाँ में पनिया के साथे गेल। ओकरा बड़ी मीठा लगल । सेरनिया सोचलक कि जेकर लारे एतना मीठा हे, ओकर माँस केतना मीठा होतई । ई सोच के सेरनिया गइया के मार के ओकर माँस खा गेल । ऊ आन के अकेले अप्पन माँद में बइठल हल कि ओकर बचवा आउ बछड़वा आयल । सेरवा अप्पन मइया से पूछलक कि 'मइया, मँउसी न हउ' त सेरनिया बोलवे न करे। 
@@ -25,3 +37,20 @@ title: "चतुर राजकुमारी"
 बसंत घूमते-घूमते एगो दोसर राज में चल गेल । ऊ राज में रात खानी एगो राक्षसनी आवऽ हल, जे गाँव के लोग के खा जा हल। राज उजाड़ हो जा रहल हल । कोई ओकरा डर के मारे के उहाँ रुके के हिम्मत न करऽ हल । राजा ढोल पिटा देलक हल कि जे ओकरा मार देत ओकरा आधा राज दे देव । बाकि कोई न तैयार हो हल । बसंत ओही सहर के बगीचे में पहुँच गेल। रात में बसंत एगो रोसनी देखलक तो पेड़ पर चढ़ गेल । तइयो ऊ राछसनी बसंत के सऊँसे निगल गेल। बसंत राक्षसनी के पेटे में छुरी निकाल के ओके चीरे लगल। राक्षसनी चिल्लाय लगल आउ सहर के ओर दउड़ल। सहर के लोग छिप के देखलन कि राक्षसनी बीच सहर में जाके चित्ते गिर गेल, आउ बसंत ओकर पेट चीर के जीते जी बाहर निकल गेल। राक्षसनी मर गेल। सहर के सब लोग बड़ी खुस होयलन आउ ओहनी बसंत के राजा के घरे ले गेलन । राजा बड़ी खुस होके ओकरा आधा राज-पाट दे देलक आउ अप्पन बेटी से बिआहो कर देलक । बसंत सुख-चैन से उहाँ राज करे लगल । 
 
 उधर संत के कुछ दिना के बाद इयाद आयल तो भाई के खोजवावे लगल बाकि पता ओकरा कहीं न चलल । आखिर में ढोल पिटवा देलक कि जे 'संत.बसंत' के कहानी सुनावत एक हजार असर्फी इनाम देम। ई खबर बसंत के मिलल । ओकरा छोड़ के कोई दोसर तो ऊ कहानी न जानऽ हले, से कोई कहानी न कहलक । बाकि बसंत साधु के रूप धर के संत के राज के फुलवारी में जा के डेरा डाल देलक, आउ ओकर माली के बुला के ढोल पिटाय के हाल कहलक कि हम संत-बसंत के कहानी कहम, हमरा इनाम से का जरूरत हे, तूं ही इनाम ले लिहें । राजा के जाके कहऽ। राजा संत माली से सब बात सुनलक आउ समझ गेल कि हो न हो हमर भइवे हे । ऊ दौड़ के गेल आउ भाई से गले-गले मिलल । मलिया के ऊ इनाम दे देलक । ऊ अप्पन भाई के महल में ले गेल। कुछ दिन रहके बसंत अप्पन घरे चल गेल। दूनो भाई अप्पन-अप्पन राज चलावे लगलन ।
+
+
+<details>
+<summary>See translation</summary>
+
+Once, a cow and a lioness were drinking water at a waterfall. The cow was drinking from above while the lioness was drinking from below. The cow's foam mixed with the water and went into the lioness's mouth. It tasted very sweet to her. The lioness thought, if the foam is so sweet, how sweet must the cow's meat be. Thinking this, the lioness killed the cow and ate its flesh. She sat alone in her den when her cubs and calves came. The lion cub asked his mother, "Mother, is there no aunt?" but the lioness did not reply.
+
+The lion cub persisted. Eventually, the lioness had to tell the truth. After hearing everything, the cub killed his own mother too. Now both the lion and the calf began to live together. One day, the lion cub killed a merchant's bull. He brought the bell that was on it. He gave the bell to the calf and said, "Here, when you go grazing and if there is any danger, this bell will ring! I will come immediately!"
+
+One day, the calf wanted to test the lion cub. He started ringing the bell. At that moment, the lion was on the lookout to catch a deer, but hearing the bell's sound, he ran away. When he arrived, he saw nothing. When asked, he said, "I was just checking to see if my friend was coming or not!" After that, the calf fell into the hands of a hunter. The calf rang the bell many times. The lion also heard the bell but thought the calf was just ringing it for fun. He caught a deer and went to that place. When he arrived, he saw that the calf had been torn apart by the hunter. The lion was very sad but regretting would not help now. He told the hunter, "You have killed my friend, but please do one thing! Gather wood and make a pyre. Burn my friend on it!" The hunter did as instructed. When the pyre started burning, the lion also jumped into it and burned with the calf. Thus, both friends were burned on the same pyre. After a few days, two solitary bamboos grew at the same place.
+
+There was a king who had a daughter. She had promised that she would marry whoever could find a bamboo that had two solitary bamboos. The king's men searched and found that bamboo. They cut it down and brought it to the king. The king's daughter was about to get married in that bamboo. Just when her bridal makeup was being applied, the bamboo split open, and two boys emerged from it. The king raised both boys. The king had no other children. The king had remarried, and the new queen did not like the two boys. She wanted to remove them from her sight.
+
+One day, while the two boys were playing with a ball, the ball bounced and landed in the queen's lap. The queen seized the opportunity. She went to the anger room. When the king went to persuade her, she said, "Until I get the hearts of those two boys, I will not be at peace. Do you think your wife and your sons matter to me? Those two make fun of me. I do not want to see them!" What could the king do? He told his men to take the two boys into the forest and bring back their hearts! The men took the two boys to the forest. Everyone was thinking, what benefit would there be in killing these innocent boys? An old man suggested that they should leave the boys alive and just get the hearts of some beasts instead. He said to send the boys away and obtain the hearts of wild animals to give to the king. The men told the two boys to go far away, and they brought the hearts of wild beasts to the king. The queen was happy and began to live peacefully.
+
+Meanwhile, after some days, the elder brother remembered his brother and began searching for him, but he could not find him anywhere. Finally, he announced that whoever narrated the story of "Sant and Basant" would receive a thousand gold coins as a reward. This news reached Basant. No one else knew the story except him, so no one came forward to tell it. Basant disguised himself as a sage and went to Sant's kingdom, settled in the garden, and called the gardener to beat the drum, saying that he would narrate the story of Sant and Basant; he needed no reward; the gardener could claim it instead. The king heard everything from the gardener and realized that it must be his brother. He rushed there and embraced his brother. He rewarded the gardener. He took his brother to the palace. After staying a few days, Basant returned to his home. Both brothers began to rule their respective kingdoms.
+</details>

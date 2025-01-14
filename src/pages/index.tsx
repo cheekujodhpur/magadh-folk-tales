@@ -7,10 +7,15 @@ const IndexPage: React.FC<PageProps> = (props) => {
   const allStories = props.data.allMarkdownRemark.group;
   return (
     <div className="container mx-auto my-10">
+      <div>
+        <Link to="/about/">About</Link>
+      </div>
       {allStories.map(section => (
-        <div className="mx-2 grid grid-cols-1 md:grid-cols-3 gap-2">
-        <h3 className="text-2xl font-bold col-span-2">{section.fieldValue}</h3>
-        <StaticImage src="../images/scarecrow.jpg" height="auto"/>
+        <div className="mx-2">
+          <h3 className="text-2xl font-bold">{section.fieldValue}</h3>
+        
+        <div className="mx-2 grid md:grid-cols-4 gap-2">
+        
           {section.edges.map(edge => (
             <div>
               <Link to={`/stories/${edge.node.frontmatter.slug}`}
@@ -19,6 +24,7 @@ const IndexPage: React.FC<PageProps> = (props) => {
               </Link>
             </div>
           ))}
+        </div>
         </div>
       ))}
     </div>

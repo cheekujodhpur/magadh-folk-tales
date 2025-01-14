@@ -1,9 +1,15 @@
+---
 slug: "mft-phoolkumari"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "प्रेम-कथा"
 title: "फूलकुमारी"
+tags: "prince, lotus flower, magical transformation, love story, overcoming obstacles"
 ---
+<blockquote>
+The story centers around a prince who learns of a rare lotus flower that blooms in a well but closes up when he arrives. After the flower is plucked and destroyed by jealous water carriers, the prince's sister-in-law gathers the petals, which magically transform into a temple where a devoted woman named Kumari worships. The prince sees Kumari and becomes infatuated with her. When he attempts to take her away, she challenges him to eliminate the water carriers and create a leaf path to his home first. The prince fulfills her request, and they eventually unite, living happily ever after.
+</blockquote>
+
 एगो राजा के चार गो बेटा हलन। ओमें तीन गो के बिआह हो गेल हल बाकि छोटका के न भेल हल। से भउजाई लोग ताना मार हलन कि तोरा तो फूलकुमारी से सादी होतवऽ। एक तुरी चारो भाई नोकरी करे निकललन। तीन भाई तो नोकरी करे लगलन आउ छोटका भाई फूलकुमारी के खोजे लगलन । रस्ता में उनका सोरह गो चोर मिलल। ओहनी के जेल में भेजल जाइत हल, से राजकुमार ओहनी के छोड़ा देलन। राजकुमार चोर के साथे फूलकुमारी के खोजे चललन। जाइत-जाइत जंगल में एगो साधु मिललन, जे छव महीना जागऽ हलन आउ छव महीना सूतऽ हलन। उनका जगे में एक दिन बाकी हल। राजा साधु के खूब सेवा कैलन, तो ऊ फूलकुमारी के पता बता देलन। फूलकुमारी एगो दोसर जंगल में तीन सौ साठ दैत्य के रखवाली में बक्सा में बंद रहऽ हलन।
  
 सोरहो चोर के साथ राजकुमार ओही जंगल में गेलन तो एगो बड़का बर के पेड़ देखलन । ई भी देखलन कि सब दैत्य सूतल हथ, आउ ओहनी के बीच में फूलकुमारी बक्सा में बंद हथ । चोर सब उपाय सोचलन । जहाँ बक्सा हल ओहिजा एगो बरहोर लटकल हल । चोरवन सब सोर पर चढ़ गेलन, आउ बर धर के उतरलन । बक्सा लेके फिन ओइसहीं बर पर चढ़ गेलन आउ दोसर बरहोर से राजकुमार के घोड़ा पर बक्सा धरा देलन, आउ उहाँ से सब चोर के साथे राजकुमार बक्सा लेके ढेर दूर आ गेलन । इहाँ बक्सा खोललन तो फूलकुमारी के सुन्‍नरता देख के राजकुमार के मूरछा आ गेल । फूलकुमारी दैत्य के सुमिरलक। दैत्य सब पहुँच गेलन तो राजा आउ चोर सब भाग चललन। 
@@ -13,3 +19,11 @@ title: "फूलकुमारी"
 एकरा बाद राजकुमार बक्सा ले के घरे चल अयलन । खोले पर ओमें से फूलकुमारी निकलल, तो राजकुमार के फिनो मूरछा आ गेल । फूलकुमारी अबरी उनका अप्पन पति मान के उनकर मूरछा छोड़ावे ला पनिहारिन से पानी माँगे गेल। तो पनिहारिन कहलक कि तू अप्पन लुगवा हमरा दे द त हम तोरा पानी भर के दे देइत हिवऽ । फूलकुमारी अप्पन लूगा पनिहारिन के दे देलक । पनिहारिन ओकर लुग्गा पेन्ह के फूलकुमारी के कुआँ में ठेल देलक आउ अपने जा के बक्सा में बइठ गेल । कुआँ में गिर के फूलकुमारी एगो कमल के फूल बन गेल । राजकुमार के मूरछा छूटल तो ऊ ओही पनिहारिन से बिआह कर लेलन । सब कोई कहे कि ई तो ओही पनिहरनियाँ हई, बाकि राजा कहथ कि ई तो फूलकुमारी हथ। 
 
 राजकुमार एक दिन सुनलन कि कुआँ में एगो बढ़िया कमल के फूल खिलल हे, जे केकरो से छनयवे न करऽ हे । तब राजकुमार कुआँ के भीरू गेलन तो फूल तुरते छना गेल । ई बढ़िया कमल के फूल के राजा आन के खटिया पर धर देलन तो नकली मेहरारू बनल पनहरनियाँ ऊ फुलवा के तूड़ ताड़ के बीग देलक। उनकर भउजाई उठलन तो छिंटायल फूल के बटोर के बहरना पर फेंक देलन। बहरना पर गिरइत फूल एगो मंदिर बन गेल। ओही मंदिर में फूलकुमारी रोज पूजा करे आवऽ हल। ओहिजे एगो नीम के पेड़ पर मैना-मैनी बतिआइत हल, कि ई औरत बड़ा भक्तिन हेअऽ । राजकुमार ई बात के सुन लेलन आउ ओही घड़ी फूलकुमारी के मंदिर में पूजा करइत देखलन । ओही घड़ी जाके उनका कस के राजकुमार पकड़ लेलन । तब फूलकुमारी कहलक कि ''छोड़ पापी, हम्मर तू के हेंऽ ?'’ राजकुमार कहलन कि ''तू हमर घरे चलऽ ! हम तोरा बिना न रहवोऽ !'' फिनो फूलकुमारी कहलक कि ''ऊ पनहरनियाँ के पहिले मार दऽ आउ, ई मंदिर से अप्पन घरे तक एगो कोली बनावऽ तब चलबवऽ ! राजकुमार के बात हल । तुरते ऊ पनहरनियाँ के गड़हरा भरा देल गेल आउ मंदिर से घरे तक कोली बनवा देल गेल । फूलकुमारी ओही कोली से होके राजा के महल में चल गेलक आउ दूनो परानी सुख से रहे लगलन । 
+
+<details>
+<summary>See translation</summary>
+
+One day, the prince heard that a beautiful lotus flower had bloomed in the well, which no one was able to pluck. The prince went to the well, and as soon as he arrived, the flower closed up. The king took this exquisite lotus flower and placed it on a bed, but the false wives disguised as the water carrier took the flower, tore it apart, and discarded it. When the prince's sister-in-law saw this, she gathered the scattered petals and threw them outside. As the petals fell to the ground, they transformed into a temple. There, the beautiful Kumari would come daily to worship. Nearby, on a neem tree, two birds would chirp, saying, “This woman is a great devotee.” The prince overheard this and immediately saw Kumari performing her worship in the temple. At that moment, he tightly caught her. Kumari said, “Let me go, sinner! Who are you?” The prince replied, “Come with me! I cannot live without you!” Kumari then said, “First, you must get rid of those water carriers and create a path made of leaves from this temple to your home, then I will come with you!” 
+
+The prince agreed to her request. Immediately, he dealt with the water carriers and arranged for a path made of leaves from the temple to his house. Kumari then walked on that path to the prince's palace, and both of them began to live happily ever after.
+</details>

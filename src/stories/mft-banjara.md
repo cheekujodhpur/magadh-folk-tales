@@ -6,6 +6,14 @@ section: "अर्थ-कथा"
 title: "बनजारा"
 tags: "nomadic, resilience, family, magic, adventure"
 ---
+<blockquote>
+The story follows a banjara (nomadic trader) who faces misfortune after losing his goods in a flood and becomes poor, selling wood to survive. He discovers two red eggs in a tree while gathering wood and gives them to his sons. They sell one of the eggs for a high price, convincing their father to bring home the bird that laid the eggs. However, a merchant manipulates the situation and eventually cooks the bird, leading the brothers to flee. 
+
+The elder brother marries a princess, while the younger brother becomes successful by producing red eggs. He encounters a sage and uses his wisdom to acquire magical items that he cleverly uses to reclaim the heart of the bird from the merchant, thereby restoring the red egg production. The brothers eventually reunite, transform a donkey into a princess using magic, and reclaim their rightful place in the kingdom, ultimately bringing their parents back home.
+
+The tale emphasizes themes of resilience, cleverness, and the importance of family, concluding with the brothers ruling together in happiness.
+</blockquote>
+
 एगो बनजारा हल । ऊ दूर-दूर तक के व्यापार करऽ हल। कुछ दिना के बाद ओकर सब व्यापार के माल बाहरे डूब गेल। घरे ऊ दुखी होके लौटल । ऊ एकदम गरीब हो गेल आउ लकड़ी लाके बेचे खाय लगल । एक दिन ओकरा ही एगो हित ही से नेवता आ गेल । सोचलक कि कल्हे के बदल आझे लकड़ी लाके धर दीहीं । 
 
 जंगल में जाके लकड़ी तोड़े लगल । पेड़ पर एगो खोता देखलक, जेकरा में दूगो लाल-लाल अंडा देखलक । ओकरा ऊ ले लेलक । लकड़ी भी लेके घरे चल आयल । ऊ दूनो अंडा अप्पन दूनो लड़कन के देलक आउ नेवता पर चल गेल। दूनो भाई अंडा से खेलइत हलन । ऊ अंडा केतनो पटकला पर न फूटे । दूनो भाई सोचलक कि अंडा रहइत तो फूट जाइत हल, से ऊ एगो सेठ भीर ले गेल । सेठ भीर जाके अंडा देखैलक, तो सेठजी कहलन कि हम एकरा दस हजार रुपेया देबवऽ । दूनो भाई अंडा लेके उहाँ से चल देलक आउ सोचलक कि ई अंडा न हे, कोई दामी पत्थर हे। से आउ दरब मिलत। 
@@ -28,3 +36,42 @@ tags: "nomadic, resilience, family, magic, adventure"
 
 कुछ दिन के बाद दूनो भाई राय-मसवरा कैलन कि अब चल के अप्पन माय-बाप के ले आवे के चाहीं । से दूनो मृगछाला पर बइठ के घरे गेलन। इहाँ बाप दुख में आन्हर हो गेलथिन हल, आउ माय सेठ किहाँ रहे लगलथिन हल । से ओहनी बाप के आउ सेठ के साथ माय के भी मृगछाला पर बइठा के चललन। राह में माय आउ सेठ के दरिआव में गिरा देलन। बाप के लेके अप्पन राज में आ गेलन, आउ दूनो भाई मिल के बाप के साथे राज करे लगलन । नेकी के नेक आउ बदी के बद भेल । खिस्सा खतम पइसा हजम । 
 
+
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a banjara (nomadic trader). He used to trade far and wide. After a few days, all his goods were lost in a flood. He returned home feeling sad and became very poor, starting to sell wood to make ends meet. One day, he received an invitation from a friend and thought to himself that he would bring wood today to pack for tomorrow's trip.
+
+He went to the forest to cut wood. While in the woods, he saw a nest on a tree that contained two red eggs. He took the eggs home along with the wood. He gave both eggs to his two sons and went to the invitation. The two brothers played with the eggs. No matter how much they dropped them, they didn't break. The two brothers thought that if the eggs had been left alone, they might have broken, so they took one to a wealthy merchant. When the merchant saw the egg, he said he would give them ten thousand rupees for it. The two brothers took the egg and left, thinking it was not an egg but a precious stone which would fetch more money.
+
+They went to another merchant, who offered them twenty thousand for the egg. Then they took the egg to a third merchant, who was willing to pay forty thousand. The brothers sold the egg to him, and the merchant gave them all the money. When their father came home and saw the money, he asked where it came from, and the boys told him the whole story. The banjara said that if the egg has such value, then how valuable must the bird itself be. So, he went back to the nest where he found the egg and brought the bird home, placing it in a cage. The banjara took the money and headed off to trade again.
+
+One day, the banjara showed the red egg to his merchant friend, Baba Ji, and asked him what would happen to the bird that laid the red eggs if it were to be eaten. Baba Ji replied that whoever eats its head would become a king, and whoever eats its heart would produce red ones. Then, the merchant went to the banjara and said to the boys' mother that the merchants gave the boys the red egg; would she let him catch it? The banjara's wife said there was no harm in that. 
+
+In the evening, as it turned four o'clock, the merchant arrived, took out the bird from the cage, and cut off its head. By then, both of his sons had arrived. The elder brother saw and ran away with the head, while the younger one took the heart and fled. Both of them ran away and ended up cooking and eating the head and heart.
+
+When dinner was prepared, the banjara's wife served the merchant. As he sat down to eat, he noticed the absence of the head and heart and asked if anyone had eaten them. The banjara's wife replied that the two boys had taken them and run away. The merchant said that if the boys were killed and the heart was eaten, he would be saved. The disreputable banjara's wife replied that there was no harm in that. Then the merchant finished his meal and went home.
+
+The banjara's wife caught the two boys by the riverbank. The boys asked why they were being killed. The younger boy spat out two red eggs, and the banjara's wife took them away. The two brothers left that village and reached another forest. They stopped at a hut, and while the elder brother was shopping, he noticed a royal princess being selected for marriage. At that moment, an elephant was brought in, which placed a garland around her neck. Right there, they got married.
+
+The younger brother, seeing this, moved to another town, where he found a big city. Meanwhile, the elder brother remembered that he had forgotten to inquire about his younger brother, so he started asking everyone along the way if they recognized him or knew about his brother.
+
+The younger brother settled in the city and started living with a merchant, producing red eggs and organizing a dance. During the dance, when the rhythm broke, he would give a red egg to anyone who would come to him. Afterward, he took the dancer to his house. Upon realizing that she produced red eggs, he gave her such things that allowed her to produce numerous red eggs, and in that city, the heart of the bird was also revealed.
+
+The merchant kept the heart on the shelf. Soon after, the boy stopped producing red eggs. He was heartbroken, and sadly left there, feeling empty and unable to eat.
+
+On the way, he encountered a sage with two disciples who were fighting. They were arguing over three items that belonged to the sage after his death: a bowl, a deer skin, and a stick. The boy started listening. The bowl was said to have the power to produce whatever food one desired, and one could eat as much as they wanted. Sitting on the deer skin allowed a person to go anywhere they wanted. It was said that the stick, when used to hit someone and then given a sniff, would turn them into a donkey, while an opposite sniff would make them human again.
+
+After hearing all this, the banjara's younger son said that he would end their fight. He asked them to bring him two arrows. They returned with two arrows. The banjara's son broke both arrows and announced that whoever returned first would receive two items, while the one who arrived last would receive only one. When both returned with arrows, he took all three items and left.
+
+He eventually returned to the city and ordered the stick to be used. The stick began to strike the merchant, who wondered why he was being hit. The banjara's son explained that they wanted red eggs from him. The merchant provided the location of the bird's heart, which he then consumed. After a while, he returned to the city where his older brother had been guarding the place. With the help of the stick, he turned into a donkey and was caught by the king. Eventually, both brothers reunite and lead a happy life together.
+
+The elder brother asked the younger why he brought the donkey along. But they all realized they were now kings, and there was no need for anything further. The younger brother remained silent. Then, one day, their sister-in-law inquired during the meal, "Why are you taking the donkey around? Is the woman supposed to carry it along?" Upon hearing this, the younger brother made the donkey sniff his stick, and it transformed back into a twelve-year-old princess. 
+
+All rejoiced together and lived happily ever after. 
+
+After a few days, the two brothers conferred that they should now go get their mother and father. They both sat on the deer skin and returned home. There, their father had become blind from sorrow, and their mother was living with the merchant. They took their father and also sat their mother, who had fallen into a river, onto the deer skin. 
+
+They brought their father back to their kingdom, and the two brothers began to rule together. Virtue brought goodness, and evil brought badness. The story ends, but the money remains.
+</details>
