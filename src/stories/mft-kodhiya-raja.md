@@ -1,10 +1,17 @@
 ---
-slug: "/mft-kodhiya-raja"
+slug: "mft-kodhiya-raja"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "नाग के अँगूठी"
+tags: "prince, compassion, adventure, magic, family"
 ---
+<blockquote>
+The story follows a compassionate young prince who, after his father's death, embarks on a journey into trade. He spends his money rescuing a cat, a snake, and a tiger, each of whom decides to follow him as a token of gratitude. The boy then receives gifts from each animal: a stick that transforms a handsome person into a hideous creature, and a special piece of snake skin that provides comfort when one sleeps on it. 
+
+The prince hides his identity by pretending to be a leper during the day but reveals his true self at night, ultimately catching the attention of the queen, who marries him. They return to the village, where they are celebrated. The story concludes with a joyful reunion of the prince and his mother, symbolizing love, compassion, and the bonds of family.
+</blockquote>
+
 एगो बड़का राजा हलन । उनका एगो लइका हल । कुछ दिन के बाद राजा मर गेलन तब रानी लइका के साथे रहे लगलन । एक दिन लइका माय से पूछलक कि हम बेपार करे जाइत ही । माय लइका के छौ सौ रूपेआ देलक। लइका रोपेआ लेके चल देलक । राह में कई आदमी मिल के एगो बिलाई के मारइत हलन । राजा के लइका के देख के मोह लगल । से ऊ कहलन कि बेचारी बिलाई के जान काहे मारइत हऽ घ् एकरा छोड दऽ । तब एकरे पर, राजा के लइका पर सबहे खिसिया गेलन कि ई हमर सब दूध-दही खा जाहे आउ बरबाद कर देहे । एकरे पर राजा के लइका कहलक कि ई तोर केतना रोपेआ के समान खराब कैलक हे। हम तोरा दे देव । सबे कहलक कि दू सौ रूपेआ के। झटपट दू सौ रूपआ देके ऊ बिलाई छोड़ा देलक । 
 
 लइका जब आगे चलल आउ तनी दूर जा के पाछे घूर के देखलक कि बिलाई भी चलल आवइत हे। लइका बोलल कि ए माँई बिलाई, तू हमरा पीछे-पीछे काहे आवइत हैं ? तोहरा तो हम भलाई कइलिअउ ! तब बिलाई कहलक कि तू हमर जान बचवलऽ हे, तऽ हम तोरे साथ जायब । दूनो जाइत-जाइत दूसर गाँव में पहुँचल तो देखइत हे कि ढेर-सा अदमी एगो सरप के जाने मारे ला तइयार हथ । लइका जा के कहलक कि ए भाई, तोहनी सरप के काहे मारइत हँ ? एकरा छोड़ दऽ । तब सबहे एकरे पर खिसिया गेलन आउ कहलन कि हमनी के सब कबूतर पकड़ के खा जाहे । ओकर दाम तूहीं दे देवें? लइका बोलल कि केतना के बरबाद कर देलक हे ? लोग कहलन कि दू सौ रूपेआ के । लइका दू सौ रूपेआ निकाल के दे देलक । उहाँ से लइका चल देलक। 
@@ -34,3 +41,29 @@ title: "नाग के अँगूठी"
 इहाँ बहिन के बिआह के नेवता में आवे खातिर रानी अप्पन पति से कहलक कि नेवता पर जाहुँ न। राजा कहलन कि हम नऽ जायव । सेकरा पर रानी बोलल कि हम जरूर जायव । तब नेवता पर जाय लागि बढ़िया-बढ़िया साड़ी कपड़ा, सतमेर मिठाई लान के रानी के देलन । रानी डोली पर चढ़के चललन तऽ राजा चेता देलन कि चउठारी के दिन चल अइहँऽ न तो फिन हमरा एहिजा न पयबऽ । रानी नइहर के दुहारी पर पहुँचलन तो देखे ला भीड़ लग गेल । नेवता के समान अँगना में खोलल गेल तो देख के लोग के अचरज के ठेकाना न रहल। सादी-बिआह के बाद रानी नइहर से अप्पन पति के घरे जंगल में आ गेलन । 
 
 दूनो परानी मजे में उहाँ रहइत हलन तो एक दिन राजा के अपन माय के इयाद आयल तो ऊ जार-बेजार रोवे लगलन। रानी केतनो मनावे तो राजा चुपे न होथ। रानी लोर पोंछ के राजा से पूछलन, त राजा सब हाल कह सुनौलन। रानी कहलन कि एतना दिन से हमरा कुछो न कहल हल। तुरंत डोली पर रानी आउ घोड़ा पर राजा सवार हो के अप्पन घरे चललन । जब ओहनी अपन गाँव के दुसीआनी पर पहुँचलन तो गाँव के लोग आन के रानी (माय) से कहलन कि तोर बेटा बिआह करके आवइत हथुन । रानी के रोइत-रोइत आँख आन्हर हो गेल हल । सुनके रानी बड़ी खिसिया गेलन । एतने में घोड़ा ठोकले राजा घर पहुँच गेलन आउ पांव लागी माय कहलन। ई सुनके रानी एतना खुस होलन कि एक-ब-एक उनकर आँख के रोसनी आ गेल । अप्पन लइका के छाती में लगावे ला भर अँकवार पकड़ लेलन। बिछुड़ल बेटा से अइसने मेल सब मतारी के होवे । आउ फिन सब मिल-जुल के रहे लगलन । 
+
+<details>
+<summary>See translation</summary>
+
+Once there was a great king who had a son. After some days, the king passed away, leaving the queen to take care of the child. One day, the child asked his mother if he could go into trade. The mother gave him six hundred rupees, and he set off. On the way, he saw several men beating a cat. Seeing this, the king's son felt pity and said, "Why are you killing the poor cat? Let it go." The men retorted, "This cat has eaten all our milk and curd, ruining it for us." The boy asked how much they wanted, and they said two hundred rupees. Quickly, he gave them two hundred rupees and freed the cat.
+
+As the boy continued, he looked back to see the cat following him. He asked, "Oh cat, why are you following me? I saved your life!" The cat replied, "You saved me, so I will follow you." As they walked, they reached another village where people were preparing to kill a snake. The boy approached and asked why they were going to kill the snake. They replied, "It has eaten our cows and bulls. Are you going to pay for it?" The boy asked how much it had eaten. They replied, "Two hundred rupees." He took out two hundred rupees and paid them, freeing the snake.
+
+After some time, the boy saw that the snake was following him as well. He asked the snake why it was following him. The snake said, "You saved my life, so I will come with you." They continued walking until they arrived at a village where people were ready to kill a tiger. The boy rushed in and pleaded, "Please don't kill it!" The villagers shouted back that the tiger had eaten their cows and was costing them dearly. The boy asked how much the tiger had eaten, and they said, "Two hundred rupees." He paid them as well, and the tiger was set free.
+
+The boy returned home with the cat, snake, and tiger. When they reached the village, the villagers ran to the queen to inform her that her son was entertaining a cat, a snake, and a tiger. The queen was annoyed and shouted from her window, "Are you letting these creatures into my house?" Hearing this, the boy turned back.
+
+When the cat got close to its home, it told the boy to take something as a token. The boy thought about what the cat could give him. The cat gave him a stick that would turn a handsome young boy into a hideous creature if smelled. The boy accepted the stick and went on until he reached the snake's den. The snake too offered him a token, a special piece of skin, saying whoever slept on it would feel comfort as if on a soft bed. The boy took that as well.
+
+Next, the boy approached the snake's home, and there the snake offered to take him to its abode. The boy entered the den, and at that moment the snake's son explained the situation. They all went to the snake’s palace and lived together for some time. During the day, he hid in the form of a leper, while at night he turned into a handsome young man, entertaining visitors and callers.
+
+One day, when the servant came to fetch the boy for the queen's marriage invitation, he was excited but pretending to be a leper. The queen fell for his charm, married him, and brought him back to the forest.
+
+After a few days, the queen found herself missing her husband, so they both decided to return to the palace. Upon reaching the village, the queen saw the crowd celebrating a wedding. When they opened the items brought for the hen party, everyone was surprised at the lavish display.
+
+Days passed by, and the queen's father sent an invitation for her sister's marriage. At the feast, the queen asked the servants to fetch everything. Meanwhile, her husband expressed his displeasure and refused to go initially, but seeing her determination, he agreed to accompany her. After reaching her father's house, the villagers spoke highly of her husband.
+
+The scene then shifts to the king remembering his mother and grieving deeply. The queen called to him, revealing all his feelings. The king then decided to return, and as they did, the villagers cheered that he had come home after marrying a beautiful queen. 
+
+Thus, they all rejoiced, embracing and celebrating their reunion.
+</details>

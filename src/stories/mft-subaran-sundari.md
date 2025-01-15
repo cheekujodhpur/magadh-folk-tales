@@ -1,10 +1,19 @@
 ---
-slug: "/mft-subaran-sundari"
+slug: "mft-subaran-sundari"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "जैन आउ मेठ सुबरन सुन्नरी"
+tags: "prince, love, magic, curse, adventure"
 ---
+<blockquote>
+The story revolves around Jain, a prince sent to a guru for education. He develops a deep bond with the guru's daughter, but maintains a celibate stance. When asked to marry her, he refuses, leading to misunderstandings and his banishment from the kingdom. While wandering, Jain encounters thieves but defeats them with the help of a deity, who gifts him magical items.
+
+Later, a fairy named Subarna Sundari finds and revives Jain after he is injured by the thieves. They fall in love and she gives him a flute to summon her. However, they face challenges when Subarna Sundari is cursed by Indra, making it impossible for Jain to recognize her as his wife. They live together in hardship until Jain confronts the thieves again and reclaims his magical gifts, defeating the thieves and restoring order.
+
+Ultimately, their son is given a chance to free his parents from Indra’s curse by retrieving heavenly flowers. He succeeds with divine assistance, leading to a joyful reunion of the family. The story concludes with Jain, Subarna Sundari, and their son living happily together.
+</blockquote>
+
 एगो राजा हलन। उनकर एगो बेटा हल । राजा बेटा के पढ़े लागी गुरु के पास भेज देलन हल । लड़का के नाम हल जैन । जैन बड़ी भारी मेहनत से पढ़इत हल। गुरु जी के भी एगो खूब सुन्नर लड़की हल। जैन के देख के ऊ लड़की मोहित हो गेल। दूनो में रोज बात-चीत होवऽ हल । बाकि जैन ब्रह्मचारी हल। गुरु के लड़की के साथ जैन बहिन के तरह व्यवहार कर हल । 
 
 एक समय के बात हेय कि राजा के बेटा के बिआह करे लागी कहलन। ई खबर सुन के गुरु जी के लड़की कहलक कि तू हमरा से विवाह कर लऽ । जैन लड़की के बात नऽ मानलक तो लड़की अपन झूला आउ साड़ी फार के अप्पन बाप से कहलक कि बापजान हमरा जैन बरिआरी बेइज्जत कयलक है। गुरु सुन के जैन पर बड़ी खिसिआयलन आउ जाके ओकर बाप राजा से कहलन कि कोई अदमी कोई अउरत के बरिआरी बेइज्जत करे, तो ओकर कउन सजाय देल जायत? राजा कहलन कि ओकरा फाँसी देल जायत । गुरु जी सारा हाल कह सुनौलन। सुनके राजा कहलन कि लगऽ हे अपने ओकरा बढ़ियाँ से शिक्षा नऽ देली हे? ठीक हे, तो जैन के सजाय में हम ओकरा राज से निकाल देइत ही। 
@@ -30,3 +39,34 @@ title: "जैन आउ मेठ सुबरन सुन्नरी"
 ओही लड़का किसान के मरला पर कुंड भिर आन के जार-बेजार रोवइत हल । उहाँ महादे आउ गौरा-पारवती शैल (सैर) करे निकललन हल। गौरा-पारवती महादे जी से कहलन कि कउन तो रोइत हे ? महादे जी कहलन कि तोरा तो हरमेसा एही बात सूझऽ हे ? संसार हइये हे, दुख तकलीफ होयबे करत । तइयो गौरा-पारवती कहलन कि कह सुनावऽ, कउन, काहे ला रोइत हे । महादेजी कहलन कि लड़का अप्पन बाप-माय ला रोइत हे । फिर पारवती जी पूछलन कि ओकर बाप-माय कहवाँ गेलथिन हे?  महादेजी पारवती जी के जिद्द कैला पर सब कहानी कह सुनौलन कि इन्द्र महराज के सराप से ओकर बाप पत्थर हो गेलथिन हे । माय एही ठइयाँ कइसहूँ गुजर करइत हथिन । जब ई लड़का सोअर्ग से फूल लान के पत्थर पर चढ़ावत तो पत्थर अदमी हो जायत, आउ माय के भी ओकर बाप चीन्हे लगतई। माय अप्पन बेटा के भी चीन्ह जायत। 
 
 महादेजी आगे कहलन कि सोअर्ग के रास्ता बड़ा बीहड़ हे, आउ कोई उहाँ पहुँच जाय, तो इन्दर ओकर बज्जर से मार दे हथ बाकि एगो उपाय हे । एकरा हम अप्पन सिंहासन पर बइठा के भेजइत ही । महादेजी लड़का के सिंहासन पर बइठा के कहलन कि देख बच्चा, सोअर्ग में जा के फूल तोड़ना आउ जेतना जल्दी होय, चल देना । लड़का उहाँ जा के फूल तोड़के लावइत हल तो इन्दर महराज के मालूम भेल तो बज्जर फेंकलन तो महादे जी अपन त्रिसूल से रोक लेलन । लड़का बच निकलल आउ आके ओही पत्थर पर फूल चढ़ा देलक । फूल चढ़इते पत्थर अदमी में बदल गेल आउ उहाँ रहइत सुन्नरी के पहचान लेलक । सुन्नरी भी बेटा के पहचान लेलक । गौरा पारवती महादे जी के साथ फिनो उपह गेलन । ओ गढ़ी से बाप-माय आउ लड़का, तीनो खुसी से जिनगी बितावे लगलन । 
+
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king. He had a son, whom he sent to a guru for education. The boy's name was Jain. Jain studied very hard. The guru also had a beautiful daughter. Jain was enchanted by her. They talked to each other daily. However, Jain remained celibate and treated the guru's daughter like a sister.
+
+One day, it was decided that the prince should be married. Upon hearing this, the guru's daughter said to Jain, "Marry me." When Jain refused, the girl tore her swing and her sari and complained to her father that Jain had insulted her. Upon hearing this, the guru was very upset and went to the king to ask what punishment should be given to someone who insulted a woman. The king replied that the culprit should be hanged. The guru narrated the entire story. Hearing this, the king said, "It seems that you did not educate him properly. Very well, as punishment, I will banish Jain from the kingdom."
+
+Jain was thrown out of his home. As he wandered, he entered a forest. In the forest, he found a bridge. Near the bridge, there were three or four thieves who would rob and beat travelers. When Jain reached there, it was already night. The thieves asked, "Who are you?" Jain replied, "I am Jain." Jain was very strong and courageous. When the thieves attacked him, he fought back bravely and defeated them. The thieves decided they needed to eliminate him somehow. They had captured three or four hundred women and gathered a lot of wealth.
+
+The thieves told Jain, "If you are a celibate, there is a hot water pond next to a temple nearby. There was a deity made of stone who was cursed. The curse states that if a celibate dips in the hot pond and touches the stone, then the stone will turn into a real deity." Jain had full faith that he was indeed a celibate. Thinking this, he entered the temple. Upon entering, he saw a stone idol and nearby a pond. Jain bathed in the pond and touched the idol, which then transformed into a deity. The deity granted him three wishes.
+
+Jain asked for nothing for himself but the deity, in gratitude, granted him three items: a stick that would allow him to beat anyone he referred, a bag from which he could summon anything, and a sheet that would protect him from cold and fire. After bestowing these gifts, the deity disappeared.
+
+Afterward, Jain took all the items and walked back the same way he came. The thieves saw that Jain had returned in great shape, so they questioned him about it. Immediately, they surrounded him, seized his stick, and began to beat him. When Jain seemed to be dead, they thought he was lifeless and decided to throw him into the same pond. Some suggested binding him with stone and throwing him in, while others wanted to leave him above. Ultimately, they abandoned him on the platform near the pond, while the thieves gathered a lot of wealth using the items gifted by the deity.
+
+When the thieves left, Jain remained there. One night, as he lay in the pond, three hundred fairies approached to bathe. They arrived on a special day, which was a Sunday. Among them was a fairy named Subarna Sundari. As all the fairies bathed, Subarna Sundari noticed Jain's lifeless body and saw him twitching slightly. She became enchanted by his appearance and immediately touched him with nectar to revive him. When Jain woke up, he saw a woman by his side and was astounded. They both fell in love quickly and got married after a conversation.
+
+As Subarna Sundari ascended to the divine realm, Jain asked, "How will we meet again?" Subarna Sundari replied, "No one can go there, but I will give you a flute. Play it when you wish to see me, and I will come." As soon as Subarna Sundari moved away, Jain played the flute. She returned immediately, and Jain said, "I have taken you as my betrothed." Subarna Sundari left, and from that day, their love grew. After some days, Subarna Sundari became pregnant.
+
+When the ninth month came, and one day as Jain played the flute, Subarna Sundari rushed to him, only to give birth to a boy. When the boy was born, Indra, the king of gods, asked Subarna Sundari where she had brought sin from. He became annoyed and cursed her, saying, "The one you love will not recognize you. On the day you declare that you are his wife, he will turn to stone." Hearing this, Subarna Sundari felt deep sorrow. Then Indra promised her that she would be freed from the curse when a human brought roses from heaven and placed them on the stone.
+
+Meanwhile, after some time, Subarna Sundari dashed back to Jain, her wings falling off in flight. However, when she arrived, Jain did not recognize her. Jain mistook her for a mere woman and treated her with care. They both stayed on the platform near the pond. Jain worked hard to provide for them, and they lived together this way. Subarna Sundari pondered how they'd survive like this. Being a fairy of the divine realm, she was accustomed to luxury.
+
+One day, Jain went back to the thieves' territory. The thieves questioned him about who he was. Jain stated, "I am Jain." The thieves were confused, having thought he was dead. They were not sure how he was alive. Distrusting him, they saw a woman with him adorned in jewelry, and they pounced on him. Jain pleaded, "Oh deity, you have no power over me unless your gifts return to me." As he spoke, the three gifts returned to him. Jain commanded the stick, and it punished all the thieves thoroughly. All the wealth and women they had captured returned to their rightful owners.
+
+Meanwhile, when the kid cried after the farmer's death, he mourned by the pond. Lord Mahadev and Parvati were out for a stroll, and Parvati asked him why he was crying. Mahadev replied, "Is this a surprise for you? The world is full of pain." Yet Parvati insisted he tell her who was crying and why. Mahadev narrated that the boy was mourning for his parents, who were turned to stone due to Indra's curse, and the mother was somehow surviving nearby. If the boy could carry flowers from heaven and place them on the stone, they would return to their human forms.
+
+Mahadev stated that the path to heaven was perilous, and anyone who reached there would be struck down by Indra, but he had a way to help. Mahadev placed the boy on his throne, instructing him to pluck flowers once he arrived in heaven, and to come back quickly. The boy succeeded in plucking the flowers, but when Indra learned of it, he hurled his thunderbolt, which Mahadev warded off with his trident. The boy returned and placed the flowers on the stone. As soon as he did so, the stone transformed into a man, recognizing Subarna Sundari. Subarna Sundari, in turn, recognized her son. Mahadev and Parvati witnessed the joyous reunion and, from that day forward, the family of father, mother, and son led a happy life together.
+</details>

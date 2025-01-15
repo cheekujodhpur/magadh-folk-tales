@@ -1,10 +1,15 @@
 ---
-slug: "/mft-dugo-rajkumar"
+slug: "mft-dugo-rajkumar"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "दूगो राजकुमार"
+tags: "fantasy, adventure, brotherhood, magic, responsibility"
 ---
+<blockquote>
+The story is about two princes who face a series of challenges after their mother inadvertently causes the death of a magical rooster that had the power to turn tears into pearls and sneezes into rubies. The elder prince marries a princess after being seen in a market, while the younger prince embarks on a quest to find his brother. He gains strength and overcomes obstacles, including defeating a giant and marrying a girl he loves. Eventually, the brothers reunite, retrieve the stolen treasures, and restore their blind parents' sight. They take over the governance of the kingdom together, showcasing themes of family, responsibility, and adventure.
+</blockquote>
+
 एगो राजा हलन । उनका गाँव में एगो बाजार लगऽ हल। ऊ बजार में जे समान न बिके, साँझ के राजा आके ओकरा खरीद ले हल। एक दिन साँझ के राजा उहाँ खरीदे गेल तो देखलक कि एगो मुरगा एक आदमी के नऽ बिकल हे। राजा मुरगा के दाम पूछलन तो ओकर मालिक कहलक कि मुरगा के दाम मुरगे से पूछऽ । मुरगा से पुछला पर ऊ अप्पन दाम एक लाख बतौलक । राजा अनहोनी मुरगा समझ के ओकरा एक लाख दाम देके ले लेलक । 
 
 घरे जा के मुरगा से राजा पूछलन कि तोरा में का गुण हे । मुरगा बोलल कि हमरा मार के जे हमर देह खायत ओकरा रोवे से ओकर आँसू मोती बन जायत आउ जे हम्मर मुँड़ी खायत तो ओकरा छीकें से लाल गिरत । राजा ई जान के खुश होयल आउ मुरगा के मार के मुरगा के रानी के कहलन कि एकरा बना के रखिहँऽ । राजा कह के बाहर चल गेलन । 
@@ -37,3 +42,36 @@ title: "दूगो राजकुमार"
 एक दिन छोटका राजकुमार बड़का भाई से कहलन कि माय-बाप आन्हर हो गेलन हे। बेटा के आयल जान के ओहनी लपवा के उठलन आउ पकड़े ला चाहलन कि ओहनी के आँख हो गेल आउ सब लौके लगल । सब मिल के सुख से रहे लगल। 
 
 एक दिन दूनो भाई अपने में बतियलन कि हमनी के कइसे राज-पाट चलावे के चाहीं । छोटका राजकुमार कहलन कि तू कहाँ राज करब? बड़का राजकुमार बोललन कि हम उहईं जायम । से दूनो भाई उड़नखटोला पर बइठ के जंगल ओला राज में चल गेलन, आउ छोटका उहाँ के परजा से कहलक कि अब इहाँ के राज-पाट एही करतथुन । कोई तकलीफ होतवऽ तो हमरा पास आ जइहें । फिनो राजकुमार उड़नखटोला पर बइठ के माय-बाप के राजधानी में आ गेलन आउ उहई राज-पाट करे लगलन। बेटा होय तो छोटका राजकुमार जइसन ! 
+
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king. In his village, there was a market set up. Whatever items were not sold in the market, the king would come in the evening and buy them. One evening, when the king went to buy, he saw that a rooster was not sold to a man. When the king asked the owner about the price of the rooster, the owner replied that he should ask the rooster himself for the price. Upon asking the rooster, it declared its price as one hundred thousand. The king, considering the rooster to be something extraordinary, paid the one hundred thousand and took it home.
+
+When he got home, the king asked the rooster what was special about it. The rooster replied that anyone who ate its flesh would have their tears turned to pearls and if someone ate its head, their sneezes would turn red. The king was pleased with this information and decided to keep the rooster, telling the queen to take care of it. The king then stepped outside.
+
+The queen kept the rooster secure. Meanwhile, the two princes returned from their studies and asked for food. The queen, in the midst of things, told them to go ahead and eat. The elder son ate the body of the rooster, while the younger son ate its head. When the queen saw what had happened, she was filled with regret, fearing that the king would punish her. When the princes asked their mother why she was crying, the queen explained everything. After hearing this, the two princes left home and went into exile.
+
+As they made their way, they had to cross a dense forest. After crossing the forest, both of them became very hungry. The elder brother had some money, so he went to buy food in the market. There, the king's princess saw them from her balcony. Captivated by their beauty, she told her father that she wanted to marry that man. Despite the king's objections, the princess insisted, and ultimately, the princess was married to the prince.
+
+The younger prince felt sad about his elder brother not returning. Then he decided to look at his hand and set off in search of him. He arrived in a city and started staying at a shop. The condition of that shop flourished, and its earnings increased significantly. After hearing about this, an old beggar woman came to beg. The shopkeeper told her to go ahead and give her some alms. When the prince gave her alms, she sneezed and a ruby fell into the beggar woman's bag. The old woman was so taken by greed that she thought she should trick him into taking him away, so she told the shopkeeper that he should marry her daughter. The shopkeeper responded that if she is your daughter, then take her.
+
+The old woman took him home and showed him the fish. The prince sneezed after seeing the fish and another ruby dropped out. He sneezed so much that he became exhausted, and once he sneezed, the rooster's head flew off. After that, the rubies stopped falling. The old woman took the rooster's head and drove the prince out of her house.
+
+The prince set off from there. He entered a thick forest and eventually came across a giant's house. When he entered, he saw a very beautiful girl. She told him that if her father came to know, he would eat him. The prince replied that he was ready to die. The girl then hid him. That night, the giant came home, crying out for humans. The girl said there were no humans here, only herself, suggesting that if he wanted to eat, he should eat her.
+
+The prince stayed there for a few days and fell in love with the girl. One day, he told his father that he should not worry about his marriage as God had sent him a match. The giant said that the marriage would only happen if he filled a sieve with seven measures of grains. The girl agreed but said she would provide the sieve. The giant agreed. The girl told the prince that she would give him a sieve and he should go around collecting water for seven measures. After filling the sieve, they would get married. The next day, this was done, and the prince and princess got married. They both stayed there.
+
+The giant had two corpses: one of one hundred sixty manas and the other of two hundred sixty manas. The giant was trying to lift the one of one hundred sixty manas to water a well. He could not manage to lift the two hundred sixty mana corpse. One day, the prince observed this and went to help lift the corpse.
+
+One day, the giant came back from hunting, tired, and asked the prince to lift the one hundred sixty mana corpse. With one hand, the prince lifted the corpse and threw it away. The giant, surprised by his strength, decided to fight him. The prince was ready to fight. The father-in-law and son-in-law fought. The son-in-law knocked the giant down with the two hundred sixty mana corpse on his head and the one hundred sixty mana corpse on his stomach, and then left. The giant thus died.
+
+When the story reached the old beggar woman, she became scared, thinking that one day he might kill her too. The old woman went to the king and incited him to attack. The king was frightened. However, the old woman told him about her bag, and the king was prepared to attack. The king mounted his horse and came face to face with the prince.
+
+Seeing the elder brother, he recognized him and realized that he was indeed his brother. The younger prince revealed their father's name. Then, the elder brother stated that he too was their son. The two brothers reunited. The younger brother explained the situation with the old woman and told him that she had stolen his bag, staff, and flying machine. Hearing this, the elder brother filled the old woman with fear. They searched her house and found the rooster's head, which the younger brother ate. They retrieved all the rubies as well. Then both brothers left together.
+
+One day, the younger prince said to the elder brother that their parents had gone blind. Upon hearing this, their parents were delighted and were able to see again. They all embraced each other and lived happily together. 
+
+One day, the two brothers discussed how to govern the kingdom. The younger prince asked the elder where he would rule from. The elder prince replied that he would go there. So both brothers sat on the flying machine and traveled to their kingdom in the forest, where the younger brother addressed the subjects, saying that he would now rule the kingdom. If anyone faced any difficulties, they could come to him. Then, the princes arrived at their parents' capital by flying and began ruling there. Truly, there should be no better son than the younger prince!
+</details>

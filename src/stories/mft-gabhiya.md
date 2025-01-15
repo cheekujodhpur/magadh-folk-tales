@@ -1,10 +1,17 @@
 ---
-slug: "/mft-gabhiya"
+slug: "mft-gabhiya"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "मनोरंजक कथा"
 title: "गभिया"
+tags: "foolishness, cleverness, misadventures, humor, miscommunication"
 ---
+<blockquote>
+The story revolves around a foolish farmer's son named Gabhia, who gets himself into a series of misadventures after being sent to fetch seeds for his father. Mistaking the request, he tells his mother to prepare ingredients for a sweet dish called kheer, causing her to make kheer-puri instead. Instead of returning, Gabhia wanders into another kingdom, where he encounters the king and his queens, leading to humorous situations where he tricks both them and the king into various antics involving a beaded necklace.
+
+Throughout the story, Gabhia cleverly evades capture, playing tricks on everyone he meets, including an old woman and a greedy holy man. His antics culminate in him using fear tactics to scare off a group, including the king, as they try to confront him. Ultimately, Gabhia remains carefree and enjoys himself while those in pursuit of him end up embarrassed and fleeing. The tale highlights themes of foolishness, cleverness, and the consequences of miscommunication.
+</blockquote>
+
 एगो गाँव में एगो किसान हल। ओकरा एगो बेटा हल । ऊ बड़ी गाभी करऽ हल। सबसे मजाक करइत रहऽ हल] जेकरा से लोग ओकरा 'गभिया' कहऽ हलन। असाढ़ के महीना में जब पानी खूब होयल हल, किसान खेत में सेरहा बुने ला हर जोत रहल हल। ऊ बेटा से कहलक कि जा के माय से बुने ला सेरहा माँग लावऽ। लड़का घरे आन के माय से कहलक कि बाबू जी, सेरहा कूट के खीरा बनावे ला कहकथुन हे। माय ई सुन के बीहन वाला सेरहा के कूट-चूर के खीर-पूरी बनौलक, बाकि गभिया डर के मारे घर छोड़ के भाग गेल। 
 
 किसान खेत में सेरहा के आसा में साँझ तक खेत में रहल, बाकि बीहन नऽ आयल, तो खिसिआयल घरे हर-बैल ले के पहुँचल। ऊ अप्पन औरतिया से पूछलक कि ''छवड़ा कहाँ गेलउ हे?'' ऊ कहकई कि ''कहके तो गेलवऽ हे, कि सेरहवा ओला धान कूट के खीर बनावेऽ ला। बाबू जी कहकथुन हे। से ओकरा कूट-चूर के हम खीर-पूरी बना के रख ले हिवऽ!'' ऊ माथा ठोकलक बाकि का करे, साँझ हो गल हल, घर में बीहन भी नऽ हल, से ऊ खीर-पूरी खा के लइकवा के खोजे निकलल, बाकी ओहू नऽ मिलल। 
@@ -26,3 +33,30 @@ title: "गभिया"
 ओही रस्ता से ओहनी तीनो चलल जाइत हलन। उनकर गलबलइनी सुन के राजा कहलन कि आज हमनी के परदछे भूत से भेंट भे गेल, बाकि धोबिया कहलक कि चल के देख लेवे के चाहीं कि का हे? ओहनी कुआँ पर गेलन तो बाबा जी के गलबलाइत देखलन, से सब मिल के उनका कइसहूँ कुआँ से बाहर निकललन। बाबा जी सब कहानी कहलन, आउ सब साथे निकललन, गभिया के मारे खातिर चललन। जाइत-जाइत गभिया के गाँव में पहुँच गेलन। 
 
 गभिया उहाँ पहिले ही से डुग्गी पिटवा देलक हले, कि कोई भी अदमी सहर में नऽ हेले पावे। अगर हेल जाय, आउ ओकर धोती में पखाना हो जाय, इया पिलक जाय तो ओकरा गड़हारा भरवा देल जायत। चारो हिम्मत बान्ह के पूछइत-पूछइत गभिया के दूरा पर गेलन। गभिया ओहनी से कहलक कि रात में तोहनी के धोती में पिलक जतव तो जान मरवा देबव। बेचारन डरइत-डरइत खयलन-पिलन आउ सूत गेलन। गभिया तोरी के रवटी फुला के रखले हले। से ओहनी के सूत गेला पर धोती उठा के उनकर चूतड़ पर छींट देलक आउ बुढ़िया के भी लूगा उठा के थोड़े खरी गिरा देलक। भोरे राजा के नीन टूटल तो देखइत हथ कि हमरा तो धोतिये में पिलक गेल हे। एकरा बाद धोबिया उठल, तो ओहू कहलक कि हमरो। एकरा बाद ब्राह्मनो कहलन कि हमरो पिलक गेल हे। बेचारी बुढ़िया लाजे कह नऽ सकल। आउ सबहे डर के मारे ओतिये घड़ी उठलन आउ भाग गेलन। गभिया फिनो अनंद से रहे लगल। 
+
+
+<details>
+<summary>See translation</summary>
+
+In a village, there was a farmer who had a son. The son was quite foolish and often joked around, leading people to call him 'Gabhia.' During the month of Ashadh, when there was a lot of rain, the farmer was busy sowing seeds in the field. He asked his son to go home and ask his mother for some seeds. The boy went home and told his mother that father wanted some seeds to make khira. Upon hearing this, the mother prepared the seeds and made kheer-puri, but Gabhia, out of fear, ran away from home.
+
+The farmer remained in the field hoping the seeds would come, but since they did not, he headed home with his bull. He asked his wife, "Where is the boy?" She replied, "He went to bring the seeds, saying that father needs them to make khira. He said that he will bring them back after I prepare the kheer-puri." He was frustrated but had no choice; evening had come, and since his son wasn't back, he ate the kheer-puri and went out to search for him, but he couldn't find him either.
+
+Gabhia, after leaving home, ended up in another kingdom. There, the king was out hunting, and seven of his queens saw Gabhia wearing a beaded necklace and were captivated. They called him over, asking, "Hey boy, will you give us that necklace?" Gabhia replied, "What will you give me in exchange? I’ll just give it to you, but you have to pluck a pinch of hair from me one by one; otherwise, I won't give you the necklace!" All the queens agreed to this, the eldest queen went first, and she shrieked in pain. One by one, all the queens were plucked, and since they shrieked, he did not give away the necklace and fled.
+
+As he was running away, he met the king on his way back from the hunt. The king, enchanted by the necklace, requested it. When Gabhia said he would give it but wanted the king's mustache shaved, the king prepared to shave for him, but he shrieked in pain. So once again, Gabhia fled, not giving away the necklace. Embarrassed and with a shaved mustache, the king returned home. When the queen saw the state of her husband, she asked, and he recounted everything, leading the queens to admit they were the ones who had asked for the necklace.
+
+After hearing all this, the king mounted his horse and set out to search for Gabhia. While on his way, he saw a boy catching fish. He asked, "Hey boy, have you seen Gabhia?" The boy was dressed as Gabhia while fishing. He replied, "Yes, he just went by, but you won't be able to catch him. Wear my clothes and catch fish, and I'll follow you back to catch him!" The king thought no one was watching, so he dressed up and began fishing, while Gabhia rode off on a horse.
+
+As Gabhia was riding, he came across a river. An old woman was there, scolding her granddaughter, so Gabhia was asked to help cross the river. Gabhia agreed and asked the old woman what her name was. Gabhia told her, "My name is Natin Damad.” Gabhia helped the old woman across the river and then took her granddaughter with him. The old woman then cried out, "Oh God! My granddaughter was taken away by Natin Damad!"
+
+Meanwhile, the king reached that spot, realizing he had also fallen into Gabhia's trap, and decided to leave the fishing behind. Upon reaching the river, he heard the old woman's weeping. He asked her, "Did your horse run away too?" She agreed and accompanied the king.
+
+Gabhia sat at a well drying the clothes he had taken. On the same path, a holy man from Kolkata was returning with a lot of valuable money but without good clothes. He asked Gabhia to trade for some clothes. Gabhia replied, "Why should I give you the clothes? I just got them from my well." The greedy holy man, tempted, took off his clothes and put his money on the well, saying, "Please keep an eye on my money while I go fetch some more." The holy man wore a vest and jumped into the well. Meanwhile, Gabhia took all the money and rode away, leaving the holy man floundering in the well.
+
+Hearing the holy man’s cries, the king said, "Today, we encountered an evil spirit," but the washerman insisted they should check to see what was happening. They went to the well and saw the holy man floundering, so they all worked together to pull him out. The holy man narrated the whole story, and they all set out together to catch Gabhia. Eventually, they reached Gabhia’s village.
+
+Gabhia had already started beating a drum to announce that no one should be found in the city. If anyone did show up and accidentally soiled their dhoti, they would be filled with mud. He kept asking, and soon they reached near Gabhia. Gabhia warned, saying that if they spoiled their dhoti at night, he would deal with them. Out of fear, everyone went silent and slept. Gabhia had placed some rice in a pot, and when they were asleep, he lifted their clothes and flung some rice on their backs. He even lifted the old woman's shawl and dropped rice on her.
+
+In the morning, when the king woke up, he noticed that he had soiled his dhoti. Following that, the washerman got up and said that he too had soiled his. The poor old woman couldn't say anything out of shame. All out of fear, they hurriedly woke up and fled. Gabhia was left enjoying himself once again.
+</details>

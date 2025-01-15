@@ -1,10 +1,15 @@
 ---
-slug: "/mft-lal-sahjada"
+slug: "mft-lal-sahjada"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "लाल सहजादा"
+tags: "king, transformation, love, adventure, folklore"
 ---
+<blockquote>
+The story follows a king who, despite his wealth, is troubled by the lack of a son. A snake living in his fort, which gives birth to a child when trapped, leads to the birth of a boy named Lal Shahzada. As he grows up, the king arranges a marriage for him with a beautiful girl named Lal Shahzadi. After several challenges, they marry, but a deceitful old woman transforms Lal Shahzada into a sheep. Lal Shahzadi, disguised as a man, cleverly seeks the old woman to restore her husband. Eventually, Lal Shahzada reveals his snake origin, transforming into a snake upon saying his name. Heartbroken, Lal Shahzadi seeks a sage's guidance and, through a clever plan involving milk, she captures the snake and restores Lal Shahzada to human form. They reunite and live happily together.
+</blockquote>
+
 एगो सहर में बड़का राजा हलन । उनका धन-सम्पत कोई चीज के कमी नऽ हल बाकि उनका कोई बेटा न हल । राजा दिन रात फिकिर में रहऽ हलन कि उनका कइसे बेटा होयत। राजा के बड़का किला हल। किला में एगो सरप रहऽ हल। सरप के एक रोज अगाह भेल क्रि किला के एगो देवाल गिर जायत आउ ऊ चिपा जायत। से ऊ उहाँ से भागे ला चाहलक तइसहीं देवाल गिर गेल आउ सांप चपा गेल। देवाल गिरे के अवाज सुन के नोकर-चाकर अइलन तो देखऽ हथ कि एगो साँप आधा चपल हे, आउ ओकर मुँह से ई दीप के न ऊ दीप के एगो बालक निकलल हे। लौड़ी आन के राजा से सब हाल कहलक तो राजा ऊ बच्चा के खूब दुलार से पाले-पोसे लगलन। एक रोज राजा बराहमन के बोला के बच्चा के नाम धरे कहलन । बाबा जी कहलन कि लड़का बड़ा भागसाली है, बाकि लइका मुँह से जनम लेलक हे, से अप्‍पन मुँह से जे घड़ी अप्पन नाम कहत औही घड़ी ई मनुष सरीर छोड़ देन आउ सरप हो जायत । लइका के नाम लाल सहजादा धरा गेल । 
 
 कुछ दिन बीतल आउ लडका बिआहे लायक भेल, तब राजा ओकर कनेया खोजे ला नउआ-ब्राह्मण के भेजलन । चारो बगल खोजइत-खोजइत ओहनी एगो नदी पास पहुंच गेलन । एगो दूसर राजा के बड़ी सुन्नर लड़की हल, जेकरो नाम लाल सहजादी हल। आउ ओहू लाल सहजादे नियन लइका से सादी करे ला चाह हल, से ऐहू राजा के नउवा-ब्राह्यन लइका खोजइत- खोजइत परेसान हलन । ऐहनी भी ओही नदी के दोसर किनार पर डेरा डाल देलन। जब दुनाे राजा के नउवा-बाह्यन नदी के दूनों किनारे पर खा-खा के दोना नदी में फेंक देलन तऽ दूनों के दोना दहा के एक-दूसर से लड़ गेल। ई देख के दूनाें दने के नउवा-ब्राहान अपने में पूछा-पूछी करे लगलन। जब सब हाल-चाल मालूम होयल तो ओही ठइयां बर-कनेआ के गनना-मनना कयल गेल । तिलक आउ बिआह के दिन-ठेकाना भी ठीक हो गेल। जउन दिन तिलक आवे ला हल ओही दिन लाल सहजादा के बाप मर गेलन। जे से बिआह रुक गेल । 
@@ -31,3 +36,36 @@ title: "लाल सहजादा"
  
 साधु के कहल मोताबिक सबहे काम कयलन आउ अपने लुका के बइठ गेलन । जब तीनों कोना में नाद में दोसर- दोसर सरप आयल।  तब सुनसान पाके भंडार कोना में ओही सरप आयल आउ दूध पीये लगल । तब रानी गते गते जा के ओकरा भर अँकवार पकड़ लेलक, केतनो छोड़े कहलक तइयो रानी सरप के न छोड़लक। तब सरप अदमी के देह में हो गेल । दूनों खुशी-खुशी अप्पन राज में आके रहे लगलन। 
 
+
+
+<details>
+<summary>See translation</summary>
+
+In a city, there was a great king. He had no shortage of wealth, but he had no son. The king was worried day and night about how he could have a son. The king had a big fort. There lived a snake in the fort. One day, the snake was warned that a wall of the fort would fall down and that it would get trapped. So, the snake wanted to escape, but the wall fell and trapped it. Hearing the noise of the wall falling, the servants came running and saw that a snake was half crushed, and from its mouth came a child. When the news was brought to the king, he started to care for the child lovingly. One day, the king called a Brahmin to name the child. The Brahmin said that the boy was very fortunate, but since he was born from a snake's mouth, the moment he speaks his name, he will leave his human form and become a snake. The child was named Lal Shahzada.
+
+A few days later, when the boy was of marriageable age, the king sent a priest to search for a bride. While searching in all directions, they reached near a river. There was a very beautiful girl from another king's side named Lal Shahzadi. She also wanted to marry a boy like Lal Shahzada, and the priest from the other king was troubled while searching for the boy. They set up camp on the opposite bank of the same river. When both the priests threw offerings into the river and started to fight, seeing this, both groups began to inquire amongst themselves. Once everything was clear, the engagement and wedding date were fixed. On the day of the engagement, Lal Shahzadi's father passed away, which postponed the wedding.
+
+After some days, Lal Shahzada's mother sent a message to Lal Shahzadi's father about the wedding. The king refused to marry. When Lal Shahzada grew up, the people around him started to taunt him, asking how come his parents had not arranged a wedding yet. Hearing this, Lal Shahzada felt very sad. He returned home, determined to confront his mother, asking if he should kill her unless she reveals why he wasn't married. His mother explained everything. After hearing all this, Lal Shahzada dressed up nicely and mounted a fine horse. As he left, he declared that he would marry only Lal Shahzada. He reached the kingdom of Lal Shahzadi's father. The king had stationed guards all around, thinking about his daughter.
+
+As the boy reached the gate, he tied his horse and began to watch for Lal Shahzadi. He visited the gate every day, standing there and looking out. When the guards saw this, they asked why he was standing there daily with his horse. The boy replied that he would not leave until he was assured of his wedding. The guard, flustered, raised his sword, but upon seeing the boy's face, he felt pity. Then, the guard reported to the king, who commanded him to take and throw dirt at the gate. The king wanted to kill the boy without seeing him, fearing that he might be enchanted by his beauty.
+
+The king thought to himself that he would look at the boy's face first, and then decide. With this in mind, he opened the gate. Seeing the boy's face caused the king to faint. They all worked together to revive the king. Then the king announced that he would marry his daughter to this boy. Thinking this way, the king spared the boy's life. The wedding preparations were soon made, and the marriage took place. Lal Shahzada and Lal Shahzadi lived together happily.
+
+After some days, Lal Shahzada returned to his kingdom with his bride after their marriage. Meanwhile, he arranged for a palanquin but told his wife that he was going to get some fodder for the horse. While he was away, a deceitful old woman approached him. She had fodder with her. The old woman gave him food but also had a daughter. When the daughter saw the prince's face, she became fascinated. She used magic to turn him into a sheep and locked him in her house.
+
+Meanwhile, the queen was waiting and looking, but the king did not return. Seeing the deserted place, the queen disguised herself as a man and rode out. As the king came back, he searched for her. When the old woman arrived, there was no one around, as she was selling fodder. The queen realized that the old woman was responsible for everything. So, the queen returned home disguised as a man.
+
+Seeing her husband, the king was very hospitable to him. After that, disguised as Lal Shahzadi, she told her father that she wanted to see all the subjects of the kingdom. A lot of sweets were prepared and the kingdom was informed that the king's son-in-law wished to meet with the subjects. All the subjects came, and everyone received five sweets each, but the deceitful old woman did not show up. The king's son-in-law remarked that an old woman had not come.
+
+The king's soldiers went to find her, and then the old woman came to the court with her sheep. When the king's son-in-law saw the sheep, he said to the old woman, “If only you would give me this sheep!” The old woman replied, “This is not a sheep; this is a man.” The king then ordered her to make him a man. Hearing this, the old woman transformed the sheep into a man. Immediately, he became Lal Shahzada. Then the Shahzadi told her father everything. The king was very pleased. At that place, the deceitful old woman was rewarded immensely.
+
+Hearing all this, the old woman's daughter thought to herself that if Lal Shahzada was no longer her husband, then he should not remain so. She went and told Lal Shahzadi, “O queen! You have married Lal Shahzada, but he is not what he seems. Has he ever revealed his identity?” The queen realized the truth in her words and decided to inquire with the king. So, she asked, “O king, we have been living together for so long, yet you have never told me your origins.” The king replied that the moment he mentions his name, his body would become that of a snake, but the queen did not believe him and insisted heavily. Finally, the king, feeling helpless, said, "Let's go to the pond, then I'll reveal my name."
+
+Both went to the pond, and there the king stated, "I am the son of a serpent, and my name is 'Lal Shahzada'." As soon as he uttered this, his body transformed into that of a snake, and he immediately jumped into the pond. The queen cried out, "Oh king! Oh king!" and began to beat her chest in sorrow, remaining there in despair.
+
+One day, a sage came. The sage told the queen, “You are wasting your life unnecessarily. The king will no longer be found.” The queen implored the sage, and he suggested a remedy: “Dig four pits at each corner of the pond and fill them with warm milk.”
+
+In three of the corners, other snakes came to drink the milk, but in the fourth corner, the very serpent arrived. Its mouth appeared human, but its body was that of a serpent. The queen was to go and catch it tightly. No matter how much it told her to let it go, even if it pleaded, she had to hold on. Then the serpent would gain a human body.
+
+Following the sage's instructions, everything was done, and they hid. When the other snakes entered the pits, the area became empty, and the serpent came to drink the milk. The queen approached and caught it tightly. Despite its pleas to be released, she held on tightly. Eventually, the serpent transformed into a human body. Both returned happily to their kingdom and lived together.
+</details>

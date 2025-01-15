@@ -1,10 +1,15 @@
 ---
-slug: "/mft-ladka-thag"
+slug: "mft-ladka-thag"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अर्थ-कथा"
 title: "लड़का आउ ठग"
+tags: "gambling, temptation, deception, wealth, family dynamics"
 ---
+<blockquote>
+The story revolves around a priest's son who has a gambling problem, which prompts his mother to call his father home. Upon returning, the father decides to test his son by giving him a large sum of money to run a business. The son, along with his friend, travels far and eventually earns a significant amount of money. After a while, he returns home to boast about his earnings and then throws away a stone, which turns out to contain gems. On his way home, he encounters a trickster old woman in the forest who attempts to deceive him. Despite the challenges, the boy eventually makes it home, enjoying his newfound wealth. The story highlights themes of temptation, deception, and the consequences of one's actions.
+</blockquote>
+
 एगो हलै पंडित जी । ऊ बिजनेस के काम कर हलै । ओकरा एगो लड़का हलै। ऊ लड़कावा घरा पर बड़ी जुआ खेलऽ हलै । ओकर मइया के रोज सब सिकाइत करे आवे कि तोर बेटवा बड़ी जुआ खेलऽ हौ । सुनते-सुनते एक दिन लड़कावा के मइया ओकर बाबूजी ही चिठ्ठी लिखलकै कि हम बड़ी जोर से बेमार हकियो। ई से तूं एक दिन ला चल आवऽ । चिट्ठी लड़कावा के बाबू जी ही पहुँच गेल, तो लड़कावा के बाबू जी ऐला । ऊ अपन से औरतिया से पूछलका कि कौन बात होलो, से तूं हमरा हीं चिट्ठी लिखला कि तूं जल्दी चल आवऽ । लड़कावा के मैया सब बात कहलका, कि तोहर बेटा ऐसन हको कि रोज जुआ खेले ला परक गेलो हे । रोज पाँच-छ सौ रुपेया हार जा हको । लड़का के बाबू जी सोचलक कि हम अप्पन बेटा के परीक्षा ले लूँ !
 
 लड़कावा साँझ के खेल-कूद के आयल । अप्पन बाबूजी से पूछलक कि की बात हको बाबू जी, कि तूं तुरते चल ऐला। बाबू जी कहलका कि ''हम अब बूढ़ा हो गेलियो हे। हमरा से अब कोय काम नै होवऽ हो । अब तूं जो, आउ तोही हम्मर बदल बिजनेस करऽ गन । जो रुपेया लेवे के हौ से ले ले !'' लड़कावा कहलक कि हमरा बीस हजार रुपेया दे दऽ । ओकरा बाबू जी बीस हजार रुपेया दे देलन । लड़कावा के एगो इआर हलै, जात के हलै कुरमी । लड़कावा सोचलक कि हम जाब तो हम्मर दोस्तवा कैसे रहत?  से ओकरो साथ ले लेलक, आउ दूनो साथै बेपार करे चललन। 
@@ -14,3 +19,19 @@ title: "लड़का आउ ठग"
 ''अभी तो हमरा पैसा हइए हे !'' फिन चलल ऊ घरा से। फिनो बड़ी रुपेया कमैलक दोस्तवा से कहलक कि अबरी तूं जो घरा । इयरवा कहलक कि ठीक कहऽ हैं । अबरी हम जा हिओ । इयरवा के कहलक कि जो आउ घरा कुछ समान भी ले ले जो। ऊ बड़का सहर में गेल बाकि ओकरा कुछ पसंद नै पड़लै, खाली एगो सीप पसंद पड़लै। से ऊ छोड़ देलकै । ऊ सीपवा में एगो बड़ी नीमन पत्थर हलै । ओही पत्थरवा खाली ले लेलकै । इयरवा कहलकै कि बल, पत्थरा तूं ले चल! ई बड़ी अच्छा पत्थर हौ। दोस्तवा नै लेलक आउ आगे बढ़ गेल । इयरवो के भी मन ऊब गेल हल । ओहें ऊ पत्थरवा पटक देलक, तो पत्थरवा से तीन गो लाल निकलल। ऊ तीनों लाल लेके चलल। 
 
 चलते-चलते रात हो गेल। ओकर घर एगो जंगल से हो के जाय पड़ऽ हलै । जंगला में एगो ठग के घर हलै । घर में एगो बुढ़िया रह हलै ऊ बोलल, ''ऐ बेटा बड़ी रात हो गेलो । जंगल हको से कइसे जैइमाँ?'’ लड़कावा कहलक- ''बल, हम चल जइबो।'' बुढ़िया सोचलक कि अब हम एकरा कैसे फँसाउं? तब बुढ़िया एगो इमली के डाढ़ तोर के दे देलक, आउ कहलक कि ''बल, आगू हम्मर एगो बेटी रहऽ हको । ओकरा दे दीहँऽ, ई दवाई हकै ।'’ आगे देखऽ हके, तो सच्चे एगो लड़की हके । लड़किया कहलकै कि ''बल, ए भैया, रात हो गेलो, घरा अभी कइसे जैइमाँ? आधी रात हो गेलो हे । घर हइए हौ तो बल, ऐहें ठहर जो ! भोर होतौ तो जैहेंऽ!'' लड़कावा रस्तवे में इमलिया के सब पतवा तोड़ देलकै हल, आउ केवल एक पत्ता रहे देलक हल। लड़किया के ऊ कहलक कि ले ई डाढ़िया, तोरे माय देलको हे। लड़किया सोचलक- '’बल, हमर मैया पागल हो गेल हे, कि एक पत्ता देलक है। एकरा हीं एक पैसा हे, कि एक लाख हे, कि केतना हे !'' ओकरा कुछो नै पता चललै। अन्हारे लड़कावा अप्पन घर पहुँचल आउ मौज से रहे लगल। 
+
+<details>
+<summary>See translation</summary>
+
+Once there was a priest. He was engaged in business. He had a son who often gambled heavily at home. His mother used to complain daily that her son was gambling a lot. One day, after hearing all this, the boy's mother wrote a letter to his father saying that she was very sick and that he should come home immediately. When the letter reached the boy's father, he asked his wife what was going on since she wrote to him to come quickly. The boy's mother explained everything, saying, "Your son is such that he plays games every day and loses five to six hundred rupees daily." The boy's father thought to himself that he would test his son!
+
+In the evening, the boy came home after playing and asked his father what was the matter that he called him so urgently. His father said, "I am old now. I can't do any work. Now, if you want to, you can take over the business. If you need money, take as much as you want!" The boy said, "Give me twenty thousand rupees." His father gave him twenty thousand rupees. The boy had a friend, who was also a Kurmi (a farming caste). The boy thought, "If I leave, how will my friend manage?" So, he took him along, and together they went to do business.
+
+As they traveled, they both went far away to a foreign land. There they started doing business. After some days, they earned a lot of money. One day, he thought to go home, as it had been a long time since he was there. He told his friend that today he would go home, and then he could stay. He gave ten thousand rupees to his friend and headed home himself. His parents asked him how the business was going. He replied, "Look, father, I earned twenty thousand rupees!" His father was very happy and asked, "How much money do you have now?"
+
+"I still have money left!" He then left home. He told his friend who had earned a lot of money that now he should go home. The friend said, "You're right. I will go home too." The boy told him to buy some goods from the big city. The friend went to the big city but didn’t find anything appealing, just one shell that he liked. So he left it behind. The shell had a very nice stone in it. He only took that stone. The friend said, "Well, take the stone! It’s a very good stone." The friend didn’t take it and moved ahead. The boy also lost interest and threw the stone away, from which three red gems fell out. He took all three gems with him.
+
+As they continued, it became nighttime. His house was situated on the way through a forest. In the forest lived a trickster. An old woman lived in the house and said, "Hey son, it’s quite late. How will you pass through the forest?" The boy replied, "I will manage." The old woman thought of a way to trap him. She gave him a twig of tamarind and said, "Well, my daughter is ahead. Give this to her, it's medicine." Looking ahead, it was indeed a girl. The girl said, "Well, brother, it's late. How will you get home now? It’s already midnight. If you have a house, then stay here! You can go in the morning!" 
+
+The boy picked all the leaves of the tamarind tree on the way and left only one leaf. He handed it to the girl and said, "Take this twig; it was given to you by your mother." The girl thought, "Well, my mother has gone crazy, giving just one leaf. Is it worth one cent, one lakh, or how much!" She understood nothing. In the dark, the boy reached his home and started to enjoy himself.
+</details>

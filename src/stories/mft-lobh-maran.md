@@ -1,12 +1,27 @@
 ---
-slug: "/mft-lobh-maran"
+slug: "mft-lobh-maran"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अर्थ-कथा"
 title: "लोभ से मरन"
+tags: "king, greed, humility, consequences, redemption"
 ---
+<blockquote>
+The story centers around a king who encounters a blind beggar while hunting with his ministers. Despite the king's repeated offers of money and riches, the beggar refuses to accept anything. Intrigued, the king invites him to court to understand his stance. The beggar shares his backstory of wealth and greed: he was once a prosperous trader who, after receiving a blessing from a holy man, became greedy and insisted on having both eyes treated with kajal for greater wealth. This greed led to his blindness. Now, he insists on receiving two slaps as a reminder of his past mistakes, reflecting his understanding of the consequences of his actions and seeking redemption through self-discipline. The story conveys themes of greed, consequences, and the importance of humility.
+</blockquote>
+
 एक दफे एगो राजा आठ वजीर जंगल में सिकार करे गेलन तो राह में एगो आन्हर भिखारी के देख के रुक गेलन। ओकर भीरू जाके पूछलन, आउ कुछ देवे लगलन तो ऊ कहलक कि हम न लेम। राजा वजीर से पाँच रुपेया देवे ला कहलन । ऊ लेवे ला तइयार न होयल । पाँच से दस, दस से बीस, बीस से सौ, सौ से हजार, इहाँ तक कि आठ लाख रुपेया तक देवे ला राजा तइयार होयलन, तइयो ऊ न लेलक। फिनो आधा राज-पाट भी न लेलक, तो राजा ओकरा मुँहमाँगा देवे ला दरबार में बोलवलन। दोसर दिन भिखारी राजा किहाँ गेल। राजा कहलन कि तोरा का चहवऽ ? भिखारी कहलक कि हमरा ''दू थप्पड़ मार के जे देम से हम ले लेम।'’ थप्पड़ हम काहे मारम ? एकरा का कारन हे ? अपने राजा के पूछला पर भिखारी अप्पन सब हाल सुनावे लगल।
  
 हम पहिले पच्चास गदहा पर बेपार करऽ हली। एक समै पच्चासो गदहा पर सौदा लाद के चलल आवइत हली, तऽ राह में एगो कुटिया मिलल। ऊ में एगो साधु रहऽ हलन । हम पानी उनी पी लेली, तो साधु जी हमरा से पूछलन कि तोर का हाल हे?  कइसे रोजगार चलऽ हे ?  तो हम अप्पन दुःख उनका से सुनौली। ऊ दया कर के हमरा एगो पहाड़ के खोह में ले गेलन । उहाँ हम्मर एगो आँख में काजर लगा देलन आउ कहलन कि तूं आँख मूँद ले । हम मुँदली तो साधु जी उहाँ पानी छींटलन, आउ हमरा आँख खोले ला कहलन। हम आँख खोलली तो पन्ना, पोखराज, हीरा आउ लाल से ऊ खोह के भरल देखली, आउ महात्माजी के न पउली। 
 
 हम पच्चासो गदहा पर लाल-जवाहर लाद ले ली। ओमें पच्चीस गो साधुजी के कुटिया पर छोड़ देली, आउ पच्चीस गदहा पर लाद के पन्ना-पोखराज, हीरा-लाल ले के घरे आ गेली। ओकरा बाद फिनो साधु जी के पास जाके ओही पच्चीसो गदहा पर के समान लादके घरे चल अइली। तइयो मन में संतोख न भेल, तऽ फिनो साधु जी के पास अइली, आउ कहली कि एगो आँख में काजर लगावे से तो एतना मिलल, किरपा कर हमर दूनो आँख में काजर लगा दिहीं। साधु जी हम्मर बात सुन के मना कयलन, बाकि हम न मानली, तो ऊ हम्मर दूनो आँख में काजर लगा देलन। काजर दूनों आँख में लगे से हम आन्धर हो गेली। ऊ दिन से हम भिखारी हो के दुख भोगइत ही। अब सब देवेओला से कहऽ ही कि कुछ दे, आउ दू थप्पड़ लगा दे, जेकरा से हम्मर अप्पन करनी के फल पावइत रहीं। एही से हम अपने से कहली कि कुछ देवे के बदले हमरा दू गो थप्पड़ लगा दिहीं! 
+
+<details>
+<summary>See translation</summary>
+
+Once a king went hunting in the forest with eight ministers. On the way, he saw a blind beggar and stopped to talk to him. The king asked him if he wanted something, and the beggar replied that he would not take anything. The king told his ministers to give him five rupees. The beggar still refused. The king then offered five rupees, then ten, then twenty, then a hundred, up to a thousand, and even up to eight lakh rupees, but the beggar did not take anything. He also refused half of the kingdom, so the king called him to the court to ask what he wanted. The next day, the beggar came to the king. The king asked him what he wanted, and the beggar replied, "I will take whatever you give me if you slap me twice." The king asked, "Why should I slap you? What is the reason?" Upon being asked by the king, the beggar began to narrate his story.
+
+"I used to trade with fifty donkeys. Once, while carrying goods with all fifty donkeys, I came across a hut. In that hut lived a holy man. I drank some water from him, and the holy man asked me how I was doing and how my business was going. I shared my troubles with him. Out of compassion, he took me to a cave in the mountains. There, he applied kajal to one of my eyes and told me to close my eyes. When I closed my eyes, the holy man sprinkled water on me and told me to open my eyes. When I opened my eyes, I saw that the cave was filled with emeralds, topaz, diamonds, and rubies, but I did not see the holy man."
+
+"I loaded the precious stones on fifty donkeys. I left twenty-five donkeys at the hut of the holy man and brought the other twenty-five donkeys loaded with emeralds and topaz, diamonds, and rubies back home. After that, I went back to the holy man and loaded the same twenty-five donkeys with goods to take home. Yet, I was not satisfied, so I went to the holy man again and said, 'I received so much by having kajal applied to one eye; please apply it to both my eyes.' The holy man initially refused my request, but I did not listen to him, so he applied kajal to both of my eyes. Since I had kajal applied to both eyes, I became blind. Since that day, I have been suffering as a beggar. Now, I tell everyone who gives me something to also give me two slaps, as that way I would reap the fruit of my own deeds. That's why I tell myself to slap me twice in exchange for something!"
+</details>

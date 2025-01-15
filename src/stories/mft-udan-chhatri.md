@@ -1,10 +1,19 @@
 ---
-slug: "/mft-udan-chhatri"
+slug: "mft-udan-chhatri"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "उदन छत्री के वीरता"
+tags: "king, offspring, valor, demon, charity"
 ---
+<blockquote>
+The story revolves around a wealthy king who, despite marrying multiple women, remains childless. After encountering a divine being, he learns that mangoes from a specific tree will grant him offspring. The king's queens eventually bear children, including a powerful son named Udan Chhatri, born to the youngest queen who was initially cast out.
+
+Udan Chhatri showcases his extraordinary strength by defeating challenges posed by his six brothers and a ghostly elephant. He becomes famous for his valor and, alongside his brothers, sets out to confront a demon terrorizing another kingdom. They succeed in killing the demon, winning the favor of the king who promises his daughter in marriage to Udan Chhatri.
+
+Udan Chhatri emphasizes the importance of charity before marriage, and after fulfilling this condition, he and his brothers find love and happiness. The story concludes with the brothers enjoying harmony and prosperity, having overcome their struggles and fulfilling their responsibilities, living happily ever after.
+</blockquote>
+
 एगो राजा हलन। उनका बड़ी धन हल। बाल-बच्चा न होव हल। तब एक-एक कर छव गो सादी कयलन । तइयो न एको लइकन होयल । तब एक सादी आउ कयलन । तइयो कोई बाल-बच्चा न होयल। 
 
 राजा एक दिन भोरे मैदान जाइत हलन कि एगो कानुन पर नजर पड़ल । कानुन कहलक कि आज बाँझ के मुँह देखली हे। का जनी कइसन तो दिन जाहे? सुनके राजा जंगल में चल गेलन। उहाँ ध्यान लगौलन तो भगवान खुस होके अयलन । ध्यान तोड़लन तो पूछलन कि तोरा का चाही। राजा कहलन कि हमरा कोई बाल-बच्चा न हे। हम सात गो सादी कइली हे। तब भगवान कहलन कि इहे रास्ता में आम के एगो पेड़ है, जहाँ सात आम के घउद हे। एक झटका में घउद के गिरा के ऊपर ही लोक लीहँ । 
@@ -74,3 +83,37 @@ title: "उदन छत्री के वीरता"
 इहाँ रानी बुढ़िया के बोलौवलन आउ कहलन कि राजा से अब सादी करम बाकि उड़नखटोला ले आवथ ओकरे पर हमनी चढ़के हवा खाय चलम। राजा उड़नखटोला लेके आ गेलन। खटोला उड़ल तो बुढ़िया के कोई हाल से ओही दरिआव में गिरा देलन आउ फिनो राजा के भी गिरा देलन आउ अप्पन घर में चल अयलन । अब इहाँ से तीनो इयार सोनवा रानी के लेके उड़नखटोला से चललन। सब बघमल सिंह के ससुरार उतर गेलन आउ इहऊँ से रोसगद्दी करा के चललन । इहाँ से दू डोली पर सवार होके दूनो रानी चललन आउ बंसी सिंह के ससुरार पहुँचलन। उहाँ से भी रोसगद्दी करौलन आउ चललन। तीनो रानी आउ तीनो इयार रोसगद्दी करा के चललन तो उदन छत्री कहलन कि तोहनी अपन अपन घरे जा। तब ओहनी कहलन कि न पहिले तोरे ही तीनों के दुआरी लग जायत तब हमनी घरे जायम । 
 
 उदन छत्री अप्पन नगर में आ गेलन। दरवाजा लग गेल। दू-चार रोज के बाद बघमल सिंह आउ बंसीसिंह भी अप्पन-अप्पन घरे चल गेलन। बाद में उदन छत्री बापजान से कहके अप्पन छवों सतेली माय के गढ़हरा भरा देलन आउ अप्पन माय के साथए सोनवा रानी के साथ भी खुसी से जीवन बितावे लगलन । 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king who was very wealthy but had no children. He married six women one after the other, but still, he remained childless. Finally, he married again, but still, there were no offspring.
+
+One morning while the king was walking in the field, he came across a law that said he would meet a barren woman today. The king, curious about what kind of day it would be, went into the forest. While meditating there, God appeared to him and, breaking his meditation, asked him what he desired. The king expressed his longing for children, mentioning that he had married seven women. God replied that there was a mango tree on a certain path where seven mangoes were hanging. He advised the king to shake the tree, and the mangoes would fall, leading to descendants.
+
+The king went to the tree, picked the mangoes, and returned home. He gave each of his queens one mango, and soon all of them were pregnant. After some disputes, the younger queen was sent away by the others.
+
+She wandered into another kingdom and wept in the forest. Her cries brought the attention of the village king, who inquired about her home. The king, having recognized her as his sister, took her to his house, where she later gave birth to a son named Udan Chhatri.
+
+Meanwhile, the six queens gave birth to six brothers who grew strong and began studying, also participating in wrestling. When Udan Chhatri entered the wrestling arena and broke their wooden club, the six brothers inquired who was so brave to have done that. They brought a club weighing 84 mann and challenged him. The next morning, Udan Chhatri came back to test it, lifting it and breaking it into four pieces.
+
+The six brothers were astonished that someone was capable of such strength. They learned about Udan Chhatri's prowess and were eager to find him.
+
+When they realized the club was broken, they questioned who had done it. On the third day, they sought a ghostly elephant. At that time, Udan Chhatri was practicing in the arena and saw the elephant. Realizing the situation, he seized the opportunity and tricked the elephant. After a struggle, he managed to defeat it.
+
+The following morning, a commotion arose that the elephant was slain. Soldiers were sent to investigate. Udan Chhatri shared that it was Vansi Singh who killed the elephant, so he was married to the king's daughter. The brothers stayed with their sister for a few days before Udan Chhatri decided to leave.
+
+Udan Chhatri instructed Vansi Singh to gather information about their father. After some questions, Vansi Singh learned that an important tree had a parrot containing their father’s soul. Udan instructed to write to them about their whereabouts, and when the time comes to seek them, they will look for their father.
+
+The three brothers journeyed, and at another king's land, they found another demon causing havoc. This king used to bind one person every day and feed him to the demon. The proclamation circulated that whoever kills the demon would be permitted to marry the king's daughter.
+
+Udan Chhatri and his brothers made arrangements to confront the demon. After a fierce battle, they succeeded in killing it and consequently won the king's favor.
+
+As festivities began, Udan Chhatri expressed a desire to marry the king's daughter, with the condition that for twelve years, they would perform charity before marrying. Vansi Singh and Baghmal Singh fulfilled this condition, while Udan Chhatri stayed engaged in charity and service to eventually win his beloved.
+
+The demon's daughter turned out to be a lovely maiden, and when they revealed their intentions, the king offered them all as wives. Under the various trials they faced together, peace and prosperity returned to their lands.
+
+After reuniting, they all enjoyed their marital bliss, leaving behind their past struggles, and ensuring they lived happily ever after, fulfilling both duty and virtue.
+
+Udan Chhatri lived a dignified life, ensuring his family thrived well after the many obstacles they overcame. Each brother also found joy and completed their journeys with the love they sought.
+</details>

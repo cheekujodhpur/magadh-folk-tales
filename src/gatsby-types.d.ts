@@ -1430,6 +1430,7 @@ type MarkdownRemarkFrontmatter = {
   readonly section: Maybe<Scalars['String']>;
   readonly slug: Maybe<Scalars['String']>;
   readonly source: Maybe<Scalars['String']>;
+  readonly tags: Maybe<Scalars['String']>;
   readonly title: Maybe<Scalars['String']>;
 };
 
@@ -1438,6 +1439,7 @@ type MarkdownRemarkFrontmatterFieldSelector = {
   readonly section: InputMaybe<FieldSelectorEnum>;
   readonly slug: InputMaybe<FieldSelectorEnum>;
   readonly source: InputMaybe<FieldSelectorEnum>;
+  readonly tags: InputMaybe<FieldSelectorEnum>;
   readonly title: InputMaybe<FieldSelectorEnum>;
 };
 
@@ -1446,6 +1448,7 @@ type MarkdownRemarkFrontmatterFilterInput = {
   readonly section: InputMaybe<StringQueryOperatorInput>;
   readonly slug: InputMaybe<StringQueryOperatorInput>;
   readonly source: InputMaybe<StringQueryOperatorInput>;
+  readonly tags: InputMaybe<StringQueryOperatorInput>;
   readonly title: InputMaybe<StringQueryOperatorInput>;
 };
 
@@ -1454,6 +1457,7 @@ type MarkdownRemarkFrontmatterSortInput = {
   readonly section: InputMaybe<SortOrderEnum>;
   readonly slug: InputMaybe<SortOrderEnum>;
   readonly source: InputMaybe<SortOrderEnum>;
+  readonly tags: InputMaybe<SortOrderEnum>;
   readonly title: InputMaybe<SortOrderEnum>;
 };
 
@@ -2868,7 +2872,7 @@ type StoryContentQueryQueryVariables = Exact<{
 }>;
 
 
-type StoryContentQueryQuery = { readonly markdownRemark: { readonly html: string | null, readonly frontmatter: { readonly slug: string | null, readonly source: string | null, readonly author: string | null, readonly section: string | null, readonly title: string | null } | null } | null };
+type StoryContentQueryQuery = { readonly markdownRemark: { readonly html: string | null, readonly frontmatter: { readonly slug: string | null, readonly source: string | null, readonly author: string | null, readonly section: string | null, readonly title: string | null, readonly tags: string | null } | null } | null };
 
 type StoryQueryQueryVariables = Exact<{ [key: string]: never; }>;
 

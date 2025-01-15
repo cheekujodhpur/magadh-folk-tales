@@ -1,10 +1,17 @@
 ---
-slug: "/mft-daitya-rani"
+slug: "mft-daitya-rani"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "भूअवरा जिला के बाबू"
+tags: "king, queens, demon, heir, bravery"
 ---
+<blockquote>
+The story revolves around a king with seven queens, none of whom have given him a son. While hunting, the king encounters a beautiful girl who is actually a demon in disguise. The demoness schemes against the queens, pushing them into a well where they become trapped. One of the queens gives birth to a son in the well, who eventually decides to find work to support the family. He goes to the king’s court, unaware of his true parentage.
+
+As the boy interacts with his father and the demoness, he learns of her malicious intentions. With cleverness and bravery, he ultimately defeats the demoness by manipulating her and using her own offspring against her. After returning home and healing the trapped queens, the boy reveals his identity to the king. The story concludes with the boy, now recognized as the rightful heir, enjoying a life filled with love and happiness alongside his mothers and the new queen, leading the kingdom together.
+</blockquote>
+
 एक बड़ा भारी सहर में एगो राजा हलन। राजा के सात रानी हलन । बाकि सातो रानी में एक्को लड़का न हल। एक समय राजा जंगल में सिकार खेले गेल हलन, से ओही जंगल में एक दैत्य के सुन्दर लड़की जार-बेजार रो रहल हल । लड़की के पास राजा जाके पूछलन कि तू अकेले जंगल-झार में बइठ के काहे रोइत हैं। से ई पर लड़की बोलल कि हमरा मरदाना एही जगह बइठा के कने तो चल गेलन। एही लागी हम बइठ के रोइत ही । एकरे पर राजा कहलन कि तू हमरा साथे चलवे? तब लड़की राजी हो गेल। राजा ओकरा अप्पन घोड़ा पर बइठा के राजमहल में ले अयलन । राजा के पहचान में न आयल कि लड़की दैत्य के हे। ऊ बड़ी सुन्दर हल से ई से राजा ओकरा साथ काफी प्रेम रखे लगलन। 
 
 एकरा बाद ऊ लड़की राजा के सातो रानी के जान मारे ला उपाय रचे लगल । सातो रानी में छोटकी गर्भवती हल। एक दिन नइकी रानी सातो रानी के कुइयाँ में धँसोर देलक । कुइयाँ में गिरते पानी सूख गेल। तब सातो रानी ओही में अप्पन दिवस काटे लगलन । छोटकी रानी के उहईं एगो लड़का जनम लेलक । ऊ एक जौ रोज बढ़े। सातो रानी ओकरा बड़ी प्यार से पाले-पोसे लगलन । 
@@ -40,3 +47,39 @@ title: "भूअवरा जिला के बाबू"
 राजा सुनके बड़ी गुस्सा होयल बाकि सोचलन कि जरूर कोई-न-कोई बात है । तब राजा हाथी पर चढ़के अयलन तो लड़का कहलन कि जरा कुइयाँ में झाँक के देखऽ । राजा जा के देखलन तो सातो रानी ऊपरे राजा के देख के कहलन, तोरा सरम न लगइत हवऽ राजा ! अप्पन लड़का के जान मरवे खातिर दैतिन के लड़की केतना उपाय कयलक आउ तू अप्पन लड़का के भी न पहचानलऽ । एतना सब सुनके राजा दाँते अंगुरी काटलन । 
 
 एकरा बाद सातो रानी आउ लड़का के डोली कहार पर चढ़ा के राजमहल में ले गेलन आउ कहलन कि अब सब अधिकार लड़का के दे देली। जे मन में आवे से ई लड़का नई रानी के साथ करथ । लड़का नइकी रानी के गड़हरा खोदवा के भरवा देलक आउ सभे मिल के बढ़िया से राज-पाट करे लगलन । 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king in a large city. The king had seven queens, but none of the queens had a son. One day, the king went hunting in the forest, where he saw a beautiful girl weeping in distress. The king approached her and asked why she was sitting alone in the jungle crying. The girl replied that her husband had gone away from that very spot, and that is why she was sitting there crying. The king then asked her to accompany him, and the girl agreed. He brought her back to the palace on his horse. The king did not realize that the girl was a demon. She was very beautiful, and thus the king began to fall in love with her.
+
+After this, the girl began to devise ways to kill all seven queens. One of the queens was pregnant. One day, the new queen pushed all the other queens into a well. When they fell in, the water dried up. The seven queens began to spend their days there. The younger queen gave birth to a son right there. He grew up quickly, and the seven queens began to care for him with great love.
+
+As the boy grew a bit older, he said to his mother, "I will go to find a job. Sitting idly will not work for us because we are eight people." 
+
+The boy left and went to the king’s court, which was his father's, and saluted the king, saying he was looking for work. The king asked him what work he would do. The boy replied that he would do whatever work the soldiers did not do. After inquiring about his background, the king kept him close, always sitting beside him.
+
+One day, seeing the demon girl, he thought to himself that she must be the girl promised to him. This was because she resembled the king quite a bit. The king and queen held him in high regard. The queen began to think of ways to kill the boy. She told the king that she had not received any news about her mother. "Send a soldier to bring news about my mother."
+
+Hearing this, the king commanded his soldiers and attendants to send a soldier to the jungle, where the queen's maternal home was located, to bring back news. The soldiers did not want to go. Then one old soldier suggested sending the boy from Bhuabra district, saying, "He claimed he would do the work that the soldiers do not." This was a good opportunity for his test.
+
+The king instructed the boy to go to the specified forest. The boy immediately got ready and said he would require twelve measures of supplies and twenty rupees for his journey. The king ordered the treasurer to provide the supplies and money. The boy went to his mother’s well, dropped all the provisions there, and told her, “I will return after a few days; do not worry.”
+
+The boy set off with a letter. The queen had written that her mother knew the boy belonged to his rival. She warned him to be careful not to reveal his identity so that he could return safely. The boy took the letter and continued his journey. Along the way, he stopped at a pond to drink water when a Brahmin passed by. The boy handed him the letter and asked, "O Brahmin, what does this letter say?" The Brahmin read it and replied, "O child, what peace do you expect from there? You are not likely to return home." The boy asked what he should do. The Brahmin suggested writing that the mother knows the boy is going back to his mother’s house without any trouble or pain.
+
+The boy continued on his way and finally reached the jungle where the demon lived. Upon arrival, the demoness shouted, "Alas, a human! Alas, a human!" and ran to eat him. The boy quickly threw the letter in front of her. When she read the letter, she remarked that it had been a hundred years since any human had claimed such a relationship. Confused about how to treat him, she started losing patience. As the day passed, the boy learned all about the home.
+
+Every day, the demoness would prepare a meal but then immediately lock the boy in a room. This raised the boy’s suspicions. One evening, when she had gone out, he took the key and unlocked the door, then took the eyes and the baby demon outside and hid them. He locked the door again. When the demoness returned and went to bed after dinner, the boy woke up and quickly gave one of the demon baby’s eyes to the baby demon. The demoness instantly died. After that, the boy immediately took the eyes and baby demon and left.
+
+He returned home, placed the eyes carefully, and told the queen everything that had happened. When his mother heard of the demon's death, she cried a lot. A few days later, the queen again ordered for milk from a she-tiger under the pretext of having a stomach ache. The boy got ready to go, packed some supplies, and went to his mother, assuring her that he would return soon with the she-tiger's milk.
+
+On his way, he reached a dense forest. There he saw two tiger cubs playing outside their den. Along the way, he grabbed four or five sweets and, as he walked past, threw the sweets close to the tiger cubs. When the cubs ate the sweets, they were very happy. When the tiger and tigress felt hungry, the tiger cubs said that they would not drink the boy’s milk. The tigress replied that whatever milk they needed, they should take it. Listening to this, the cubs shared their milk with the boy, giving him some too.
+
+As he was about to leave, the tiger cub said, “Brother, I will come along too.” The boy climbed onto one tiger and placed the milk on the back of the other, and they headed off together. Upon reaching home, he placed the milk in the eyes and let it sit overnight. By morning, he placed it in the eyes of all seven mothers. Their vision returned to normal, just like before. Everyone was very happy.
+
+After that, he played with the tiger cub every day. When the king learned that the boy from Bhuabra district was home and playing with the tiger, he sent for his soldiers. But the boy insisted that he would not go to the king. He said if the king wanted to see him, he could come there himself to take the milk.
+
+The soldiers returned and reported this to the king. Hearing this, the king became very angry but thought there must be some reason behind it. So, the king rode an elephant and approached, at which point the boy said, “Look into the well.” When the king peered down, the seven queens looked up at him and said, “Don’t you feel ashamed, O king? The demoness has made so many attempts to kill your own son, and you still do not recognize him.” Upon hearing all of this, the king bit his fingers in shock.
+
+After this, all seven queens and the boy were carried back to the palace in a palanquin, and it was declared that all rights would be given to the boy. The boy could do whatever he wanted with the new queen. The boy had the new queen dig a pit, filling it with all his desires, and they all began to rule together happily.
+</details>

@@ -1,10 +1,15 @@
 ---
-slug: "/mft-daitin-bahin"
+slug: "mft-daitin-bahin"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "दइतिन बहिन के करमात"
+tags: "kingdom, family, conflict, survival, fantasy"
 ---
+<blockquote>
+The story revolves around a king, queen, and their two children—a son and a daughter. The king initially orders his son to kill his newborn sister, but the queen prevents this. As the girl grows, she becomes a menace, consuming people in the kingdom, including their parents. The boy escapes her grasp with the help of a mouse and runs away on a horse. The sister chases him, but ultimately, a tiger, which has escaped from captivity, intervenes and kills her. The boy reunites with the king, who announces the demise of the girl, restoring peace to the kingdom, allowing everyone to live harmoniously.
+</blockquote>
+
 एगो राजा-रानी हलन । उनका एगो बेटा हल। जब बेटा छव-सात साल के हो गेल तब पढ़े ला पाठसाला में जाय लगल । फिनो राजा के एगो दइतिन लड़की जनम लेलक। जब राजा के एकर जानकारी भेल त ऊ अप्पन बेटा के कहलन कि तू जा के लड़की के तलवार से मूँड़ी काट दे। बेटा तलवार लेके मुँड़ी काटे चलल, तब माय बोलल- तोरा हम जनमउली हे, आउ एकरा हमर कोख से का जनम न भेल हे ? बेटा उहाँ से लौट के चल आयल आउ बाप के पास सब हाल कहलक । राजा सुनलन तो एँड़ी के लहर कपार पर चढ़ गेल । तुरत तलवार उठाके लड़की के मूँड़ी काटे चललन तब रानी देख के कहलन कि अब हम कउन उपाय करूँ । राजा से रानी कहलन, पहिले लड़की के सूरत देख लेईं। जब गोदी में लेके लड़की के सूरत निहारलन तो मोह आ गेल आठ लड़की के छोड़ देलन । 
 
 जब लड़की जवान हो गेल तो सहर के सब लोग के पारा- पारी खाय लगल । लोग डर के मारे भागे लगलन । राजा के सम्पत्ति ओरा देलक। घोड़सार के सबहे घोड़ा, सबहे जनावर के खा गेल। एक दिन सोचलक कि ई बाप के भी काहे न खा जाऊँ कि हम्मर राज-पाट हो जाय। एही सोच के एक दिन दइतिन राजा के दरबार में बइठले में जाके खा गेल। परजा लोग देख के भाग चललन । एकरा बाद अप्पन माय के भी खा गेल। दइतिन लड़की सबके खा के निश्चिन्त होके बाहर के बचल-खुचल अमदी के खाय लगल। फिर सोचलक कि भइयो के भी काहे न खा जाऊँ कि एकदम निफिकरे होके कुलेल करब । 
@@ -36,3 +41,21 @@ title: "दइतिन बहिन के करमात"
 दूनों ई डाढ़ से ऊ डाढ़ खदेरइत-भागइत हलन । राजा के लड़का के अब-तब में परान हो गेल। इहाँ बाघ के असगुन मालुम होयल। ऊ पिंजड़ा में छरपे लगल तो सभे लोग कहे लगलन कि बाघ बउरा गेल हे। गोली बन्दूक खोजाय लगल, तब तक बाघ धक्का मारलक कि पिंजड़ा के दरवाजा टूट गेल, आउ छरपइत सीधे उहवाँ पहुँच गेल, जहवाँ पर राजा के लड़का के दइतिन जान मारे ला पकड़इत हल। जइसेहीं दइतिन राजा के पकड़े ला चहलक, तइसहीं बाघ उछल के दइतिन के नरेटी दबोच देलक। दइतिन के परान निकल गेल। राजा पेड़ से उतरइत बेहोस हो गेलन। बाघ ओही जगह पर बइठ के अगोरइत हल। 
 
 इहवाँ पर राजा सोचलन कि बाघ इहवाँ से छूटल तो केकरो कुछ नऽ कयलक। सीधे कने तो छरपइत जाइत हे। हो ना हो, जरूर कोई बात है। राजा भी बाघ के पंजा के चिन्हानी देखइत हाथी पर चढ़ के चल देलन। जाइत-जाइत ओहू भी उहईं पहुँच गेलन तो देखइत हथ कि हम्मर दमाद के बगल में बाघ बइठल हे। थोड़े देर के बाद दमाद के होस आयल तो सब खिस्सा कह सुनवलन। एकरा बाद उहवाँ से अप्पन घरे अयलन आउ अगल-बगल के सब लोग से कहलन कि हम दइतिन के मार देली। अब कोई बात के डर-भय न हे। भागल सब लोग आ के बस जा। उनका सब परजा सुन के आ गेलन। सब लोग मिल-जुल के अमन-चैन से जिन्दगी बितावे लगलन।
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king and queen who had a son. When the son was six or seven years old, he began to go to school to study. Then the queen gave birth to a daughter. When the king learned about this, he ordered his son to go and kill the girl with a sword. The son took the sword and went to cut off the girl's head, but the mother said, "You are my child too, and she was born from my womb." The son returned and told his father everything. Upon hearing this, the king became furious. He immediately took the sword and went to kill the girl, but the queen, seeing this, said, "What should I do now?" The queen then advised the king to first take a look at the girl's face. When she looked at the girl, she became enchanted and decided to spare her life.
+
+As time passed, the girl grew up and began to terrify everyone in the city. People started to flee in fear. The king's wealth was taken away, and all the horses and livestock were eaten by her. One day, she thought, "Why shouldn't I eat my father too so that I can rule the kingdom?" With this in mind, she went to the king's court and devoured him. The subjects watched in horror and ran away. Afterward, she also ate her mother. Having eaten everyone, the girl felt relaxed and began to feast on whatever leftovers remained outside. Then she thought, "Why shouldn't I eat my brother too so that I can have everything to myself?"
+
+One day, when her brother was returning from school, an old woman warned him, "Run away, boy, or your sister will eat you too. She has already devoured everyone else." The boy did not believe this. When he got home, his sister offered him bread for breakfast and then went out to eat people in the city. After eating, she thought of eating her brother too. What could go wrong? While the boy was having breakfast, a mouse emerged and said, "Hey, king's son, you’re eating peacefully, but you won’t be alive for long. Your sister has just eaten people from the city and will come to devour you too." The boy asked, "Is there any way to save myself?" The mouse replied, "Your father has locked a horse in his room. The key is kept on the shelf. If the horse is still alive, you can escape." He immediately left his breakfast, went to unlock the door, and mounted the horse, escaping swiftly.
+
+Meanwhile, the girl returned and did not find her brother. She searched everywhere but couldn't find him, so she climbed up to the seventh-floor rooftop and saw him riding away. Furious, she chased after him, but he escaped. When the boy got tired of running, he climbed up a tree, and the girl also climbed the tree to catch him.
+
+The chase continued, and the king's son was exhausted. Meanwhile, the tiger, who had been locked in a cage, sensed its opportunity and started making noise. The people around began to search for guns and ammunition, but before they could get ready, the tiger managed to break free from its cage and leaped over, right where the king's son was being caught by the girl. Just as the girl was about to seize the king's son, the tiger jumped and caught her instead, resulting in her demise. 
+
+Seeing this, the king climbed down the tree, feeling faint. The tiger sat there, waiting. The king thought, if the tiger has broken free, it wouldn’t harm anyone; it would go straight to its freedom. He speculated that something must have happened. The king followed the paw prints of the tiger and rode an elephant to track it down. Upon arriving at the same spot, he saw the tiger sitting next to his son-in-law. After a while, the son-in-law regained consciousness and shared the whole story. 
+
+Afterward, they returned to their home, and the king addressed everyone nearby, saying he had killed the girl. Now, there was no fear left. Everyone could come and settle. The subjects, having heard this, gathered and lived together in peace and harmony.
+</details>

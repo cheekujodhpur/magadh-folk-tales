@@ -1,10 +1,15 @@
 ---
-slug: "/mft-chamar-dhobi"
+slug: "mft-chamar-dhobi"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "वर्णाश्रम-कथा"
 title: "चमार आ धोबी के चलाँकी"
+tags: "leather worker, tiger, deception, animals, cleverness"
 ---
+<blockquote>
+The story revolves around a poor leather worker who cleverly befriends a tiger in the forest, avoiding being eaten. The tiger later hides in the leather worker's shed and, mistakenly thinking it is the washerman's lost donkey, the washerman beats the tiger, leading to a chase. A jackal becomes involved when the washerman grabs its tail during a struggle. In a twist of events, the tiger, jackal, and other animals plan to punish the washerman for the jackal’s lost tail. However, the cunning washerman tricks them into bringing him food, which he uses to fry the tigers and jackals instead. In the end, the leather worker profits from the situation, becoming successful by selling the hides of the dead animals. The story highlights themes of cleverness, deception, and unexpected fortune.
+</blockquote>
+
 एगो बड़ी गरीब चमार हल । ऊ रोज जंगल से लकड़ी लावे आउ बेच-खोंच के कइसहूँ अप्पन काम चलावे । से एक दिन जंगल में गेल, तो ओकरा एगो बाघ से भेंट हो गेलई । चमरा हल कुछ चलाँक, से बघवा के देखते कहलक ''पांव लागी बाघ मामू !'' बघवा सोचलक कि बड़ी दिन पर एगो मानुख भी मिलल तो मामू-भगिना के नाता जोड़ लेलक । अब तो एकरा खाय में पाप होयत । एतने में चमरा कहलक कि ''ए बाघ मामू ! तूं जंगल में रहऽ हऽ, से गोड़ में तोरा काँटा कुस गड़ऽ होतवऽ। हमरा हीं अइहँऽ, से तोरा एगो जूता बना देवो।'' चमरा अप्पन घर बता देलक, आउ कहलक कि हमर पिछुतिये एगो झोड़ार हवऽ। तूं ओकरे में आन के नुकायल रहिहँऽ । ई तरह चमरा के ऊ दिन कइसहूँ जान बच गेल आउ घरे चल आयल। 
 
 बघवा चमरा के गाँव में आयल आउ साँझ के पिछुतिया झोड़रवा में नुका गेल। ओही दिन गाँव के धोबी के एगो गदहा भुलायल हल । से घोबिया खोजइत-खोजइत पहर भर रात बीते चमरा हीं आयल । चमरा कहलक कि पिछुतिया देख गन का जानी झोड़रवा में बइठल होतउ? अन्हरिया रात हल, धोबिया अरउवा लेल ही देखे गेल। ओकरा में तो बघवा बइठल हले । अन्हारा में धोबिया बघवे के गदहा समझ के ओकरे पर चढ़ गेल आउ लगल डेंगावे । बघवा अरउवा के टपाटप मार खा के जंगल दने लगल भागे। धोबिया सोचलक कि गदहवा के घरे दने जाय के काम हलई, से ई जंगल दने जाइत हे। पानी टिपटिपाइत हले, कभी-कभी मलकऽ भी जा हल । मलकावा में देखलक तो बघवा जना गेल। धोबिया तो गते उतर गेल आउ एगो पीपर के खोड़रा में नुका गेल। 
@@ -17,3 +22,19 @@ title: "चमार आ धोबी के चलाँकी"
 
 धोबिया हँसते-हँसते घरे चल आयल । आ के चमरा से कहलक कि ले नऽ सार ! अब तो तोर चलती हो गेलउ। जो जंगलवा में हम बड़ी मानी बाघ आउ सिआर के मार देलिअउ हे । से चमरा खुसी के मारे अप्पन सब औजार ले के चलल । जंगल में जा के देखऽ हे कि बाघ आउ सिआर मर के टाल लगल हे । ओहे सबके चमड़ा चीर के उतार लेलक आउ ओकरा बेच देलक । जेकरा से चमरा मालो-माल हो गेल। बुधी के फल बइठल खाय। 
  
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a very poor leather worker. Every day he would go to the forest to collect wood and somehow manage to make a living by selling it. One day, while he was in the forest, he encountered a tiger. The leather worker was somewhat clever, and seeing the tiger, he said, "Greetings, dear tiger!'' The tiger thought, after a long time, he had met a human, so he established a bond like uncle and nephew. It would be a sin to eat him now. Meanwhile, the leather worker said, "Oh tiger uncle! You live in the forest, so it must hurt your feet with thorns. Come with me; I will make you a pair of shoes." The leather worker told him his address and said there was a small shed behind his house. "You can hide there." This way, the leather worker somehow saved his life that day and returned home.
+
+The tiger arrived at the leather worker's village and hid in the shed in the evening. That same day, the village washerman's donkey got lost. The washerman kept searching for it throughout the night and eventually arrived at the leather worker's place. The leather worker said, "Look in the shed; who knows, maybe it's sitting there?" It was dark and the washerman went to check. He thought the tiger was the donkey and climbed onto it to start beating it. The tiger, taking the blows, ran towards the jungle. The washerman thought he had to go back home with the donkey, so he was heading into the jungle instead. While it was drizzling, he occasionally got a glimpse of it. When he looked closely in the light, he realized it was a tiger. The washerman quickly jumped down and hid in the hollow of a peepal tree.
+
+As the tiger was running breathlessly through the jungle, a jackal saw him and asked, "Why are you running so fast, brother tiger?" The tiger replied, "Oh jackal, I’ve gotten into trouble today." The jackal asked, "What kind of trouble?" The tiger said, "I won’t tell you, brother! It's in that peepal tree." The tiger stood some distance away, and the jackal, being cowardly, approached, putting his tail straight and entered the hollow of the peepal tree. The washerman grabbed his tail. Now the jackal started pulling his tail this way, and the washerman held on tight from the other side. In the end, during the tug-of-war, the jackal's tail got pulled off. The jackal was frightened and said to the tiger, "No, tiger brother, that wasn’t the trouble! That was just a washerman! You see, he has taken my tail." The tiger replied, "Didn’t I tell you earlier not to meddle, jackal!"
+
+Now, knowing that trouble had come upon them, the tiger and the jackal decided to gather all their kin and talk it over. They all decided that the washerman should be killed for taking the jackal's tail. They all joined forces against the peepal tree. Soon the tree got uprooted, and the washerman came out. The tiger and jackal started arguing over who would eat the washerman first. The washerman was clever and said, "Why are you two fighting? Neither of you can fill your stomach with this. You have plenty of ghee, oil, and sweets, right? Just bring all those things for me, and I will fill you up with delicious food." The tiger thought for a moment and agreed.
+
+The tiger collected ghee, sweets, and flour, and the washerman began to prepare food, tossing the delicious puris to the tiger and jackal, while they gorged on what was thrown. The washerman then said, "Do one thing! Bring me a deep frying pan. I will fry everyone in front of you all, and then everyone will be satisfied." They were all ready for that. The washerman brought a frying pan. He filled it with oil, heated it well, and splashed it on all the tigers and jackals. All the tigers and jackals died.
+
+The washerman returned home laughing. He said to the leather worker, "Look, brother! Now your fortunes have turned. I have killed the fierce tigers and jackals in the jungle." The leather worker, overjoyed, took all his tools and went to the jungle. He saw that the tigers and jackals were dead. He skinned them all and sold their hides. From that, the leather worker became prosperous and enjoyed the fruits of his labor.
+</details>

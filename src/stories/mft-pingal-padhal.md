@@ -1,10 +1,19 @@
 ---
-slug: "/mft-pingal-padhal"
+slug: "mft-pingal-padhal"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "पिंगल पढ़ल औरतन"
+tags: "comedy, magic, jealousy, deception, relationships"
 ---
+<blockquote>
+The story revolves around Halan Mahato, a man with two wives who quarrel over the milk from their shared cow. To resolve their conflict, he buys another cow, leading to further disputes about household responsibilities. This tension escalates when Mahato transforms into a bull due to a charm and is subsequently tied up by a friend's wife. 
+
+The bull is recognized by villagers, and a needle stuck in its mouth is pulled out, returning Mahato to human form. He then shares his tale of woe with a king, who has his own issues with a wife who seems untrustworthy. The comedy of misunderstandings continues with disguises and magic, displaying themes of jealousy, deception, and loyalty. 
+
+Eventually, the king's past catches up with him, leading to a competition to marry the queen. The king narrates his chamber story, proving his worth and marrying the queen. The narrative concludes with the king returning home, defeating a thief along the way, and establishing peace within his household. The tale is a blend of satire and moral lessons about relationships, fidelity, and resolution of conflict.
+</blockquote>
+
 एगो हलन महतो जी । उनका दूगो औरत हल। एगो हल ब्याही आउ एगो हल अर्धी । दूनों से एकेक गो लइका हले। महतो जी एगो गाय पोसले हलन। उनकर दूनो औरत पिंगल पढ़के पीर होयल हल । बाकि महतो जी न जान हलन। 
 
 महतो जी के गाय तो दूध जरूर दे हल बाकि दूध के बँटवारा दूनों औरत में कम-बेसी हो जा हल । काहे के जब गाय दूहा हल तो जे पहिले जा हल ओही जादे दूध ले ले हल । एही दूध ला महतो जी के दूनों औरत में लड़ाई रहऽ हल । उकरा सोच के महतो जी एगो आउ गाय खरीद लेलन । आउ एह गाय दूनों औरतन के दे देलन । 
@@ -50,3 +59,61 @@ title: "पिंगल पढ़ल औरतन"
 काना तो ओने पैतरा बान्हे लगल कि एकरा से तो हम छीन लेबई। जब राजा उड़नखटोला पर रानी के बइठा के ले अयलन तऽ काना उहाँ दुआरी छेंक लेलक । तब राजा जी सर से कहलन कि जरी एकरा बान्हऽ तो, बस, काना के ऊ बाँधलक आउ सोंटा से पीटे लगल । जब सब बरियाती राजा जी पर टूट गेल तो राजा सर (रस्सी) से कहलन कि सब बरियाती के बान्हऽ तो, बस ऊ तो सब के बाँध देलक । ऊ फेर सोंटा से कहलन कि ई सबके सोटऽ सोंट तो, बस, सोंटा तो सब के खूब सोंटलक । 
 
 एकरा बाद राजा से सब गोड़-हाथ परलन आउ माफी माँगलन । तब राजा उहाँ से अप्पन घरे चल देलन । ऊ रस्ते कुछ काल ठहर गेलन । इहाँ दूनों महतो जी मर गेलन हले। बाकि पंडी जी हलन । अब तीनों अदमी नीमन से रहे लगलन। 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a man named Halan Mahato. He had two wives—one was married to him, and the other was a concubine. Each of them had one child. Mahato kept a cow, and both of his wives fought over the distribution of the milk. Whenever the cow was milked, the first one who came would take more milk. This led to frequent arguments between Mahato's wives. Thinking about this, Mahato decided to buy another cow and gave it to both of his wives.
+
+Then, the married wife told Mahato, "You have divided the cow, so you should also share the burden." The concubine too became ready for this. Once the division was made, Mahato went to both wives for eight days each. When it was the turn of the married wife, Mahato did all the household chores for her.
+
+One day, Mahato saw that the concubine’s calf was sucking from all the other cows. He thought that the calf belonged to both of his wives; if he did not tie it up, today the concubine’s calf would go hungry. So he started tying it up, but the married wife saw him doing this. The concubine was coming from the other side and saw it too. The married wife said, "You are with me today, so why are you tying my cow? You belong to the concubine. You are only here to show off."
+
+When Mahato sat down to eat in the evening, the married wife made a braid and tied it as a snake and let it go towards Mahato. The concubine was also there. Seeing this, the concubine took her braid, made a noose, and cast it as a snake. The noose bit the snake.
+
+Mahato thought that both of his wives were acting strangely. "Who knows when they might kill me," he thought. So, he left home early in the morning. While on his way, he went to his friend’s house. When he arrived there, he found his friend with some women. The women insisted, "Come, let's eat." But he replied, “I will eat only when my friend arrives.” Then he said again, “A herdsman has his own schedule; who knows when he will come?”
+
+The friend’s wife was reading a script. When they got something to eat, she offered the first morsel to the guest, saying she had put her charm on it. When the poor man began to eat, the charm got stuck in his throat. As the charm stuck, he turned into a bull. 
+
+Meanwhile, the friend's wife wrapped him up and tied him with the cord of her cloth. 
+
+When in the evening, the friend’s wife came home, she saw that the bull was tied well. Immediately, she asked her husband where this bull had come from. He replied that he had brought it for twenty rupees. She said that twenty rupees is not worth this bull; perhaps it was either stolen or taken by force. Then, her husband said, "You go and see if it can be yoked today." In the morning, he took the bull to the field, where it worked well.
+
+Meanwhile, a priest was taking the bride away. The priest’s wife was climbing onto a palanquin. Since the priest had read a script, he was also worried. When he saw the bull working in the field, he laughed heartily. The priest asked his wife what had made her laugh. She replied that she didn’t know why she laughed. The priest insisted, "Why did you laugh now? You never laughed before. Why laugh here? Tell me, or I'll make you dance along with the palanquin."
+
+Just then, a man from their village passed by. Seeing him, the priestess called out, "Hold on a moment!" The priestess then asked him how much the bull was worth, and he agreed to sell it. 
+
+So, the priestess, reading a script, urged the man to see the bull properly, checking if there was anything wrong with it. The bull came close and began inspecting. Upon looking closely, they found a needle stuck in its mouth. Quickly, they pulled it out and threw it away. As soon as the needle was extracted, the bull turned back into a man. Both of them became friends again. The herdsman who had yoked it asked for forgiveness. The poor man shared everything with his friend, who understood the situation well.
+
+The priest thought, if my wife is like this, then surely one day she will kill me too. So, the priest turned and ran away with his wife, leaving everything behind. As they were going, the three of them reached the kingdom of another king. The king was married, but he had not yet taken his bride home. The three men, two Mahatos and a priest, arrived in front of the king. They narrated their whole tale, saying that their wives were frightening, which led them to flee. The king granted them shelter and said, “You all can observe my kingdom. I will also go to see my wife; let's see what my wife is like."
+
+The king went to his in-laws’ house, where there was no one but his mother-in-law and his wife. The day he arrived, there was an invitation for a feast for the daughters. It was essential for them to attend. The daughters and mothers reached, served food, and told the king to rest in a room. The king slept. After a while, the daughters checked to see if he was sleeping or not. The king was pretending to sleep. The mother and daughter decided to climb up a tree and disappear from there, planning to return home early in the morning. The king was listening to all of this. He jumped out of the window and climbed onto the tree.
+
+The king thought that his wife had also become frightened after reading a script. Nevertheless, he remained on the tree to observe their actions. The daughters and mothers locked the house and went to hide behind a nearby tree, after which they cast off their clothes. The tree fell right onto the daughter’s uncle. The mother and daughter descended and immediately went to the shrine. After that, the king climbed down and went to the gathering with everyone. He sat on a mound. The gathering was all ears. Then the father of the bride called out to the boy on the mound, "Please, dear boy, would you mind closing the door for me?” The poor boy submitted to the request. Then the father of the bride said, "Would you also arrange the wedding for us? We will take her home after the ceremony."
+
+When the king arrived at the gathering, his wife noticed him and said to her mother, “Mother, it seems like our husband came here.” The mother replied, “Is there any such man in the world?” He was indeed sleeping. How could he come here?
+
+Once the wedding took place, they got locked in. When the king entered the chamber, he saw the queen sleeping there. He told her, "Oh queen, I am very hungry." The queen replied, "Go to the kitchen and get the food; there are sweets and such laid out for you. Eat!" Then the king insisted he wanted the food cooked right away. The queen said, "There is rice in that pot, sugar here, and milk on the side. Make kheer (rice pudding) and eat." The king said, "I want to eat something made by your hands." The queen then got up and cooked the kheer for him. She served the kheer to the king, who ate some and also fed some to the queen.
+
+After this, the king wrote on the queen’s veil that "The groom is coming to hold a wedding but is going home after performing a good marriage. The one who speaks of the chamber will be the one to marry." After writing this, the king turned in another direction and sat down on the tree. When morning came, the mother and daughters returned, took the tree and went home. Meanwhile, the king had already jumped down and entered the window, sleeping unabated.
+
+When the mother and daughter reached home, they saw that the guest was sleeping. When they went to wake him up, they noticed that his feet were swollen. The daughter understood that this was indeed the same guest. She thought now they should kill him. Then her mother advised, “Daughter, it is a great sin to kill a man. Don’t kill him; instead, give him something to eat.” The daughter, who was skilled in magic, cast a spell, turned him into a parrot, and inserted the magic needle into its beak. Once the parrot flew away, it perched on a distant palm tree.
+
+The parrot, as per its nature, began flapping its beak back and forth. At that moment, the needle fell off. Once the needle fell, the parrot turned back into a man. He couldn’t come down immediately. There were four thieves there quarreling among themselves. They had three items with them: a cap, a stick, and a flying chariot. The thieves' father had died that day, and the eldest son suggested they should wait for their father’s arrival before dividing their possessions. The other three were arguing that they would divide it as they wished. When the king observed from the tree as they fought, he spoke to them, “Why are you fighting? Where are you going?” They told him everything.
+
+After hearing this, the king said, “I will also resolve this matter as I am a king.” The thieves laughed at the thought of how they would have to follow the orders of someone just because he was higher up in the tree. The king then suggested, “You all should keep your belongings right here and go away for now.”
+
+When the king saw that they had all gone, he asked the flying chariot, "Tell me, are you mine or a thief?" The chariot replied, "No, sir. I belong to myself, not to any thief." In a similar way, the cap and stick argued that they were theirs as well. 
+
+The king then told them, "Hey, flying chariot, come and bring me with you." The chariot flew and came to him. The king sat on it and came down.
+
+Then, the king took the stick and the cap, thinking to himself that he would go and see the condition of the place where he used to reside. Meanwhile, there was talk of a quarrel at home, stating that he had married. Hence, his eyes had become distorted due to jealousy. The queen announced in her kingdom that whoever speaks of the situation in the chamber would be the one to marry her. The king, bringing his belongings, went to the marketplace.
+
+When the news spread about the quarrel about the marriage and the proclamation announcing that the one who could speak about the chamber would be selected for marriage, the king declared, "I will speak about the happenings in the chamber." 
+
+The thief, along with the king and the queen, arrived. They asked the thief what he had eaten in the chamber. He replied, "Rice, lentils, vegetables!" The question was directed to the king, who narrated the entire story from beginning to end about what had transpired in the chamber. When they interrogated the queen if the king spoke the truth or lied, she confirmed everything he said was true. This led to the king marrying that very queen. Taking all his belongings, the king returned. 
+
+The thief was there, scheming that he would steal from the king. As the king took the queen on the flying chariot, the thief blocked the entrance. The king commanded to bind him. The thief was tied up, and then everybody began to strike him. 
+
+Once everything was settled, the king released the thief and allowed him to leave. Afterward, the king returned home with all of his belongings, settling peacefully with everyone.
+</details>

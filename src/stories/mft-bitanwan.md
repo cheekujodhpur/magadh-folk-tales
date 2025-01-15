@@ -1,10 +1,15 @@
 ---
-slug: "/mft-bitanwan"
+slug: "mft-bitanwan"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अर्थ-कथा"
 title: "बितनवाँ"
+tags: "revenge, adventure, fantasy, wealth, justice"
 ---
+<blockquote>
+The story follows a boy named Bitnava who receives a buffalo from his mother but loses it when it eats from the king's garden and is killed. Seeking revenge, Bitnava cleverly uses the buffalo's skin to scare off thieves, takes their money, and fills his home with riches. However, the king, suspicious of Bitnava's newfound wealth, burns down his house. Bitnava then collects the ashes and inadvertently ends up with a trader's bag filled with jewels after the trader steals his ashes. The king, noticing his wealth again, has Bitnava captured and thrown into a river. Using an elephant to escape, Bitnava ties up the king and throws him into the river, leading to the king's demise. The story ends with Bitnava triumphing over the king and reflects on his experiences.
+</blockquote>
+
 एक ठो लइका हलै बितनवाँ । ऊ अप्पन मइया से कहलकै ने कि ए माय, तू हमरा एगो भैंस दे। हम ओकरा से कमैबे-खयबे । ओकरा मइया हलै ने, से एगो भैंस ले देलकै । बितनवाँ ओकरा चरावे लगलै। एक दिन बितनवाँ भैंसिया के छोड़ के खाय चल अयलै, और राजा जी के बगान में बैंगन के पेड़ हलै, से बितनवाँ के भैंसिया खा गेलै । बस राजाजी ओकर भैंसिया के काट देल्थी । बितनवाँ कहलकै ने कि ए राजा जी, भैंसिया तो काटिये देला, से ओकर चमड़वा हमरा दे दऽ। राजा जी कहलथिन कि ले जाय ने रे ! ओकरा हम की करबै? बितनवाँ चमड़वा के ले लेलकै । 
 
 बगिया में जाके एगो तार के पेड़ हलै- उहाँ पर चोरन सब चोरा के आवऽ हलै, आउ चोरी के समान बाँट हलै। बितनवाँ जा के तरवा पर चढ़ गेल आउ जब रतिया में चोरवन पैसवा बाँटे ले उहाँ पर अयलै, आउ बाँटे लगलै तो बितनवाँ ऊ चमड़वा के ऊपरे से गिरलकै । बस, चोरवन कहलकै- ''अरे बाप रे बाप! एकरा पर भूत रहऽ हौ । से भाग रे मरदे !'' तहिया ओखनी सब भाग गेलई । बस, ओकरा पर से बितनवाँ उतरलै आउ सब पैसवा लेके घर चल अयलै आउ मइया से कहलकै कि ले मइया हम एतना पइसा ले अयलो । ओकर कोठी पइसा से भर गेलै । 
@@ -19,3 +24,16 @@ title: "बितनवाँ"
 ओकरा से रजवा कहलकई ने कि एरे बितनवाँ, तँ कहाँ से एतना पैसवा लावऽ हें। बितनवाँ कहलकै कि हम ऐसे-वैसे लावऽ हियो। से रजवा भी ओइसहीं कलकै। चोरवन देखलकै आउ ओहनी उहाँ पर नै बाँटलकै । रजवा बितनवाँ पर खिसिया के ओकर घर में आग लगा देलक। बस, बितनवाँ कहलकै कि ए राजा जी, तू तो हम्मर घरवा में अगिया लगाइए देलऽ, से ओकर बानिया (राख) दे दऽ । तब रजवा कहलकई कि ऊ का रखल हो ! से ले जाय नेऽ ! बस, बितनवाँ बोरा में बंद करके बानिया बेचे चल गेलै । जैते-जैते एगो व्यापारी मिललै । ओहू हीरा-मोती, जवाहर बेचऽ हलै । ऊ पूछलकै बितनवाँ से कि कउची बेचऽ हें? बितनवाँ कहलकै कि हमहूँ हीरा-मोती, जवाहरात आउ बहुत कीमती चीज बेच हीऽ । बेपरिया पूछलकै कि तू कहाँ जा हें?  बितनवाँ कहके कि टेसन दने जा हियो । ओहू कहलकै कि हमहूँ जैवो। तो बितनवाँ कहलकै कि चल ने ! बस, चलते-चलते रात हो गेलै । तब दून एगो गाँव में सूत गेलै। अधरतिये में बेपरिया बानियाओला बोरा लेके भाग गेलै । भोर होलै तो बितनवाँ अप्पन बोरा न देख के ओकरओला बोरा लेके घरे चलल, आउ घर पर जाके अपन मइया से कहलक कि ले मँइया, बड़ी सन हीरा-मोती, जवाहरात । बस, ओकर समान से घर भर गेलै।
  
 बस, रजवा देख के जरे लगलै कि बितनवाँ एतना चीज कहाँ से लावऽ हकै । तब ओकरा बोला के बोरा में बंद कर के नदिया में फेंक देलकै । इधर से रोज एगो हाथी पानी पीये ला जा हलै । ऊ दिन पनिया पीये गेलै, बस ओकरे पर अप्पन गोड़ रखलकै आउ बोरवा फट गेलै । बितनवाँ ओकरा में से निकल गेलै आउ हाथी पर चढ़ के घरे चलल आवऽ हलै । रजवा देखलकै तो कहलकै कि ए रे बितनवाँ, हमरो बोरवा में बान्ह के नदिया में फेंक लाव! बस, राजा के बितनवाँ खूब कस के बान्हलकै आउ नदिया में फेंक लौलकै। बस, तहिना हथिया गेलै पनिया पीये लै ने, से रजवा के बोरवा पर लतिया पड़ गेलै, आउ रजवा के पेट फट गेलै । रजवा ओहीं पर मर गेलै । खिस्सा गेलो वन में, समझो अपने मन में ! 
+
+
+<details>
+<summary>See translation</summary>
+
+Once there was a boy named Bitnava. He asked his mother, "O mother, give me a buffalo. I will take care of it." His mother gave him a buffalo. Bitnava began to graze it. One day, he left the buffalo to eat and went to the king's garden, where there were eggplant trees, and the buffalo ate from there. The king had the buffalo killed. Bitnava said, "O King, you killed my buffalo, so give me its skin." The king replied, "Take it away! What will I do with it?" Bitnava took the skin. 
+
+He went to the garden where there was a tree, and thieves would come there to steal and divide their loot. Bitnava climbed the tree, and when the thieves came at night to divide the money, Bitnava fell on them from above with the skin. The thieves shouted, "Oh my God! There's a ghost on it! Run away, you fools!" So, they all fled. Bitnava then climbed down and went home with all the money, telling his mother that he had brought so much money. His house was filled with money. 
+
+The king then asked Bitnava, "Where did you get so much money?" Bitnava replied, "I got it from here and there." The king got angry and set fire to his house. Bitnava said, "O King, you have set my house on fire, so give me the ashes." The king said, "What can I keep them for? Take them away!" So, Bitnava packed the ashes in a bag and went to sell them. On his way, he met a trader who was selling diamonds and jewels. The trader asked Bitnava what he was selling. Bitnava said, "I also sell diamonds, jewels, and very valuable things." The trader asked, "Where are you going?" Bitnava replied he was going to the station, and the trader said he was going there too, so Bitnava said, "Let's go together!" While traveling, it became night, and they both slept in a village. In the middle of the night, the trader took the bag full of ashes and ran away. In the morning, when Bitnava did not see his bag, he took the trader's bag and went home. When he got home, he told his mother, "Look, mother, I have a lot of diamonds and jewels." His house was filled with those items.
+
+Seeing this, the king got suspicious and wondered where Bitnava had gotten so many things. Then he had him tied up and thrown into the river. Every day, an elephant came to drink water. That day, as it was drinking, Bitnava climbed onto it and its trunk burst. Bitnava managed to escape and climbed onto the elephant to go home. When the king saw this, he said, "Hey Bitnava, throw me into the river tied in my own bag as well!" So, Bitnava tied the king tightly and threw him into the river. Likewise, when the elephant came to drink water, the king ended up exploding his belly on the bank, and he died there. And that’s how the story ends; think about it in your mind!
+</details>

@@ -1,10 +1,15 @@
 ---
-slug: "/mft-pari-raja"
+slug: "mft-pari-raja"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "परी आउ राजा"
+tags: "fantasy, romance, loyalty, perseverance, magic"
 ---
+<blockquote>
+The story follows a king's son named Laal, whose mother is seeking a bride for him. After an arranged marriage with a queen, curious events unfold; Laal is abducted by fairies on their wedding night, leaving the queen distraught. She vows to distribute food for twelve years before joining her in-laws. Meanwhile, Laal is trapped in a forest where fairies revive him and then kill him repeatedly. Two travelers witness this and lead the queen to him, but she must hide from the fairies herself. After multiple trials, she manages to revive Laal, and with the help of a hermit, they evade the fairies. Eventually, they return home and live happily together after another marriage. The story reflects themes of loyalty, perseverance, and magic.
+</blockquote>
+
 एगो राजा के लाल नाम के लड़का हल । उनकर माय बेटा के बिआह करे खातिर नउवा-ब्रह्मण के पेठौलन । लड़की के लेखा-जोखा न बइठइत हल। से नउवा-ब्रह्मण एगो नदी किनारे बइठ के भोजन कैलन आउ खाके खोना नदी में बीग देलन । नदी के दोसर दने भी एगो लड़का खोजे नउवा-ब्रह्मण आके बइठलन आउ खा-पी के खोना नदी में फेंक देलन । एहनी के खोना नदी के पानी में नाँचे लगल तो लड़का तरफ ओलन पूछलन कि का बात हे कि तोर खोना पानी में नाचइत हे। तब ओहनी कहलन कि हमनी सब लाल नाम के लड़का खोजे चलली हे। फिन ओहनी दूनो दने के लोग सादी ठीक कर देलन आउ सब छेका-बरतुहारी हो गेल। 
 
 कुछ दिन के बाद तिलक परल आउ सादी हो गेल। सादी में दुनिया भर के राजा पहुँचलन । सादी के बाद कोहबर मिलल । ऊ बराती में ढेर-सिन परी भी आयल हलन। जब राजा के बेटा अकेले कोहबर में गेलन तो सब परी मिल के राजा के लड़का के उड़ा ले गेलन आउ एगो जंगल में पार देलन । जब रानी कोहबर में गेलन तब बड़ी बिलख के रोवे लगलन । सब कोई सोचे लगलन कि लड़की काहे रोइत हे। लौंड़ी पूछे गेल कि काहे रोइत हँ ? तब ऊ कहलक कि राजा पलंग सहिते नऽ हथ । बराती में हलचल फैल गेल । तबो सब लड़की के कसूर बतौलन आउ कहलन कि हम लड़की के रोसगदी करा के ले जायम । लड़की कहलक कि हम बारह बरस सदावर्त बाँटब तब ससुरार जायम। बराती लौट गेल आउ लड़की ऐगो कोठरी में रह के सदावर्त बाँटे लगल। 
@@ -18,3 +23,21 @@ title: "परी आउ राजा"
 ओहनी देखलन कि ओहिजा से एगो बढ़ही वसुली रुखानी ले-ले जाइत हे। तब रानी बढ़हिया से कहलक कि जल्दी से हमरा एगो लकड़ी के अदमी बना दऽ । बढ़ही के पास सब समान हइये हल । से ऊ तुरते लकड़ी के एगो आदमी बना देलक। राजा ऊ लकड़ी के अदमी के पलंग पर सुता देलन आउ उहाँ से दूनो चल देलन । जाइते-जाइते एगो साधु के कुटिया देखायल । राजा के लड़का साधु से सब हाल कहलन आउ निहोरा करलन कि आज भर अपने हमनी के रहे दिहीं । साधु ओहनी के छिपा के रख लेलन । 
 
 परी सब राजा के घरे अयलन तो ओहनी उहाँ न हलन। ओहनी ससुराल आउ नइहर सगरो खोज के हार गेलन बाकि राजा के लड़की आउ लड़का कनहूँ न मिललन। चार दिन के बाद ओहनी साधु बाबा ही से घरे आ गेलन । बेटी के घरे आ गेला पर राजा के बड़ी खुसी भेल। लड़का के बाप भी देखे अयलन आउ अपन बेटा के लेके घरे चल गेलन । कुछ दिन के बाद रानी के गौना भेल आउ अप्पन ससुरारी चल गेलन । उहाँ दूनों बेकति खुसी से रहे लगलन । 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a boy named Laal who was the son of a king. His mother was searching for a groom for him and called the boatmen and Brahmins. The girl’s representatives did not sit down with the writing. So, the boatmen and Brahmins sat by the riverbank, ate their meal, and tossed the remains into the river. On the other side of the river, another boy was searching and the boatmen and Brahmins sat and ate, then threw the remains into the river. When the remains started to dance in the water, the boys asked what was going on that the leftovers were dancing in the river. They said that they had come looking for the boy named Laal. Later, both sides arranged for a marriage and all festivities began.
+
+A few days later, the engagement took place, and the marriage was celebrated. Kings from all over the world attended the wedding. After the marriage, the couple went into the bridal chamber. Many fairies also came among the guests. When the king’s son entered the bridal chamber alone, all the fairies came together and carried him away to a forest. When the queen entered the bridal chamber, she began to weep bitterly. Everyone started wondering why the girl was crying. When someone asked her why she was crying, she said that the king was not with her on the bed. There was a commotion among the guests. However, they blamed the girl and said they would take her to the kitchen for cooking. The girl replied that she would distribute food for twelve years before going to her in-laws. The guests returned, and the girl stayed in a small room and began distributing food.
+
+One day, two travelers were passing through the forest and saw a king sleeping on a beautiful bed. Four fairies sat on the bed’s corners. Whenever they felt like it, they would revive the king and whenever they felt like it, they would kill him. When they felt like killing, they would position a soft pillow under his head and revive him when they felt like it. The travelers sat in a bush watching all of this. As they continued on their way, they noticed that a berry bush was growing on the path. The two travelers decided to stay where the food was being distributed and leave in the morning. They spent the night there, talking about how they had never seen anything like this before, that a pillow would revive a man while a soft pillow could lead him to death.
+
+The queen overheard their conversation and asked them what they had been talking about. She said that if they showed her, she would give them half of her kingdom. The travelers took the queen into the forest. They saw the four fairies sitting at the corners of the bed. They hid in the bushes. The girl saw that the fairies fed the king’s son lots of sweets and then left after killing him. Then the queen went to the king and said that now she would stay with him. The king said that the fairies would kill her, so she should go away. The queen, following his advice, hid in another forest. The travelers returned home.
+
+Then the four fairies gathered and asked the king whether there were any humans there, as they could smell something. The king said that there were no humans there. The fairies insisted on taking him to another forest. The king replied that he would go to another forest only if they brought him a bouquet of flowers. They brought him a bouquet of flowers. Then the fairies took the prince along with the bed and dropped a flower along the way. They took the king and placed him in a flower garden. Meanwhile, the queen was picking flowers and reached the king, hiding when she saw the fairies. The fairies then killed the king while eating and flew away. The queen revived him and said that now she had come here to stay. Now, what shall I say? 
+
+They saw that a huge tree was being taken away. The queen then said quickly to make her into a wooden man. The tree had all the necessary materials. So, he quickly made a wooden man. The king placed the wooden man on the bed and they both left from there. On their way, they spotted a hermit’s hut. The king’s son told the hermit everything and pleaded with him to let them stay with him for the night. The hermit hid them.
+
+When the fairies arrived at the king’s house, they found no one there. They searched everywhere in the in-laws and the maternal home but couldn’t find the king’s daughter or son. After four days, they returned to the hermit who had taken them in. When the daughter reached home, the king was very happy. The boy’s father also came to see and took his son back home. After a few days, the queen was married off and went to her in-laws. There, both individuals began to live happily.
+</details>

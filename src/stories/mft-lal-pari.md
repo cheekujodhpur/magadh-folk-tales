@@ -1,10 +1,19 @@
 ---
-slug: "/mft-lal-pari"
+slug: "mft-lal-pari"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "मूरुख लड़का आउ लाल परी"
+tags: "king, daughters, foolishness, unexpected success, family dynamics"
 ---
+<blockquote>
+The story revolves around a king with three daughters, who values education but becomes frustrated when his youngest daughter attributes the rule of the kingdom to luck and her future husband instead of acknowledging her father's authority. In his attempt to find a suitable husband for her, the king chooses a foolish boy who the soldiers discover in the forest. 
+
+The foolish boy, after marrying the youngest daughter, faces various challenges, such as hunger and a command from the king regarding a garland of flowers. With the encouragement of his queen, he navigates through these situations, including successfully gambling with a red piece he took from a mysterious river, which attracts the king's attention. 
+
+As the story unfolds, his supposed foolishness leads to unexpected success, resulting in the king arranging a marriage between the stable hand and his daughter. Ultimately, the tale illustrates themes of perception, fortune, and the unexpected benefits that can arise from seemingly foolish actions, culminating in a happy and prosperous life for the characters involved.
+</blockquote>
+
 एगो राजा के तीन गो बेटी हलन। राजा बेटियन के खूब प्यार कर हलन। से तीनों बेटी के पढ़े लागी दूसर जगुन भेज देले हलन। जब तीनो बेटी पढ़ के अयलन तब राजा ओहनी से पूछलन कि केकरा राजे राज करइत हऽ बेटी। बड़की आउ मँझली बेटी बोललन कि बाप जान के राजे राज करइत हिय। बाकि छोटकी बेटी बोलल कि किस्मत आउ भावी पति के राजे राज करइत हिय। राजा सोचलन कि अभी छोटकी बेटी खूब नऽ पढ़ल हे। से फिनो ओकरा पढ़े लागी भेजवा देलन। एक-दू बरस के बाद पढ़ के फिन आयल तो राजा ओही सवाल कयलन । छोटी बेटी फिन ओइसहीं जबाब देलक। राजा जबाब सुन के बड़ी खिसिया गेलन आउ सिपाही के हुकुम देलन कि जा के मूरुख लइका खोजऽ जेकरा से एकर बिआह कर देब। 
 
 सिपाही लोग लइका खोजे चल देलन । मूरुख के खोजइत-खोजइत एगो भारी जंगल में पहुँचलन। उहाँ एगो गड़ेरी के लड़का पेड़ के जउन डाढ़ पर बइठल हल ओकरे काटइत हल। सिपाही लोग देख के कहलन कि एकरा से बढ़ के कउन मूरुख मिलतइ कि जउन डाढ़ पर बइठल हे ओही डाढ़ के काटइत हे। ओही लड़का के बरियारी पेड़ से उतरववलन आउ पकड़ के राजा के पास ले गेलन। राजा पूछलन कि तोहनी एकरा बुड़बक कइसे समझलऽ। ओहनी सभे हाल कह सुनवलन तो राजा समझ गेल कि ई ठीके में बुड़बक हे। राजा छोटकी लड़की के ओकरे से विआह कर देलन आउ अरिआत देलन। बाकि लड़की के माय बढ़ियाँ-बढ़ियाँ बेसकिमती कपड़ा पहिना देलक हल।
@@ -39,3 +48,29 @@ title: "मूरुख लड़का आउ लाल परी"
 आखिर तूं हे तो सत्तूखोर न?  का जाने गेले सुन्नरता के हाल ? लड़की तब सोभइत हल जब इनका साथे पति रहतथिन हल । एतना सुन के लड़की फिन चद्दर तान के खटवास ले लेलक। 
 
 राजा-रानी सुन के मनावे लगलन तो लड़की कहलक कि जब तक हमरा सादी न करा देवे तब तक हम अन्न-.दान नऽ करब । एकरा पर राजा सोचलन कि सईस से बढ़िया लड़का कहवाँ से मिलत। तुरत सईस से लड़की के सादी कर देलन आउ सारा राज-पाट सौंप देलन । लड़का आउर तीनों चारों परानी आराम से राज-पाट करे लगलन। 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king who had three daughters. The king loved his daughters very much. To provide them with education, he sent all three of them to another kingdom. When the three daughters returned after their studies, the king asked them who ruled their kingdom. The eldest and middle daughters replied that their father was the king, while the youngest daughter said that it was luck and her future husband who ruled the kingdom. The king thought that the youngest daughter had not studied enough, so he decided to send her back for further education. After a couple of years, when she returned, the king asked her the same question again. The youngest daughter gave the same answer, and hearing this, the king was very unhappy. He commanded his soldiers to go and find a foolish boy to marry her.
+
+The soldiers set out to find a boy. In their search, they stumbled upon a dense forest. There, they saw a boy who was sitting on a tree branch and cutting it. The soldiers remarked that they could not find a bigger fool than this, who was sitting on the branch he was cutting. They pulled the boy down and brought him to the king. When the king asked them how they found out he was a fool, they narrated the whole incident, and the king realized that the boy was indeed foolish. The king married the youngest daughter to this boy and gave them a new home. Meanwhile, the girl's mother adorned her with beautiful and costly clothes.
+
+The foolish boy and the king's daughter started their life together. As they were going along one day, the boy suddenly felt a strong hunger and thirst. He told the queen, "Queen, I am very hungry." The queen thought for a moment and said that she had nothing to offer but suggested that he sell her shawl to buy some food, and with some money left, he could buy something for her too. The shawl would fetch them a hundred rupees. The boy went to the market and sold the shawl for the promised amount. Using the money, he bought a shawl, some food, and flowers for the queen, and returned home with them. The queen ate, and then they both set off together again.
+
+As they wandered, they came across a river with a stream of red running through it. The queen warned the boy not to take anything from the river, but enchanted by the sight, the boy snatched a piece of red from the water and tucked it into his waist. After crossing the river, they arrived in another kingdom. The queen instructed the boy to go and request a job from the king. He did so, only to find out that there was no work available, except for the role of a stable hand. The boy started to work as a stable hand.
+
+One day, during a festive occasion, all the courtiers began gambling in the king's court. The stable hand also decided to join in. He placed his red piece in front of him and started to play. On the first day, he won a thousand rupees, which he later presented to his queen. Over the next few days, he won twelve to ten thousand rupees, and seeing his success, the other courtiers reported to the king that the stable hand had a piece of red with him. The king immediately summoned the stable hand to bring the red piece. The king's daughter adorned herself with the red piece and went to sleep on her bed. The parrot and the myna were both perched there. The myna commented about how beautiful the king's daughter looked, to which the parrot responded, "You fool! Do you not realize how much prettier she looked when she had a garland of flowers with the red piece?"
+
+Upon hearing this, the king's daughter quickly covered herself with the blanket and fell asleep again. No matter how much the king and queen tried to wake her, she refused to get up. Finally, she declared that she would neither eat nor drink until she was given a garland of flowers. The king said that whoever had given the red piece would also surely bring her a garland of flowers. "Get up, wash your face and hands." She got up, washed up, and was ready to eat. The king then called the stable hand and told him that if he did not bring the garland of flowers, he would have all his family members banished from the kingdom. The stable hand said he would ask at home and promised to return the next day.
+
+Upon returning home, the boy saw the girl already covered with a blanket. When the queen noticed this, she asked him what had happened. The boy explained that the king had stated that if he did not bring the garland of flowers, he would get everyone's family banished. The girl responded, "Why should you worry about that? The garland of flowers is not far; it belongs to my sister. Get up." The boy got up, washed his face and hands, and was ready. The girl handed him a letter to give to her mother, warning that if he did not, her mother would perish.
+
+As he was heading to deliver the letter, he noticed that the queen was rushing to eat as soon as she spotted her daughter’s letter. The boy tossed the letter into the air, causing a warm reception when it was read. The next day, it was announced that the eldest sister was about to give birth, and the king summoned the boy to assist. 
+
+After arriving back home with a bunch of flowers, the king's soldiers quickly informed the king about the stable hand's activities early that morning. The king called for the stable hand immediately. The stable hand mentioned that he planned to bring the garland from his sisters, which he then presented. Once the flowers were given, he used his sword to cut them, and a large pile of red flowers emerged. The soldiers took the collected flowers directly to the king. The king then gave his daughter the flowers, which she adorned in her hair and bed.
+
+As all of this was happening, the myna said, "Look at how beautiful the king's daughter looks with all those flowers!" To which the parrot remarked, "In the end, you are just a fool! How can you not see how it was more beautiful when she had her husband with her?" Upon hearing this, the king's daughter spread her blanket aside and lay down once more. 
+
+The king and queen, hearing this, tried to convince her, but she insisted she would not partake in any food or drink until her marriage was arranged. The king thought to himself, where would he find a boy better than a stable hand? So, he hastily arranged the marriage between his daughter and the stable hand, giving him all the responsibility of the kingdom. The boy and all his queens began to live a life of ease, ruling over the kingdom together.
+</details>

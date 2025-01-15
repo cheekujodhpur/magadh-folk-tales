@@ -1,12 +1,27 @@
 ---
-slug: "/mft-bagh-brahman"
+slug: "mft-bagh-brahman"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अर्थ-कथा"
 title: "बाघ आउ ब्राह्मण"
+tags: "Brahmin, adventure, resilience, cleverness, fortune"
 ---
+<blockquote>
+The story revolves around a poor Brahmin and his son who struggle to make a living through begging. One day, the Brahmin's wife expresses concern about their situation. The Brahmin decides to venture out for better prospects, and they set off on a journey. Along the way, they encounter a river where the son inadvertently eats a dough made of ashes, leading to a series of events. They find themselves in a mountain hut where they steal and eat kheer, which belongs to a tiger. When the tiger discovers the theft, it searches for the intruders, but the Brahmin's son cleverly uses a sickle to injure the tiger, causing it to flee. A jackal that comes to investigate also gets stuck and runs off, frightened. The Brahmin and his son then collect valuables hidden by the tigers in the hut and return home triumphant, bringing newfound wealth to their family. The tale highlights themes of resilience, cleverness, and fortuitous fortune.
+</blockquote>
+
 एगो दलिद्दर ब्राह्मण हलन। ऊ भीख माँग के खा हलन। रात माँगथ तो सवा सेर, आउ दिन माँगथ तो सवे सेर। एक दिन ब्राह्मणी कहकथिन कि तूं दिन-रात बरबरे कमा हऽ, से कइसे काम चलतवऽ ? बाल-बच्चा कइसे खैथुन-पीथुन? से कहीं परदेस जयतऽ हल तो कमा-उमा के लौतऽ हल । पंडी जी कहलन कि कल्ह भोरे जबवऽ । कुछो नस्ता-पानी बना दिहँऽ । से पड़िआइन राख के सतुआ बना के बाँध देलन । पंडी जी अप्पन लड़िका के साथ परदेस निकललन । जाइत-जाइत एगो नदी पर पहुँचलन आउ नेहा-धोआ के पूजा करे लगलन । एन्ने पंडी जी के बेटा निकाल के राख के सत्तु खाइत हले। पंडी जी आन के देखलन तो बोललन कि तोर मइया एही राख के सत्तू देलकऊ हे? लड़कावा राख के सत्तू के नदी में बहा देलक । 
 
 दूनो उहाँ से आगे बढ़लन आउ चलते-चलते एगो पहाड़ पर पहुँचलन । उहाँ देखलन कि कोई नऽ हे, आउ खीर बन रहल हे । उहाँ दूनो खीर बनौलन, आउ झटपट गटक गेलन । खयला ला के बाद डर के मारे ओहनी एगो कोठी में घुस गेलन । थोड़े देर के बाद एगो बाघ आयल आउ खीर के न देख के एन्ने-ओन्ने घूमे लगल । ओहनी के न मालूम हले कि ई बाघ के घर हे । कोठिया के आन से लड़काबा बघवा के देखलक, आउ बप्पा से कहलक कि एहिजा एगो फरसा हवऽ, कहऽ तो सार के ओकरे से मारीवऽ । ऊ कहलक कि चुप रहऽ न तो बघवा हमनी दूनो के आज खा जतवऽ । बघवा सगरो घूमल चले कि कउन आन के खीरिया खयलक हेऽ ? घूमते-घूमते ओकर चूतड़ कोठी के मान में समा गेल । तब तक पंडी जी के लइका फरसे के बाघ के चूतड़ में घोंप देलक । 
 
 बाघ राम बाई में भागल। ऊ हल्ला करइत जाइत हल कि हमर घर में चूतड़फड़वा घुसल हे । से एगो सिआर सुन के कहलक कि चलऽ तो हम देखइत हीऽ कि कउन हउ ? से सिआर आन के कोठी के मान में अप्पन पोंछी घुसौलक । बाबा जी के लइका पोंछी पकड़ लेलक । एन्ने सिआर जोर लगा के भागे लगल, तो ओकर पोंछिए कबर गेल । ऊ भी हल्ला करइत भागल कि ओकर घर में पोंछकबार घुसल हे। डरल बाघ आउ सिआर दूनो जंगल में जे भागल से फिनो काहे ला आवे के नाम लेवे। एन्ने पंडी जी आउ उनकर लइका कोठी में से निकललन आउ बाघ के घर में जेतना सर-समान आउ रुपेया-पइसा दोसर बाघ के मार-छीन के जमा कयले हले, से सब लेके घरे आ गेलन । आन के पड़िआइन से कहलन कि ''ले, बेटा कमा के ले अलउ हे। अब बइठ के खायल कर !'' 
+
+<details>
+<summary>See translation</summary>
+
+Once, there was a poor Brahmin. He used to eat by begging. In the night, he would beg for a quarter of a seer, and during the day, he would beg for a full seer. One day, the Brahmin's wife said to him, "You work the whole day and night, how do you manage? How do you feed the children?" If he went abroad, he would earn a little and return. The priest said, "Just wait till tomorrow morning." He asked her to prepare some food. The wife made a dough from the ashes and tied it up. The priest set off for another country with his son. While going, they reached a river and began to worship the water there. Meanwhile, the priest's son took out the dough made from the ashes and began to eat it. The priest saw him and asked, "Did your mother give you this ash dough?" The boy threw the ash dough into the river.
+
+Both of them moved ahead and, walking, reached a mountain. There they saw that no one was around, and kheer (a type of sweet dish) was being prepared. They both cooked the kheer and quickly devoured it. After eating, out of fear, they hid in a hut. After a while, a tiger came and, not seeing the kheer, began to roam around. They didn't know that this was the tiger's home. From the hut, the boy spotted the tiger and said to his father, "There is a sickle here, let's hit it with that." He replied, "Stay quiet or the tiger will eat us both today." The tiger kept wandering around, wondering who had eaten the kheer? As it roamed, its backside got stuck in the hut's wall. Meanwhile, the priest's son thrust the sickle into the tiger's backside.
+
+The tiger ran away in pain. It was howling that a sickle had entered its home. Hearing this, a jackal said, "Let me go see who it is." The jackal came near the hut and poked its snout inside. The priest's son caught the jackal's snout. As the jackal struggled to escape, its snout got stuck too. It also howled as it ran off, claiming that a jackal had entered its home. The frightened tiger and jackal both ran into the jungle and did not dare to return. Then the priest and his son came out of the hut and took all the belongings, and money that other tigers had hidden there, and went home. They told the wife, "Look, dear, we've earned this! Now we can sit and eat!"
+</details>

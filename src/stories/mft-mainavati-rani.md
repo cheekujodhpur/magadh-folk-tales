@@ -1,10 +1,17 @@
 ---
-slug: "/mft-mainavati-rani"
+slug: "mft-mainavati-rani"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "राजकुमार आउ मयनावती रानी"
+tags: "kingdom, magic, adventure, love, jealousy"
 ---
+<blockquote>
+The story follows a king who, after learning he is to marry Mayanavati, embarks on a quest to find her, determined to not return until they are wed. Along his journey, he encounters a python, whom he frees in exchange for a magical item that aids him. With the help of a sage, he acquires another magical item that allows him to transform into a parrot to reach Mayanavati. They enjoy their time together but must keep their relationship secret from the king's first wife.
+
+When they finally arrive at the kingdom, complications arise due to the first wife's jealousy and the interference of a thief and his daughter. However, through cleverness and collaboration, the king, Mayanavati, and his first wife outwit their adversaries. Ultimately, they reclaim control of the kingdom, ensuring prosperity under their united reign.
+</blockquote>
+
 एगो कोई राजा हलन । राजा रोसगदी करा के जब अप्पन राजमहल में अयलन आउ महल में सूते लागी गेलन तो पलंग पर जइसहीं एक लात रखइत हथ कि रानी ठठा के हँस देलक। तुरत राजा अप्पन गोड़ पलंग से भुइयाँ पर रख देलन आउ रानी से पूछलन कि तूं का बात ला हँसलऽ हे?  सेकर कारण बतलावऽ । रानी कहलक कि हम अइसहीं हँसली हेय, कुछो बात नऽ हे। राजा कहलन कि एमें जरूर कोई बात हे। रानी एकरे पर कहलक कि जा नऽ तोरा तो मयनावती से बिआह होइत हवऽ। एतना सुन के राजा तुरंत घोड़ा के अस्तबल में गेलन आउ खोल के घोड़ा पर सवार हो गेलन। उहवाँ से मयनावती रानी के खोजे ला चल देलन । कहलन कि जब तक हम मयनावती रानी से बिआह नऽ करब, तब तक राज में नऽ लौटब । 
 
 जाइत-जाइत राजा एगो भारी जंगल में पहुँच गेलन, तो देखइत हथ कि एगो कुटिया बनल हे। ओही जगह पर पक्का के एगो कुआँ हे। ओकरा पर बाल्टी-डोरी रखल हे । राजा के जोर से पिआस लगल हल। जब बाल्टी-डोरी कुआँ में डाललन आउ पानी घींचे ला गयलन तो घिचयबे ना करे। एही तरह से राजा के डोरी-बाल्टी धयले-धयले साँझ से भोर हो गेल तो कुआँ में देखइत हथ कि एगो बड़ा भारी अजगर साँप बाल्टी के पकड़ले हे। जब दूनों के नजर मिलल तइसहीं सरप कहलक कि हमरा निकाल दऽ तो तोरा हम काटब-ऊटब नऽ आउ इनाम में एगो चीज देव। जब राजा अजगर के निकाल देलन, तो अजगर अप्पन कुटिया में ले गेल आउ कहलक कि हमरा से तूं बरदान माँगऽ। राजा कहलन कि हमरा कोई चीज के कमी न हेय । बाकि हमरा मयनावती से बिआह करा दे । अजगर कहलन कि इहाँ से कुछ दूर पर एगो आउ जंगल मिलतव। ओही जंगल में एगो साधु तपस्या करइत हथ। उनकर सरीर में दीआं लगल होतवऽ । उनकर अँगाड़ी में जा के खाड़ा हो जइहँऽ, तो उनकर ध्यान टूट जायत। फिन जउन चीज माँगे लागी होतवऽ तउन चीज माँग लीहऽ। अजगर एकरा बाद राजा के अप्पन जाँघ चिरववलक आउ ओही में अप्पन मुँह से मणि उगिल देलक। फिनो एगो जड़ी से रगड़ देलक तो जाँघ जइसन हल ओइसने हो गेल। अजगर कहलक कि एकरा से जउन चीज माँगवऽ ओही चीज मिल जतवऽ आउ जड़ दे देलक। 
@@ -35,3 +42,19 @@ title: "राजकुमार आउ मयनावती रानी"
 इधर जब ठग के बेटी सुनलक कि राजा उहवाँ मनि के कारन पगला गेलन हे, तो अपने पनेरिन बन के पान बेचे खातिर ओही राजदरबार के राह से कहइत जाइत हल कि ले पान, ले पान! एतना सुन के बराहिल आयल आउ पूछलक कि कइसे खिल्ली पान हउ गे पनेरिन? पनेरिन कहलक कि सौ रुपये खिल्ली । तुरंत एक खिल्ली पान ले के सौ रुपया दे देलक आउ पूछलक कि आउ का देवे? तो पनेरिन कहलक कि साँझ के अन्हार भेला आ जायब। एकरा बाद गोमस्ता आयल तो अइसेहीं पूछलक तो पनेरिन कहलक कि दू सौ रुपये खिल्ली। झटपट दू सौ रुपया दे के दू खिल्ली पान खा लेलक, तब पनेरिन कहलक अपने साँझ के अन्हार भेला के एक घंटा बाद आ जायब। एकरा बाद खजांची अयलन तो ओभी एही तरी पूछलन। पनेरिन सौ रुपये खिल्ली पान के दाम बढ़वते जा हल। खजांची कहलन कि हमरा पास एगो पत्थर हेय। पनेरिन तुरत पत्थर लेके पान दे देलक। ये ही तरह मनेजर, बूढ़ा राजा, सब ढेर लोग आन के पान खयलन आउ पनेरिन सबहे के एक-एक घंटा बाद रात खानी बोलौलक। 
 
 फिनो ठग के बेटी अपन मरद राजा के बोला के मनि दे देलक, आउ अप्पन सब हाल कह सुनौलक। फिन उनका उहईं एगो कोठरी में रहे के अलगे इंतजाम कर देलक। रात के अन्हारा में बराहिल पहुँचल तो खखन में गोमस्ता भी तुरते गेलन। डरे बराहिल थरथराय लगल तो ठग के बेटी झटपट ओकरा चटाई में लपेट के लुका देलक। एकरा बाद खजांची अयलन तो गोमस्ता डर गेलन आउ कहलन कि कने जाऊँ? ठग के बेटी झटपट उनकर देह में कारिख पोत देलक आउ सोझे खड़ा करके उनकर कपार पर दीया बार देलक आउ कहलक कि हिल-डोल मत करिहँऽ, न तो दीया बुझा जायत, आउ सबे पोल खुल जतवऽ। अइसहीं पारा-पारी सबहे मनेजर आउ राजा के बाप भी अयलन। ठग के मरद राजा सबहे के देखलन आउ देख के चुपचाप रह गेलन। सबेरे उठत सब के बोलाके खादे-भूसे भरवा देलन । साथे-साथे अप्पन पहिलकी अउरत आउ बेभिचारी बाप के भी भरवा देलन। एकरा बाद मयनावती रानी आउ ठग के बेटी के साथ मिल-जुल के ऊ रहे लगलन आउ राज-पाट करे लगलन। 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king who, after a long day of royal duties, returned to his palace and went to bed. As he was settling down on his bed, the queen burst out laughing, which puzzled him. The king placed his foot on the ground and asked the queen why she was laughing. The queen replied that she was just laughing without any particular reason. The king insisted that there must be a reason behind her laughter. The queen then revealed that he was to marry Mayanavati. Hearing this, the king immediately went to the stables, mounted his horse, and set out to find Mayanavati, declaring that he would not return to his kingdom until he had married her.
+
+On his journey, the king came across a dense forest and noticed a hut with a well nearby. He was very thirsty and attempted to draw water from the well. After struggling for a long time, he finally succeeded but discovered that a large python had grasped his bucket. When their eyes met, the python promised to spare him in exchange for his freedom and offered him a reward. Once the king freed the python, it took him to its hut and instructed him to ask for a boon. The king replied that he lacked nothing but wanted to marry Mayanavati. The python told him that there was a sage nearby who could help him. It gave the king a magical item that would transform his appearance depending on how it was used.
+
+With the new knowledge, the king set off to find the sage and, upon meeting him, requested to marry Mayanavati. The sage provided him with another magical item that, when placed in his ear, would turn him into a parrot and back into a man at will. The king used this transformation to reach Mayanavati, who was waiting for him.
+
+Mayanavati and the king spent many happy days together. However, one day she suggested that they should go to his kingdom, so he could properly introduce her as his queen. To maintain discretion, they transformed into a parrot and a female parrot and flew towards his kingdom. On their way, they came across a thief who tried to deceive them, but Mayanavati demonstrated her cleverness and defeated him.
+
+Upon reaching the kingdom, the king secured their chambers together and placed a magical stone that would ensure the safety of their secret. However, the king's first wife learned of the situation and, concerned, began to create mischief. Meanwhile, the thief's daughter disguised herself and began selling pan (betel leaf) outside the palace. Through her tricks, she managed to create more confusion.
+
+Eventually, she returned to her husband, the king, and revealed the truth of the situation. Together, with the king's first wife, they devised a plan to reclaim the kingdom from the meddling forces of the thief. By uniting and cleverly implementing their strategies, they finally secured their position, and the kingdom prospered once more under the rightful reign of the king and Mayanavati, who managed to outsmart their adversaries.
+</details>

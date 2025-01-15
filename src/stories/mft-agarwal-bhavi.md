@@ -1,10 +1,15 @@
 ---
-slug: "/mft-agarwal-bhavi"
+slug: "mft-agarwal-bhavi"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अलौकिक चमत्‍कार कथा"
 title: "अगरवाल के बेटा"
+tags: "family, ambition, magic, marriage, humor"
 ---
+<blockquote>
+The story revolves around the Agarwal family, particularly their son who, after his father's death, starts working with little money. Instead of seeking a traditional job, he opens a small shop and gradually succeeds. He encounters a mysterious old woman who prophesizes that he will get married that night. Although he initially responds with aggression, he finds himself magically transported to a kingdom where he marries a princess. After the wedding, he cleverly prepares a meal that impresses everyone, but he sneaks back home before anyone realizes he has left. Ultimately, he returns for a post-marriage ritual, leading to a humorous confrontation between his marital claim and another suitor. The tale highlights themes of ambition, magic, and unexpected circumstances in pursuit of love and success.
+</blockquote>
+
 एगो अगरवाल हल। ओकरा एगो लड़का हल । बाप के मरला पर लड़कावा तीन पइसा के नोकरी करे लगल । दू पाई में ओकर मतारी सब खर्चा चलावे आउ एक पाई बचावे। एक दिन अगरवलवा माय से कहलक कि कुछ पइसा दऽ तो नोकरी करे जाईं। माय ओकरा एगो रोपेआ देलक। बेटा नोकरी न करके दोकान कर लेलक । एक रोपेआ में हरदी धनिया-चतपतई लान के बेचे लगल । जब ओकर दोकान चल गेल तो ऊ बाहर से समान लान के बेचे लगल । 
 
 एक तुरी बाहर जाइत खानी एगो बुढ़िया के तीन लड़की पर तीन चिरु पानी उबिछइत देखलक। ऊ कभी हँसे, कभी रोवे, कभी गीत गावे । ऊ चुपचाप देखलक आउ फिन पूछलक कि तू का करइत हें । बुढ़िया कहलक कि तोर काम हवऽ से तू करऽ, हमर काम जेहे से हम करइत ही । अगरवाल के बेटा कहलक कि जब तक न बतयबे तब तक हम इहाँ से न जबउ । बुढ़िया कहलक कि हम 'भावी' ( One who knows future ) ही। फिन लकड़हरवा पूछलक कि हमर सादी होयल हे कि ना ? बुढ़िया कहलक कि ना, बाकि आज रात के हो जतवऽ । एकरा पर खिसिया के अगरवलवा के बेटा ओकरा तीन लाती मारलक तो बुढ़िया कहलक कि मार चाहे कुछ करऽ बाकि आज रात के तोर सादी जरूर हो जतवऽ । फिन ऊ सर-समान लेके चलल तो रस्ते में रात हो गेल । ऊ एगो पीपर के खोड़रा में लुका गेल।
@@ -21,3 +26,21 @@ title: "अगरवाल के बेटा"
  
 निश्चित दिन पर लड़का गवना करावे ला बरात लेके आगरोपुर पहुँचल । एने काना भी बर-बराती के साथे रोसगदी करावे ला रुकल हल। दूनो बराती झगड़े लगलन कि हम बिआह कैली हे । लड़की अप्पन बाप से कहलक कि दूनो बर के साथे इहाँ लिया आवऽ । बाप दूनो लड़का के अप्पन बेटी भिजुन लिया गेलन । लड़किया दूनो से पूछलक कि जे कोहबर में खयला हे से बता दऽ। काना तो खैलक न हल, से ऊ खाली दाल-भात बतौलक। एकरा बाद अगरवाल के बेटा कहलक कि कोहबर में हम खीर खैली हल आउ खाके थोड़ा छोड़ देली हल, जे रानी भी खा लेलन हल। 
 सब कपड़ा जे उहाँ टंगल हल फाट गेल। अगरवाल के बेटा गवना करा के रानी के लेके चल गेल। 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a Agarwal family. They had a son who started working for a meager salary after the death of his father. His mother managed to run the household budget with two coins, saving one for themselves. One day, the Agarwal boy asked his mother for some money to get a job. His mother gave him one rupee. Instead of finding a job, he decided to start a shop. He began selling turmeric, coriander, and other items for one rupee. Once his shop started running well, he began purchasing goods from outside to sell.
+
+One day, while going out, the boy saw an old woman spreading water on her three daughters. They laughed, cried, and sang at times. He silently watched them and then asked what they were doing. The old woman replied that it was none of his business and he should manage his own work. The Agarwal boy insisted that he wouldn't leave until she told him. The old woman said that she was a 'bhavishya-wani' (someone who knows the future). The boy then asked whether he would get married or not. The old woman replied no, but that tonight he would surely get married. Annoyed, the Agarwal boy hit her three times with a stick. But the old woman reiterated that whether he hit her or not, he would definitely get married that night. After that, he took his belongings and, while walking, it became night. He hid inside a Peepal tree.
+
+In the middle of the night, four women came and climbed the tree to take him away. They transported him across the sea and placed him in a town. When they all got down, the Agarwal boy followed them. The king of the place was expecting the guests. The four women settled down there, while the Agarwal boy sat on a mound to watch. A young guest looked at him and, seeing his good looks, asked him to close the door, saying they would give him whatever dowry was to be had. He closed the door, and smoke and water (food) began to appear. The groom's father then told the boy to get married, and the marriage took place accordingly.
+
+The Agarwal boy entered the bridal chamber, and he felt hungry. He asked the princess for something to eat. She replied that she didn't have anything to prepare for food at that moment. The boy insisted that she find a way. So, the princess looked up to the roof and set up a fireplace, placing the cooking pot on the top. She fetched ghee and gave it to him. She even put sugar in it, along with some leftover sweets from the wedding. The kheer (a sweet dish) was prepared and presented to the king. The leftovers were consumed by the queen. The queen then fell asleep. Before the night ended, the king wrote on her dupatta (the queen's scarf): "The girl is searching for a boy. The marriage will happen beautifully, but the groom coming for the wedding will arrive for the gauna (post-marriage ritual). The house of the boy who will marry is located across the sea in Lalganj." Upon waking up, the queen read the writing and saved it carefully in a box.
+
+Then, before the morning arrived, the Agarwal boy hid again in the Peepal tree. Meanwhile, there was a commotion among the guests that the boy had run away. After this, the four women brought him down from the tree and whisked him away to where they had taken him from. They all got down, and by morning, the boy returned home with his belongings. He thought to himself that those who saw him would laugh at him for earning a few coins while wearing such a peculiar outfit. The same elderly woman, bhavishya-wani, was also walking the same route, approached him, and said he was a true 'bhavishya-wani.' After this, the boy returned home and greeted his mother. His mother asked where he had gotten such attire. He replied that he had gotten married last night. He would bring the groom home after the gauna. He then spent the whole day working.
+
+On the appointed day, the boy arrived at Agarwalpur for the gauna ceremony with a wedding procession. Here, the old man was also waiting to serve the guests. Both the guests started arguing about who had married first. The girl said to her father that he should bring both the boys here. The father sent both boys to their daughter. The girl then asked both of them to tell her what they had eaten in the bridal chamber. One boy replied that he hadn't eaten anything, so he only mentioned some lentils and rice. Then, the Agarwal boy said that he had eaten kheer and had left some for the queen, who also consumed it.
+
+All the clothes that were there were torn. The Agarwal boy took the queen along after the gauna ceremony.
+</details>

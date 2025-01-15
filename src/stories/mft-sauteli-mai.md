@@ -1,10 +1,17 @@
 ---
-slug: "/mft-sauteli-mai"
+slug: "mft-sauteli-mai"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "नीति कथा"
 title: "सतेली माय"
+tags: "royalty, family, betrayal, bravery, consequences"
 ---
+<blockquote>
+The story revolves around a king who initially had no children but was later blessed with four sons. Meanwhile, a maid in the palace raises her own two children but after her death, her husband marries again. The new maid, driven by malicious intent, kills the maid's children. The queen discovers the gruesome act and fears for her own children’s safety if the king remarries.
+
+After the queen's death, the king reluctantly remarries. His four sons start managing the realm themselves, and during a night watch, the youngest son bravely saves their mother from a deadly snake. Upon discovering the truth about his mother's distress, the king learns of the new queen's wickedness through the sons' wisdom and experiences. He decides to punish the new queen, resulting in her death, and thereafter, he rules joyfully with his sons. The tale illustrates themes of jealousy, parental love, bravery, and the consequences of rash actions.
+</blockquote>
+
 एगो सहर में एगो राजा हलन। उनका कोई लइका फइका नऽ हल। कुछ दिना के बाद उनका चार गो लइका होयल। ऊ राजा के महल के एगो कोना में गरवइया खोता लगा के दूनो परानी रहऽ हलन। रानी ओकरा रोज देखऽ हलन। गरवइया के दूगो बच्चा हलऽ। बचवन के दूनो परानी मिलके खिआव-पिआव हलन। कुछ दिन के बाद गरवनियाँ मर गेल तो गरवइया अकेले पाले-पोसे लगल। 
 
 एक रोज गरवइया एगो गरवइनी के फुसला के ले आयल आउ ओकरा से बिआह कर लेलक। दूनो साथे रहे लगलन। एक दिन गरवनियाँ सोचलक कि ई सब बचवन के मार देती हल, तो बड़ा अच्छा हल। हमनी दूनो फैल से रहती हल। एही सोच के ऊ रेंगनी के काँटा लवलक, आउ जब बचवा लोग खाय लागी रोज नियन मुँह फारलन, तो टप-टप दूनो के मुँह में रेंगनी के काँटा डाल देलक। बेचारन बचवन सब तड़प-तड़प के मर गेलन। एकरा बाद गरवइनियाँ दूनो के खोता से नीचे गिरा देलक। 
@@ -37,3 +44,37 @@ title: "सतेली माय"
 एकरा बाद राजा सँझिला लड़का से पूछलन, तो ऊ भी एहनी के बात के हाँ-में-हाँ मिलयलक आउ कहलक कि कोई काम सोचे-समझ के करे के चाहीं। न तो फिनो सौदागर आउ बाज ओला राजा नियन पछतावे पड़ हे। तब राजा असलियत के समझे ला छोटका बेटा के बोलवलन आउ पूछलन कि ''का बात हे बेटा! अइसन-अइसन बात तोर माय से सुनइत हीव!'' छोटका बेटा कहलन कि ''ई सब तो कहना ठीके हेय। जरा चल के महल में देख लेल जाय, तब हम कुछ कहब।'' राजा पलंग तर ढाल उठा के देखलन, तो बड़ा भारी काला नाग मार के तोपल हल। एकरा बारे में जब राजा छोटका बेटा से पूछलन तो ऊ सुरू से अंत तक सभे बात कह सुनवलन।
  
 एकरा बाद राजा छोटका बेटा के बहादुरी आउ काम पर खूब खुस होयलन, आउ रानी के भर पोरसा गड़हरा खोदवा के ओकरे में मूँड़ी तक गाड़ के भरा देलन, आउ कपार पर दही-चीनी देके खूँखार कुतवन से नोचवा-नोचवा के परान निकलवा देलन। एकरा बाद राजा चारों बेटवन के साथ आनन्द से राज-पाट करे लगलन। 
+
+<details>
+<summary>See translation</summary>
+
+Once upon a time, there was a king in a city who had no children. After some time, he was blessed with four children. He kept a maid in one corner of the palace, and both the maid and her husband lived there. The queen saw them every day. The maid had two children, and both partners would feed the children together. After some days, the maid passed away, and the husband began to raise the children alone.
+
+One day, the husband coaxed another maid into marrying him, and they started living together. One day, the maid thought that if she killed those children, it would be great, and they would live freely. Thinking this, she took a thorn from a bramble and, when the children came out to eat, she pierced their mouths with it, causing the children to die in agony. After that, the maid threw the corpse of both children down from the corner.
+
+The next morning, the queen woke up and noticed that the children hadn’t come out, so she went to check and saw the dead bodies of the maid’s two children lying below. When she examined them closely, she saw that they had been killed with a thorn. She thought that the husband had married another maid who had taken the lives of those children. If she too were to die, the king would marry again, and the wicked stepmother would do the same to her children. After thinking this, the queen became very distressed.
+
+When the king found out, he immediately took a doctor to the queen's quarters. The doctor checked her but found no illness. After this, the queen narrated everything about the husband and the new maid to the king and showed him the dead children. The queen said, "When you marry another, will not my children face the same fate?" So, please promise me that you will not marry again. Then both lived together peacefully.
+
+Days passed, and the queen passed away. After the queen's passing, the king was urged to marry again, and despite his reluctance, he eventually agreed, and the marriage took place. By this time, the king's four sons had grown up. They thought that if they looked after the realm themselves, they could save a lot of unnecessary expenses. With this thought, they shared their opinions with their father, and the king agreed.
+
+The four brothers took turns guarding the palace. At the time of the third watch of the night, the fourth and youngest brother was on watch. During his watch, he noticed that all the seven doors of the palace were open. The boy went to check and found his mother wandering around. Having seen this, he returned to his post. After some time, he again noticed that the doors were still open. "What is happening? I do not understand," he thought, and went to check again. This time he saw that his mother was sleeping while a large black snake was preparing to strike her. He thought that his mother was lucky today since the door was open; otherwise, she could have lost her life. He immediately drew his sword, killed the snake, and placed the sword on a cot. When he tried to leave, he saw a drop of blood had fallen on his mother’s chest. He thought if he wiped it with his hands, it would be a mistake, and if he wiped it with his mouth, he might get poisoned, so he wet a cloth and kept it in his mouth to wipe the blood, waking his mother in the process. The queen saw her little son and asked, "What happened?" The boy replied, "It’s nothing," and left with the cloth.
+
+In the morning, the queen began to wail. When the king arrived, the queen asked, "Did you marry for yourself or for your son?" Upon hearing this, the king's blood boiled with anger. He immediately contemplated ordering a hanging but thought it best first to ask the children. He asked the eldest son, "If a child commits a sin as an adult, should he be hanged?" The eldest replied, "Until we have questioned the person responsible, we should not hang anyone; otherwise, he might end up like that merchant who swore, 'Oh, dog, oh, dog' and then struck his chest and died!"
+
+The king asked, "How did that happen, son?"
+
+The eldest explained, "In a certain city, there was a merchant who had a well-trained and obedient dog. Wherever the merchant went, he would take the dog with him. One day, while the merchant was in the jungle hunting, he got very thirsty. Despite searching everywhere, he couldn’t find water. He was at his wits' end. As he was returning, the dog flew above him. Suddenly, the king noticed a drop of water falling from somewhere. Mistaking it for a stream of water, he quickly began to collect it in his hands. 
+
+The dog thought that the stream might run dry, so he flew high to find out where the water was coming from." 
+
+When the dog searched for water, he saw a huge python that had died and was decomposing. Water was dripping in drops from its decaying body. The dog immediately swooped down and knocked the merchant's hands away, spilling the water. The merchant tried again, but the dog knocked it away once more. Again and again, the dog stopped the merchant from drinking. Finally, the king, frustrated, drew his bow and killed the dog, exclaiming, "This dog is my enemy—it has stopped me from drinking!"
+
+Having killed the dog, the merchant thought he would now finally go and drink from where the water was coming. Climbing up a tree, he discovered that a large python was lying dead, and water was dripping from its corpse. Upon seeing this, he struck his chest and cried, "Oh, dog, oh, dog!" In lamentation, he laid down and died right there!" 
+
+Listening to this tale, the king nodded and said, "Very well, son!" 
+
+The king then turned to the middle son and asked him, to which he agreed and said that one should think carefully before acting, or else they might end up regretting it like that merchant and the dog. Thus, the king, realizing the truth, called for the youngest son and asked him, "What is it, my child? I've heard so many things from your mother!" The youngest son replied, "All this is correct. Let's go and see what is going on in the palace; then I will say something." The king lifted the shield from the cot and found a large black snake dead below. When the king asked the youngest son about it, he explained everything from the beginning to the end.
+
+After this, the king was very pleased with the youngest son's bravery and intelligence. He had the queen buried in a pit up to her head, then smeared her head with curds and sugar, and had fierce dogs gnaw at her until she died. After this, the king ruled joyfully with his four sons.
+</details>

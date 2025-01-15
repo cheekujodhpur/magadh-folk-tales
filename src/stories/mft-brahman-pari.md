@@ -1,10 +1,15 @@
 ---
-slug: "/mft-brahman-pari"
+slug: "mft-brahman-pari"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "अर्थ-कथा"
 title: "ब्राह्मण आउ सात गो परी"
+tags: "Baba Ji, fairies, magical items, trickery, perseverance"
 ---
+<blockquote>
+The story revolves around Baba Ji, a poor man with a family who relies on begging for sustenance. After being pressured by his wife to improve their situation, he embarks on a journey and encounters seven fairies who provide him with magical items: Barhguna, which can summon food, and later, a goat filled with pearls and corals that promises prosperity. However, each time Baba Ji tries to use these gifts, the potter's wife deceitfully substitutes them when he stays overnight at her husband’s house. After a series of misunderstandings and trickery, the fairies eventually provide Baba Ji with a new magical stick called Sontaa, which generates food. Ultimately, Baba Ji's persistence leads to overcoming the potter’s wife's schemes, allowing him to return home with all his magical gifts. With the newfound wealth and resources, Baba Ji and his family live happily ever after.
+</blockquote>
+
 एगो बाबा जी हलन। ऊ बड़ी गरीब हलन उनका चार गो बेटा हलन आउ एगो स्त्री हल । ऊ रोज भीख माँग के अप्पन परिवार के पाल-पोसऽ हलन। एक रोज उनकर मेहरारू बड़ी बात कहलन कि ''तोरा चार लइका हे। देस-विदेस में जाइत रहतऽ, तो कुछ तो कमा के भी ले आइत रहतऽ !'' खीस के मारे पंडी जी अउरत के कहलन कि रस्ता के कलेवा बना दऽ, कल्ह हम परदेश जायम। 
 
 पंडी जी घर से चललन। जाइत-जाइत कुछ दूर पहुँचलन, तऽ एगो जंगल मिलल। ओकरा में एगो इनरा हल, जहाँ पर एगो पेड़ हले। उहईं पर पंडी जी नेहा-धोआ के भोजन करेला चाहलन। ऊ खायओला मोटरी खोललन तो सात गो पूआ देखलन आउ सोचइत बोललन कि '’एगो खाऊँ कि दू गो खाऊँ, कि तीन गो खाऊँ, कि चार गो खाऊँ, कि पाँच गो खाऊँ, कि छव गो खाऊँ, कि सातो खा जाऊँ!'' ई सुन के इनरा में से सातो परी बोललन कि '’पंडी जी, गोड़ पड़इत ही, हमनी सातो के परान ऊबार देऊँ! हमनी अपने के अइसन चीज देइत ही, कि अपने के परबस्ती चल जायत !'' एतना कह के परी लोग इन्दरलोक में चल गेलन, आउ बाबा जी ला एगो बरहगुना माँग के ला देलन । ऊ बरहगुना आन के बाबाजी के देलन आउ कहलन कि ''सवा हाथ जमीन लीप के बारह प्रकार के भोजन माँगवऽ, तो तुरते बन के तैयार हो जायत !'' 
@@ -14,3 +19,25 @@ title: "ब्राह्मण आउ सात गो परी"
 दोसर दिन फिनो पंडी जी ओही इनरा पर जाके स्नान-पूजा के बाद कलेवा करे ला खोलन तो सात पूआ देख के कहलन, कि एगो खाऊँ कि दूगो खाऊँ, कि सातो खा जाऊँ ?  सातो परी ई सुन के पंडी जी के गोड़ पर गिर के गिड़गिड़ाय लगलन । कहलन कि ''महराज हमनी धोखा न देईं, बाकि कोई बीच में ही धोखा दे दे हे। अबकी अइसन चीज देइत हीवऽ कि धोखा न होयत! से परियन इन्दर महराज से एगो सोंटा माँग के लौलक । ई सोंटा धीरे-धीरे कहे से गते-गते देह के सोंटऽ हल, आउ कस के कहे से कस के सोंट दे हल, आउ बंद कर देवे पर रुक जा हल। पंडी जी सोंटा लेके ओही कुम्हार के घर रात में ठहर गेलन। सुतला पर सोंटा से धीरे-धीरे अप्पन देह सोंटवा लेलन। एकरा देख के सुतला पर कुम्हइनियाँ सोंटा के ले गेल आउ कस के देह सोंटवावे लगल। सोंटा जब देह के खूब मरम्मत करे लगल, तो कुम्हइनियाँ चिल्लाय लगल। ओकरा मरे के बारी आ गेल, तो कुम्हरा पंडी जी के गोड़-हाथ परे लगल । पंडी जी कुम्हइनियाँ के पास गेलन तो ऊ कहलक कि बरहगुना आउ बकरी हमरे पास हे। ई सब ले जाईं, आउ हम्मर जान बकस दिहीं। एकरा बाद पंडी जी बरहगुना, बकरी, सोंटा आउ दान-दहेज लेके विदा होयलन। 
 
 पंडी जी खुसी से घरे लौट गेलन । ब्राह्मणी एक-एक कर बहरगुना, आउ बकरी के परीक्षा लेलन । सोंटा के परीक्षा लेवे लगलन तो खूब सोंटा गेलन । अंत में पंडी जी सोंटा के बंद कयलन । फिन बरहगुना आउ बकरी से बाबा जी मालोमाल हो गेलन। ऊ दूनो के दिन खुसी में बीते लगल । 
+
+<details>
+<summary>See translation</summary>
+
+Once there was a poor man named Baba Ji who had four sons and a wife. He depended on begging to feed his family. One day, his wife scolded him, saying, "You have four children. You travel far and wide, and you don’t bring anything back home!" Angered, Baba Ji told her to prepare lunch for the journey, as he was planning to go abroad the next day.
+
+Baba Ji set off from his home. After walking a little, he came across a forest where there was a clearing with a tree. There, Baba Ji wanted to rest and eat. When he opened his sack to eat, he found seven puris. He thought to himself, "Should I eat one, or two, or three, or four, or five, or six, or all seven?" Hearing this, the seven fairies in the clearing said, "Baba Ji, if you prostrate before us, we will save your life! We will give you something so that you can live well!" Saying this, the fairies disappeared to Indralok and gave Baba Ji a special item called Barhguna. They instructed him to draw a one-and-a-quarter hand of space on the ground and request twelve types of food, which would be ready right away!
+
+Baba Ji took the Barhguna and returned home. On the way, it got dark, and he stayed overnight at a potter's place. When he drew the one-and-a-quarter hand of space on the ground and asked for food, it was prepared. Baba Ji ate and fell asleep, but the potter's wife was watching him. She wondered how amazing it would be if she had the Barhguna for herself. While Baba Ji was sleeping, the potter's wife took the Barhguna and hid it, placing another similar item on Baba Ji's head. 
+
+In the morning, Baba Ji returned home and gave the Barhguna to his wife, explaining its qualities. As soon as the respected lady asked for food using the Barhguna, there was none made. Even after asking three times, no food was prepared, so she scolded Baba Ji, saying, "Are you joking with me? Where is the food that should be prepared?" Baba Ji too said that the Barhguna didn’t provide them any food. Then Baba Ji thought that the fairies had deceived him. 
+
+The next day, after taking a bath and performing prayer, he sat to eat again and saw seven puris in his sack. He decided to eat them as before. As he wondered whether to eat one or two, the fairies pleaded, "Now please let us eat!" They went to Indra and requested a goat with pearls and corals. They gave the goat to Baba Ji and told him it was filled with pearls and corals, which would ensure his prosperity. Baba Ji took the goat and stayed again at the potter's house for the night. That night Baba Ji spoke to the goat, saying, "O goat of Indra, filled with pearls and corals," and the goat responded accordingly. Seeing this, the potter's wife took the goat and substituted it with a similar one. 
+
+The next day Baba Ji took the goat home and explained all its qualities to his wife. The wife took the goat and called out, "O goat of Indra, filled with pearls and corals!" but the goat did nothing. Baba Ji's wife then scolded him harshly.
+
+The following day, Baba Ji again went to the fairies and after bathing and performing rituals, when he asked for food, he saw the seven puris and remarked, "Should I eat one, two, or all seven?" Upon hearing this, the seven fairies fell at Baba Ji's feet and begged, saying, "Great king, we do not deceive you. But someone in between is deceiving us. This time, we will give you something without any deception!" Saying this, the fairies returned with a special stick known as Sontaa. This stick slowly produced the food incrementally and would stop when commanded.
+
+Baba Ji took the Sontaa and stayed at the potter's house that night. While sleeping, with the help of the Sontaa, he gradually provided food for himself. Seeing this, the potter's wife took the Sontaa away while he was asleep and used it on herself. As the Sontaa started to work well, the potter's wife began to scream. When it became her turn to be punished, the potter fell at Baba Ji's feet. Baba Ji went to the potter’s wife and said, “I have the Barhguna and the goat in my possession. Take all of this and spare my life.” After that, Baba Ji departed with the Barhguna, the goat, the Sontaa, and many gifts.
+
+Baba Ji returned home happily. The wife examined the Barhguna and the goat one by one. When they started to test the Sontaa, it created a lot of food. Finally, Baba Ji stopped the Sontaa. Consequently, Baba Ji became prosperous with the Barhguna and the goat, and they lived happily ever after.
+</details>

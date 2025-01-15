@@ -1,10 +1,15 @@
 ---
-slug: "/mft-dilvar-jaan"
+slug: "mft-dilvar-jaan"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "प्रेम-कथा"
 title: "दिलवर जान "
+tags: "fairy tale, magic, adventure, love, determination"
 ---
+<blockquote>
+The story revolves around a king's son who dreams of a magical market filled with sweets and a beautiful sweet seller. After a long quest to find her, guided by various adventures, he discovers the sweet seller in the market of his dreams. Despite facing numerous challenges, including a daunting task set by the prince's father and the sweet seller's demand for a substantial bride price, the prince perseveres with the help of magical companions. Ultimately, their love prevails, and they marry, bringing joy to both families and the kingdom. The narrative explores themes of determination, love, and the intertwining of magic and reality.
+</blockquote>
+
 एगो राजा के बड़ी तपस्या के बाद एगो बेटा भेल । ऊ बड़ी तेज हल आउ पढ़के जब सोरह बरस के भेल तो एक दफे ऊ सपना देखलक- ''बावन गली तिरपन बजार, सीसा के बजार हे । ऊ बजार में एगो बड़ी सुन्नर हलुआइन हे । ऊ तीन दाम के मिठाई बेचऽ हे- पच्चीस रुपेया सेर, पचास रुपेया सेर आउ सौ रुपेया सेर । सेर भर मिठाई खाईं तो बड़ी अच्छा होय।'’ 
 
 अन्हारे ऊ लइका ऊ बजार देखे ला तइयार भेल, तो बाबूजी पहिले अपने देख आवे ला कहलन । ऊ जाके सौ कोस के दूरी पर ओइसने बजार लगा देलन, आउ ओकरा में एगो हलुआइन बइठा के समझा देलन । फिन लइका ऊ बजार के देखे जाय ला तइयार भेल। बेटा घोड़ा पर खूब रुपेया लाद के चलल, साथ में बापजान भी हो गेलन । बनावटी बजार में लइका पहुँचल, तो हलुआइन से मिठाई के दाम पूछलक, आउ लेके खयलक बाकि ओकरा बिसवास न भेल कि ई ओही बजार हे, जे ऊ सपना में देखलक हल । से ऊ उहाँ से घोड़ा पर रुपेया लदले भाग गेल । बापजान उहईं मुरुछा खाके गिर गेलन। 
@@ -37,3 +42,32 @@ title: "दिलवर जान "
 राजकुमार दिलवार जान के पावे के उपाय पूछलक, तो साधु ओकरा कउवा बना के इन्दरासन में भेज देलन। दिलवर जान के प्राण जे चोली में बस हल कउवा ओके ले-ले भागल आवइत हले। सब परी ओकरा पीछा कयलन तो ऊ घूम के ताकलक आउ ओहिजे जर के भसम हो गेल। एन्ने बड़ी दिन हो गेल तो साधु जी ओकरा खोजे निकललन तो जरल राख देखलन । साधु जी सोंटा से राखवा के पीटलन तो आगे से लड़कावा निकल गेल आउ गोड़-हाथ परे लगल । अबरी साधु जी ओकरा सुग्गा बना के भेजलन। उहाँ जा के ऊ अदमी हो गेल आउ इन्दरासन के नाच-गान में भाग लेवे लगल। ऊ तबला बजावे लगल तो ऊ दिन खूब इन्द्रासन जमल । सब बेसुध हो गेल तो ऊ दिलवर जान के चोली लेके उड़ गेल, आउ साधु जी के कुटी में पहुँच गेल। परियन भी पीछा कयले उहाँ तक आयल, बाकि साधु जी ओकरा मच्छड़ बना देलन, से ऊ न मिलल आउ परी सब लौट गेलन । 
 
 अब दिलवर जान राजकुमार के एगो बँसुरी देलक आउ कहलक कि हमरा जब चाहवऽ तो बँसुरी बजा दी। अब राजकुमार दिलवर जान के लेके घरे चललक, तो साधु जी लोभा गेलन आउ सोंटा देके बँसुरी ले लेलन आउ बजा देलन तो दिलवर जान साधु भीर चल गेलक । तब राजकुमार सोंटा से कहलन कि तूं सोंट के साधु से बँसुरी छीन लावऽ । सोंटा साधु जी के सोटलक आउ बँसुरी छीन लेलक । राजकुमार दिलवर जान, बँसुरी आउ सोंटा लेके दोसरका ससुरार अयलक आउ एके पालकी पर अप्पन दूनो मेहरारू के विदा करा के घरे पहुँचलक । इहाँ ओकर माय-बाप रोइत रोइत अंधा हो गेलन हल, से ओहनी बेटा-पुतोह के आयल देख के आँख खोललन तो ओहनी के लौके लगल । राजकुमार के एगो दोस्त हलक । ऊ एक दिन कहलक कि इयार, तोरा दू-दू गो मेहरारू हवऽ, आउ हमरा एको नऽ है, से एगो हमरा दे दऽ । ऊ एगो मेहरारू ओकरा दे देलक। अब राजकुमार दिलवर जान आठ माय-बाप के साथ खुसी से रह के जीवन बितावे लगलक। 
+
+
+<details>
+<summary>See translation</summary>
+
+After a long penance, a king was blessed with a son. The boy was bright and studious, and when he turned sixteen, he had a dream: "There is a market at Bawan Gali and Tirthan Bazaar, filled with glass. In that market, there is a beautiful sweet seller. She sells sweets at three prices: twenty-five rupees per seer, fifty rupees per seer, and one hundred rupees per seer. If I could eat a whole seer of sweets, it would be wonderful!"
+
+Excited to see the market from his dream, the boy prepared to go, but his father advised him to go and see it himself first. The father set up a similar market a hundred miles away and sat a sweet seller there to educate his son. After this, the boy finally set out to see the market. Loaded with money on horseback, he was accompanied by his father. Upon reaching the artificial market, the boy asked the sweet seller for the price of sweets, and after buying and tasting what he could, he couldn't believe it was the same market he saw in his dream. So, he left the market with his money on horseback. His father collapsed in shock right there.
+
+The boy continued to ride for seven days and nights. One day, he saw an old woman coming from the Bawan Gali marketplace and, upon questioning her, she revealed the way. The boy reached there, and seeing the beautiful sweet seller, he fainted upon recognizing her from his dream. Upon regaining consciousness, he entered the market but had no idea how to find her. So, he rented a house in that market and began searching for the sweet seller.
+
+One day, he found a house made of gold filled with golden items, and he realized it must belong to the sweet seller. He went and inquired about the price of sweets, weighed his seer of sweets, paid one hundred rupees, and then walked away without taking the sweets. This continued for seven days, until the sweet seller sent a letter to his father saying that she's facing difficulties and to come quickly.
+
+Upon receiving the news, the father came and hid in the cupboard. The prince then bought sweets again and, as he was about to leave with his money, the sweet seller caught him and offered him eight seers of sweets or eight hundred rupees! The prince replied that he neither wanted the rupees nor the sweets, but wanted to marry the sweet seller instead. In response, the sweet seller took the prince into a room filled with eleven seers of sweets, assuring him that if he provided the sweets, he could marry her.
+
+The boy took all the rupees he had and began working. He dropped all his money into a well, and his dissatisfaction with his situation made him consider ending his life. That night, Lord Shiva and Goddess Parvati were traveling in that area. Seeing him about to die, they asked him what was wrong, and he replied that he was about to die because he wanted to marry the sweet seller. Lord Shiva blessed him with ash, and the ashes transformed into money, filling his pockets. Hearing this, the sweet seller came to feed him, and his father was informed.
+
+The father set a wedding date and commanded that they would only marry when they could eat one hundred thousand seers of rice, which was quite a daunting task. Upon hearing this, the prince returned to his place. He took known friends along and invited them as guests. That night, considering how they would eat so much rice, he saw some travelers and asked them. One of them introduced himself as 'Kamadega,' claiming he could cross a hundred thousand miles in a single step. Then he met ‘Kamanjar,’ who could see a hundred thousand miles in one glance. Next was ‘Kamtir,’ who could shoot an arrow across a hundred thousand miles, and finally, another traveler named ‘Kamakhoraki,’ who claimed to eat a hundred thousand seers of rice when in need. The prince invited all four to be his guests.
+
+Then, as planned, they prepared for the feast. The sweet seller thought it was time to plot against the prince, but Kamakhoraki still had to eat, so he sat down to meal, dramatically consuming everything - rice, dal, and all the ghee and vegetables that were served. The guests were amazed.
+
+When it was time for the prince to marry, the sweet seller said she wouldn't marry until she received a substantial bride price of ‘Sobran,’ perhaps worth hundreds of thousands. The prince instructed Kamadega to cross over seas and collect necessary items. Kamadega leaped over to fetch a bride price.
+
+In the meantime, enchanted by his presence, the princess and the king had agreed to the marriage quite readily. Meanwhile, the prince was sitting in court disguised as a man when the sweet seller and her companions passed by, unaware of his presence. The prince then ordered some soldiers to capture the sweet seller, keeping them disguised as guards.
+
+Days later, when it was revealed that a servant was indeed the prince’s beloved wife, the plot thickened. Through various trials and tribulations which included transformations and magic, the love story continued where spurned couples, trickery, and supernatural elements influenced the course of their lives.
+
+Eventually, love triumphed as the prince, who had endured numerous challenges to find his loved one, succeeded in marrying the sweet seller. They returned home to great festivities, with the kingdom rejoicing. Despite hardships, marriage brought together both families and they lived happily, enduring life's journey with joy and laughter at their home, united with love and the fortune of their togetherness.
+</details>
