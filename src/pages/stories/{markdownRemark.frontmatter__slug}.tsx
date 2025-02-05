@@ -1,5 +1,6 @@
 import * as React from "react"
 import { graphql } from "gatsby"
+import Header from '../header'
 
 export default function StoryTemplate({
   data, // this prop will be injected by the GraphQL query below.
@@ -7,8 +8,9 @@ export default function StoryTemplate({
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   return (
-    <div>
-      <div className="container mx-auto my-10 px-4">
+    <div className="container m-10">
+      <Header></Header>
+      <div className="mt-10">
         <h2 className="text-2xl font-bold">{frontmatter.title}</h2>
         <h3 className="text-xl">{frontmatter.section}</h3>
         <p><i>Based on {frontmatter.source} by {frontmatter.author}</i>

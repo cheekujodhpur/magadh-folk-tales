@@ -20,6 +20,6 @@ npm run clean
 ```
 
 ### To Do
-write in about page
-pick good font for English
-footnotes
+- pick good font for English
+- merge other stories
+- pick icon, shorten images
