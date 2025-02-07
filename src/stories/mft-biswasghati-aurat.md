@@ -1,12 +1,20 @@
-
 ---
 slug: "/mft-biswasghati-aurat"
 source: "मगध की लोक कथाएं: अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "विविध कथा"
 title: "बिसवासघाती अउरत"
+tags: "kingdom, betrayal, redemption, love, mythology"
 ---
- एगो सहर में भारी राजा हलन। उनकर चार गो बेटा हलन। बड़का लड़का बड़ा बढ़िया हलन, तइयो सहर के चुगला सब राजा भीर उनकर सिकाइत करके, दू बरस ला जंगल में निकलवा देलक। राजकुमार जंगल में जाय लगलन, तो उनकर अउरत 'चन्द्रप्रभा' भी घिघिआ के साथ हो गेलथिन। ऊ कहलकथिन कि 'बिन मरद के अउरत कइसे जीअत! से हमहूँ अपने के साथ जंगले में रहब!’ 
+<blockquote>
+The story centers around a powerful king with four sons, particularly focusing on the eldest son, who is exiled to the forest due to false complaints against him. His wife, Chandraprabha, insists on accompanying him. When a snake bites and kills her, the prince mourns deeply, prompting Lord Shiva to revive her in exchange for half of the prince's lifespan, with strict instructions not to disclose this secret.
+
+After returning to the city, Chandraprabha, tempted by a handsome stranger, betrays her husband by pushing him into a well to pursue a relationship with the stranger. The prince survives and eventually works as a servant in the very city where his wife performs. When their paths cross again, Chandraprabha attempts to have her disguised husband killed, believing he would threaten her new life.
+
+However, the prince reveals the truth to the king, explaining the betrayal. In a twist of fate, at the moment of her confession, Chandraprabha falls dead, illustrating the consequences of her actions. The king then recognizes the prince’s integrity and bestows upon him both a reconciliation and a marriage to his daughter. The story concludes with the prince reclaiming his rightful place and finding happiness with his queen.
+</blockquote>
+
+एगो सहर में भारी राजा हलन। उनकर चार गो बेटा हलन। बड़का लड़का बड़ा बढ़िया हलन, तइयो सहर के चुगला सब राजा भीर उनकर सिकाइत करके, दू बरस ला जंगल में निकलवा देलक। राजकुमार जंगल में जाय लगलन, तो उनकर अउरत 'चन्द्रप्रभा' भी घिघिआ के साथ हो गेलथिन। ऊ कहलकथिन कि 'बिन मरद के अउरत कइसे जीअत! से हमहूँ अपने के साथ जंगले में रहब!’ 
 
 जंगल में जा के थकल-पिआसल राजा-रानी, एगो बड़का पेड़ तर बइठलन तो उनका नीन आ गेल। तलगुन पेड़ पर से एगो साँप निकल के रानी चन्द्रप्रभा के काट लेलक। ऊ छटपटा के मर गेलन। राजा अप्पन रानी के मरल देख के जार-बेजार रोवे लगलन। उनकर रोआई सुन के जंगल में हहाकार मच गेल। इहे घड़ी महादेजी, पारवती जी के साथे ओनही घूमे निकललन हल। राजा के रोइत सुन के पारवती जी जिद्द रोप देलन, कि ई दुखिया के दुख हरन करीं। पारवती जी के हठ कैला पर महादे(व) जी राजा से कहलन कि 'तोरा मेहरारू तबे जीथुन जब, तू अप्पन उमर में से इनका आधा दे देवेऽ।' राजा तइयार हो गेलन आउ महादेजी के सामने अप्पन उमर के आधा संकल्प कर के मेहरारू के दे देलन! से चन्द्रप्रभा उमर पा के जी उठलन। एने महादेजी तुरते उपह गेलन, आउ कहते गेलन कि 'ई बात तू केकरो से मत कहिहँऽ, अप्पन मेहरारू से भी नऽ। ई तोरा समय पर काम देतवऽ !' 
 
@@ -23,3 +31,25 @@ title: "बिसवासघाती अउरत"
 राजकुमार कहलन कि 'ए राजा, हम एकर कोई न हीअऽ, तो ई हम्मर देल चीज लौटा दे!' चन्द्रप्रभा कहलक कि 'हम लौटा देब!' तुरते पानी मंगावल गेल। चन्द्रप्रभा अप्पन हाथ में पानी ले के संकल्प कैलक, आउ पानी राजकुमार के हाथ में गिरा देलक। पानी गिरते चन्द्रप्रभा ओहिजे गिर के मर गेल। सब लोग ई रहस्य जाने ला उताहुल हलन। राजा सब बात सच-सच कहे कहलन। राजकुमार महादे(व)-पारवती के सब हाल कह सुनौलन। ऊ कहलक कि महादे(व) जी कहलन हल कि ई बात केकरो से मत कहिहँऽ, अप्पन मेहरारू से भी नऽ, एक रोज काम देतबऽ ! आखिर भगवान के बात सच हो गेल! 
 
 राजा जी ऊ साँईं के चन्द्रप्रभा के साथे जिन्दे जमीन में गड़वा देलन, आउ कहलन कि सबे लोग अप्पन मेहरारू से होसियार रहीं नऽ तऽ अइसने हाल हो सकऽ हे। अब राजा राजकुमार के व्यवहार आउ चरित्र से बड़ा खुस भेलन, आउ अप्पन लड़की के सादी उनके साथ कर देलन। फिनो राजकुमार अप्पन रानी के साथे खुसी से रह के राज-पाट चलावे लगलन। 
+
+<details>
+<summary>See translation</summary>
+
+In a city, there was a powerful king. He had four sons. The eldest son was very capable, yet the informants of the city complained to the king, causing him to exile the prince to the forest for two years. As the prince was heading to the forest, his wife 'Chandraprabha' also insisted on going with him, saying, "How can a woman live without her husband? So I will stay in the forest with you!"
+
+After reaching the forest, the weary king and queen sat under a large tree and soon fell asleep. A snake descending from the tree bit Queen Chandraprabha, and she writhed and died. Upon seeing his wife dead, the king began to cry uncontrollably. Hearing his cries, there was a commotion in the forest. At that moment, Lord Shiva, accompanied by Parvati, happened to be wandering around. Upon hearing the king's lamenting, Parvati insisted that Lord Shiva should alleviate this poor man's sorrow. After much insistence, Lord Shiva said to the king, "Your wife will live again if you are willing to give her half of your lifespan." The king agreed, and before Lord Shiva, he vowed to give half of his life to his wife! Thus, Chandraprabha revived and came back to life. Immediately, Lord Shiva warned him, saying, "Do not tell this to anyone, not even your wife. This will work for you in time!"
+
+When the prince felt thirsty, he went to fetch water from a well. At the same time, Queen Chandraprabha spotted a handsome man and was captivated by his beauty. She asked him, "You seem to be living very happily." Chandraprabha stated that she was ready to live with him, but only if her husband were out of the picture. The man replied, "That water has been drawn, go and throw your husband into the well." The queen immediately agreed and ran to push her husband into the well. Then, Chandraprabha started enjoying herself with the stranger and began learning dancing and singing.
+
+Meanwhile, a merchant's servant had drawn water from the well, and the king held him accountable. The servant said, "Brother, I have fallen into the well due to misfortune; please pull me out!" The king rescued him and took him to his merchant master. Eventually, all three stayed together. After a few days, the merchant returned to his city, while the king remained in that city. A wealthy businessman employed the king as his servant. Thus, the king started living and earning in that city.
+
+Queen Chandraprabha lived in the same city with the stranger and danced and sang. One day, the king summoned Chandraprabha to perform at his court. All the wealthy merchants gathered there. The king himself watched the dance, disguised as a servant. Everyone was delighted by Chandraprabha's dance. The king, pleased, took off his necklace and gave it to her. Soon, everyone started giving her gifts, and even the disguised prince offered his ring.
+
+Seeing this, Chandraprabha thought, "I pushed him into the well, yet he is alive. Now he won't spare me." So she planned to make the king happy in order to have him killed. Therefore, Chandraprabha danced with all her heart. The king, pleased, said, "Whatever you wish, ask it!" Chandraprabha replied, "Since you are pleased, let me have the servant killed." The king immediately ordered the execution of the servant. Chandraprabha took the king's hand and handed it over to the executioner.
+
+Seeing this, the wealthy merchants wondered what was happening and began to ask the servant disguised as a king about the whole situation. The servant said, "I will die, but if you can get me two things from my king, then perhaps I can find a way to survive!" The merchants approached the king and requested to hear the two points from the prince (servant). The king thought it was only fair that justice should be served. So, he prepared to listen to the servant (prince). He said, "O King, this woman was initially my wife. By our father's command, I went to the forest, and while fetching water from a well, she pushed me into it, and now she is here with this man." Upon hearing this, Chandraprabha exclaimed, "This murderer belongs to me! He is my servant!"
+
+The prince said, "Oh King, I have no ill will towards her. Please return what she gave to me!" Chandraprabha said, "I will return it!" Water was immediately requested. Chandraprabha took water in her hands, made a vow, and poured it into the prince's hands. As the water fell, Chandraprabha collapsed right there and died. Everyone was eager to understand this mystery. The king insisted on speaking the truth about everything. The prince narrated all the events to Lord Shiva and Parvati. He mentioned that Lord Shiva had said not to reveal this to anyone, not even to his wife, and one day it would serve him well! Ultimately, the word of God proved true!
+
+The king ordered that the man (the servant) be buried with Chandraprabha in the ground, stating that everyone should be cautious with their wives, or a similar fate might befall them. The king was now pleased with the prince's behavior and character and gave his daughter in marriage to him. Eventually, the prince and his queen lived happily and ruled over the kingdom.
+</details>

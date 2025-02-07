@@ -8,7 +8,7 @@ export default function StoryTemplate({
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   return (
-    <div className="container m-10">
+    <div className="container p-10">
       <Header></Header>
       <div className="mt-10">
         <h2 className="text-2xl font-bold">{frontmatter.title}</h2>

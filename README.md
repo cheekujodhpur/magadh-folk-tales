@@ -18,8 +18,3 @@ For major changes to pages, run
 ```
 npm run clean
 ```
-
-### To Do
-- pick good font for English
-- merge other stories
-- pick icon, shorten images
