@@ -1,5 +1,5 @@
 ---
-slug: "/mft-vipat-rajkumar"
+slug: "mft-vipat-rajkumar"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "विविध कथा"

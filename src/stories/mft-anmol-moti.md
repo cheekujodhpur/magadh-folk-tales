@@ -1,5 +1,5 @@
 ---
-slug: "/mft-anmol-moti"
+slug: "mft-anmol-moti"
 source: "मगध की लोक कथाएं: अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "विविध कथा"

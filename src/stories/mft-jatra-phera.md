@@ -1,5 +1,5 @@
 ---
-slug: "/mft-jatra-phera"
+slug: "mft-jatra-phera"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "विविध कथा"

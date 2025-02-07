@@ -1,5 +1,5 @@
 ---
-slug: "/mft-rajkumari-gorakhiya"
+slug: "mft-rajkumari-gorakhiya"
 source: "मगध की लोक कथाएं: अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "विविध कथा"

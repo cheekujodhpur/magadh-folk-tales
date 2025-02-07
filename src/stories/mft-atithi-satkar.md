@@ -1,5 +1,5 @@
 ---
-slug: "/mft-atithi-satkar"
+slug: "mft-atithi-satkar"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "विविध कथा"

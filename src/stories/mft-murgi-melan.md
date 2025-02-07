@@ -1,5 +1,5 @@
 ---
-slug: "/mft-murgi-melan"
+slug: "mft-murgi-melan"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "विविध कथा"
