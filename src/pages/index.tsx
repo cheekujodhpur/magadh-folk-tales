@@ -60,9 +60,9 @@ const IndexPage = () => {
   <i>Anil Kumar Singh</i>
 </p>
 <p className="text-sm">
-  <i>Website: Kumar Ayush</i><br />
-  <i>Translation and Editing: Sanjana Sabu</i><br />
-  <i>Image Credits: Anil Kumar Singh, Usha Sinha</i>
+  <i>Website: Kumar Ayush (cheekujodhpur [at] ji mail)</i><br />
+  <i>Translation (AI): Sanjana Sabu (sanjana.sabu [at] iiml org)</i><br />
+  <i>Image Credits: Anil Kumar Singh (anilsingh.patliputra [at] ji mail), Usha Sinha</i>
 </p>
     </div>
     </div>
