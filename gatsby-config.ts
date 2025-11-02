@@ -31,10 +31,10 @@ const config: GatsbyConfig = {
   }, {
     resolve: 'gatsby-source-filesystem',
     options: {
-      "name": "stories",
-      "path": "./src/stories"
+      "name": "markdown",
+      "path": "./src/markdown"
     },
-    __key: "stories"
+    __key: "markdown"
   }, {
     "resolve": `gatsby-transformer-remark`,
     "options": {

@@ -18,3 +18,136 @@ blockquote {
   padding: 1em 10px .1em 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
+
+
+.editor-page {
+  max-width: 900px;
+  margin: 24px auto;
+  padding: 10px;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  color: #111827;
+}
+
+.editor-title {
+  margin-bottom: 16px;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.editor-form {
+  display: block;
+}
+
+/* Group each label + control */
+.form-row {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin-bottom: 16px; /* match spacing for other form groups */
+}
+
+/* Each form-group inside a .form-row should share available space */
+.form-row .form-group {
+  flex: 1 1 0;
+  margin-bottom: 0; /* spacing handled by .form-row */
+}
+
+/* Label appears above input */
+.form-label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 0.95rem;
+  color: #374151;
+}
+
+/* Inputs and file input */
+.form-input,
+.form-file {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 12px;
+  border: 1px solid #d1d5db; /* neutral gray border */
+  border-radius: 6px;
+  background: #fff;
+  color: #111827;
+  font-size: 1rem;
+  transition: border-color 0.12s ease, box-shadow 0.12s ease;
+}
+
+.form-file {
+  padding: 6px 8px;
+}
+
+/* Focus state */
+.form-input:focus,
+.form-textarea:focus,
+.form-file:focus {
+  outline: none;
+  border-color: #2563eb; /* blue */
+  box-shadow: 0 0 0 3px rgba(37,99,235,0.12);
+}
+
+/* Large body textarea - main part of the form */
+.form-textarea {
+  width: 100%;
+  min-height: 420px;   /* large size for body */
+  max-height: 900px;
+  resize: vertical;
+  padding: 12px;
+  border: 1px solid #d1d5db;
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.5;
+  background: #fff;
+  color: #111827;
+}
+
+/* Actions */
+.form-actions {
+  margin-top: 12px;
+}
+
+.submit-btn {
+  padding: 10px 16px;
+  background: #2563eb;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-weight: 600;
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(16,24,40,0.05);
+}
+
+.submit-btn:hover {
+  background: #1e4ed8;
+}
+
+/* Status area */
+.status {
+  margin-top: 14px;
+  padding: 10px;
+  background: #f8fafc;
+  border: 1px solid #e6eef8;
+  border-radius: 6px;
+  color: #0f172a;
+}
+
+/* Small screens adjustments */
+@media (max-width: 640px) {
+  .editor-page {
+    padding: 12px;
+    margin: 12px;
+  }
+  .form-textarea {
+    min-height: 320px;
+  }
+  .form-row {
+    flex-direction: column;
+  }
+  .form-row .form-group {
+    margin-bottom: 16px;
+  }
+}
