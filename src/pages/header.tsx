@@ -1,13 +1,14 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import { StaticImage } from "gatsby-plugin-image"
 
 /**
  * Keep a single source of truth for nav items so other pages (editor) can reuse them.
  */
 export const NAV_ITEMS = [
-  { to: "/stories/", label: "Stories" },
-  { to: "/gallery/", label: "Gallery" },
-  { to: "/folksong/", label: "Folksong" },
+  { to: "/stories/", label: "लोककथा" },
+  { to: "/gallery/", label: "दीर्घा" },
+  { to: "/folksong/", label: "लोकगीत" },
   { to: "/sanskargeet/", label: "संस्कार-गीत" },
   { to: "/kahavat/", label: "कहावत" },
   { to: "/partuk/", label: "परतूक" },
@@ -15,16 +16,20 @@ export const NAV_ITEMS = [
   { to: "/daskootak/", label: "दसकूटक" },
   { to: "/muhabare/", label: "मुहावरे" },
   { to: "/vyakaran/", label: "व्याकरण" },
-  { to: "/shabdkosh/", label: "Shabdkosh" },
-  { to: "/ghaghbhaddri/", label: "Ghagh-Bhaddri" },
-  { to: "/literature/", label: "Literature" },
-  { to: "/others/", label: "Others" },
+  { to: "/shabdkosh/", label: "शब्‍दकोश" },
+  { to: "/ghaghbhaddri/", label: "घाघ-भड्डरी" },
+  { to: "/others/", label: "विविध" },
 ]
 
 const Header = () => {
   return (
     <nav className="bg-white py-4">
       <div className="container mx-auto px-4">
+        {/* Banner Image */}
+        <div className="mb-4">
+          <StaticImage src="../images/neelgaay.jpg" alt="banner" className="w-full h-auto rounded-md object-cover mb-4" />
+        </div>
+
         {/* Title on its own line */}
         <div className="mb-3">
           <Link className="font-semibold text-xl tracking-tight" to="/">Magadh Folk Tales</Link>
