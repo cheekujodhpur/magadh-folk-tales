@@ -1,5 +1,6 @@
 import React, { useState } from "react"
 import Header, { NAV_ITEMS } from "./header"
+import { Link } from "gatsby"
 
 export default function EditorPage() {
   // derive default section from the first meaningful nav item (skip "/" home)
@@ -94,6 +95,9 @@ export default function EditorPage() {
       <div className="container mx-auto px-4 mt-6">
         <h1 className="editor-title">Content Editor</h1>
 
+        <Link to="https://forms.gle/sNQYNWGabwrZF6KF9" >Go to Form link</Link>
+
+        <div class="hidden">
         <form className="editor-form" onSubmit={handleSubmit}>
           <div className="form-row">
           <div className="form-group">
@@ -189,6 +193,7 @@ export default function EditorPage() {
             </button>
           </div>
         </form>
+        </div>
 
         {status && (
           <div className="status" role="status">

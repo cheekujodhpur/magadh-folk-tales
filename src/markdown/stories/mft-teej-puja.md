@@ -1,5 +1,5 @@
 ---
-slug: "/mft-teej-puja"
+slug: "mft-teej-puja"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "धर्म कथा"

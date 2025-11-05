@@ -24,9 +24,9 @@ export default function FolderIndexPage({ data, location, params }) {
             }, {});
 
         return (
-        <div className="container p-10">
+        <div className="container px-10 py-4">
         <Header></Header>
-        <div className="grid mt-10 gap-2 md:grid-cols-4 md:gap-x-12">
+        <div className="px-4 grid gap-2 md:grid-cols-4 md:gap-x-12">
             {
             Object.entries(sections).map(([sectionName, posts]) => 
             
@@ -57,7 +57,7 @@ export default function FolderIndexPage({ data, location, params }) {
             <div className="mt-10">
                 <h3 className="font-bold">{folder}</h3>
             </div>
-            <div className="grid mt-10 gap-2 md:grid-cols-4 md:gap-x-12">
+            <div className="px-4 grid mt-10 gap-2 md:grid-cols-4 md:gap-x-12">
                 <ul>
                     {posts.map((node) => (
                     <li key={node.id} className="mb-4">
@@ -82,16 +82,18 @@ export default function FolderIndexPage({ data, location, params }) {
             <div className="mt-10">
                 <h2 className="font-bold">{folder}</h2>
             </div>
-                
-            <ul>
-                {posts.map((node) => (
-                <li key={node.id}>
-                    <Link to={`/${node.parent.relativeDirectory}/${node.frontmatter.slug}/`}>
-                    {node.frontmatter.title}
-                    </Link>
-                </li>
-                ))}
-            </ul>
+
+            <div className="px-4 grid mt-10 gap-2 md:grid-cols-4 md:gap-x-12">    
+              <ul>
+                  {posts.map((node) => (
+                  <li key={node.id}>
+                      <Link to={`/${node.parent.relativeDirectory}/${node.frontmatter.slug}/`}>
+                      {node.frontmatter.title}
+                      </Link>
+                  </li>
+                  ))}
+              </ul>
+            </div>
             </div>
         )
     }
@@ -124,30 +126,3 @@ export const query = graphql`
       }
     }
   }`
-
- /*
-  export const query = graphql`
-  query FolderIndexQuery ($parent__relativeDirectory: String!) {
-    allMarkdownRemark(
-      filter: {fileAbsolutePath: {regex: $parent__relativeDirectory}}
-      sort: { frontmatter: { title: ASC } }
-    ) {
-      group(field: {frontmatter: {section: SELECT}}) {
-      fieldValue
-      edges {
-        node {
-        id
-        frontmatter {
-          title
-          slug
-        }
-        parent {
-          ... on File {
-            relativeDirectory
-          }
-        }
-      }
-      }
-    }
-    }
-  }`*/

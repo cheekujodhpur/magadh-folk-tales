@@ -1,5 +1,5 @@
 ---
-slug: "/mft-raaja-mantri"
+slug: "mft-raaja-mantri"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "धर्म कथा"

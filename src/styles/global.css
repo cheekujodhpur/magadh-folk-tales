@@ -19,6 +19,13 @@ blockquote {
   quotes: "\201C""\201D""\2018""\2019";
 }
 
+.banner {
+  width: full;              /* 100% - Full width of the page */
+  height: 25vh;             /* 20% of the viewport height */
+  display: flex;            /* Allows easy centering of content */
+  align-items: center;      /* Vertically center content */
+  justify-content: center;  /* Horizontally center content */
+}
 
 .editor-page {
   max-width: 900px;

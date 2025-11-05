@@ -8,7 +8,7 @@ const Gallery = () => {
   return (
     <div className="container p-10">
       <Header></Header>
-      <div className="grid mt-10 gap-2 md:grid-cols-4 md:gap-12">
+      <div className="grid px-4 mt-10 gap-2 md:grid-cols-4 md:gap-12">
         <StaticImage src="../images/field.jpg" alt="field" />
         <StaticImage src="../images/bird.jpg" alt="bird" />
         <StaticImage src="../images/grinder.jpg" alt="grinder" />

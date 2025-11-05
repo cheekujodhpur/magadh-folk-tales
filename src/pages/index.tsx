@@ -5,10 +5,10 @@ import Header from './header'
 
 const IndexPage = () => {
   return (
-    <div className="container p-10">
+    <div className="container px-10 py-4">
       <Header></Header>
-      <div className="mt-10">
-    <div className="prose max-w-none">
+      <div className="mt-2 p-4">
+      <div className="prose max-w-none">
       <p>
       सा मागधी मूलभाषा नराया आदिकप्पिका ।<br/>
       ब्रह्मण चस्सुतालापा सम्बुद्ध चापि भासिरे ॥ 
@@ -64,9 +64,8 @@ const IndexPage = () => {
 
     <div className="mt-10 container p-4 border-t border-gray-300">
       <p className="text-sm">
-        <i>Website: Kumar Ayush (cheekujodhpur [at] ji mail)</i><br />
-        <i>Translation (AI): Sanjana Sabu (sanjana.sabu [at] iiml org)</i><br />
-        <i>Image Credits: Anil Kumar Singh (anilsingh.patliputra [at] ji mail), Usha Sinha</i>
+        <i>Website: Sanjana Sabu (sanjana.sabu [at] iiml org)</i><br />
+        <i>Project by: Anil Kumar Singh (anilsingh.patliputra [at] ji mail)</i>
       </p>
     </div>
 

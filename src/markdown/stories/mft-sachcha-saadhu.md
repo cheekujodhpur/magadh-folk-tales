@@ -1,5 +1,5 @@
 ---
-slug: "/mft-sachcha-saadhu"
+slug: "mft-sachcha-saadhu"
 source: "मगध की लोक कथाएं : अनुशाीलन एवं संचयन"
 author: "डॉ. राम प्रसाद सिंह"
 section: "धर्म कथा"
